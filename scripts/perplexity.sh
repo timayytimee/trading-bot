@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# Research wrapper. All market research goes through Perplexity.
-# Exits with code 3 if PERPLEXITY_API_KEY is unset so callers can fall back to WebSearch.
+# Research wrapper. All market research goes through Claude.
+# Exits with code 3 if ANTHROPIC_API_KEY is unset so callers can fall back to WebSearch.
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -18,26 +18,32 @@ if [[ -z "$query" ]]; then
   exit 1
 fi
 
-if [[ -z "${PERPLEXITY_API_KEY:-}" ]]; then
-  echo "WARNING: PERPLEXITY_API_KEY not set. Fall back to WebSearch." >&2
+API_KEY="${ANTHROPIC_API_KEY:-${PERPLEXITY_API_KEY:-}}"
+if [[ -z "$API_KEY" ]]; then
+  echo "WARNING: ANTHROPIC_API_KEY or PERPLEXITY_API_KEY not set. Fall back to WebSearch." >&2
   exit 3
 fi
-
-MODEL="${PERPLEXITY_MODEL:-sonar}"
 
 payload="$(python3 -c "
 import json, sys
 print(json.dumps({
-  'model': sys.argv[1],
+  'model': 'claude-opus-4-1',
+  'max_tokens': 1024,
   'messages': [
-    {'role': 'system', 'content': 'You are a precise financial research assistant. Cite every claim. Be concise.'},
-    {'role': 'user', 'content': sys.argv[2]},
+    {'role': 'user', 'content': sys.argv[1]},
   ],
+  'system': 'You are a precise financial research assistant. Provide accurate, concise market research. Always cite specific data points when available.',
 }))
-" "$MODEL" "$query")"
+" "$query")"
 
-curl -fsS https://api.perplexity.ai/chat/completions \
-  -H "Authorization: Bearer $PERPLEXITY_API_KEY" \
+curl -fsS https://api.anthropic.com/v1/messages \
+  -H "x-api-key: $API_KEY" \
+  -H "anthropic-version: 2023-06-01" \
   -H "Content-Type: application/json" \
-  -d "$payload"
+  -d "$payload" | python3 -c "
+import json, sys
+resp = json.load(sys.stdin)
+if 'content' in resp and resp['content']:
+  print(resp['content'][0]['text'])
+"
 echo
