@@ -7,12 +7,13 @@ DATE=$(date +%Y-%m-%d).
 IMPORTANT — ENVIRONMENT VARIABLES:
 - Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
   ALPACA_SECRET_KEY, ALPACA_ENDPOINT, ALPACA_DATA_ENDPOINT,
-  ANTHROPIC_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
+  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
+- Market research uses the native WebSearch tool — no API key required.
 - There is NO .env file in this repo and you MUST NOT create, write, or source one.
 - If a wrapper prints "not set in environment" -> STOP, send one Telegram alert naming
   the missing var, then exit.
 - Verify env vars BEFORE any wrapper call:
-  for v in ALPACA_API_KEY ALPACA_SECRET_KEY ANTHROPIC_API_KEY TELEGRAM_BOT_TOKEN TELEGRAM_CHAT_ID; do
+  for v in ALPACA_API_KEY ALPACA_SECRET_KEY TELEGRAM_BOT_TOKEN TELEGRAM_CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
@@ -30,8 +31,7 @@ STEP 2 — Pull live account state:
   bash scripts/alpaca.sh positions
   bash scripts/alpaca.sh orders
 
-STEP 3 — Research market context. Run for each query:
-  bash scripts/research.sh "<query>"
+STEP 3 — Research market context. Use the WebSearch tool for each query:
 Queries:
 - "WTI and Brent crude oil price right now"
 - "S&P 500 futures premarket today"
@@ -41,7 +41,6 @@ Queries:
 - "Economic calendar today CPI PPI FOMC jobs data"
 - "S&P 500 sector momentum last 30 days"
 - News on each currently-held ticker
-If research.sh exits 3, fall back to native WebSearch and note it in the log.
 
 STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 - Account snapshot (equity, cash, buying power, daytrade count)

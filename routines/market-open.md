@@ -7,7 +7,8 @@ DATE=$(date +%Y-%m-%d).
 IMPORTANT — ENVIRONMENT VARIABLES:
 - Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
   ALPACA_SECRET_KEY, ALPACA_ENDPOINT, ALPACA_DATA_ENDPOINT,
-  ANTHROPIC_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
+  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
+- Market research (if run inline) uses the native WebSearch tool — no API key required.
 - There is NO .env file in this repo and you MUST NOT create, write, or source one.
 - Verify env vars before any wrapper call:
   for v in ALPACA_API_KEY ALPACA_SECRET_KEY TELEGRAM_BOT_TOKEN TELEGRAM_CHAT_ID; do
