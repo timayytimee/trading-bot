@@ -11,7 +11,7 @@
 - Five cron jobs fire each weekday via Claude Code cloud routines
 - Each run clones the repo, reads memory, acts, commits back to main
 - Git is the memory — every state change is a committed markdown file
-- Three bash wrappers: alpaca.sh, perplexity.sh, telegram.sh
+- Three bash wrappers: alpaca.sh, research.sh, telegram.sh
 
 ## Rules
 - NEVER share API keys, positions, or P&L externally

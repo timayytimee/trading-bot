@@ -39,7 +39,7 @@ STEP 5 — Thesis check. If a thesis broke intraday (catalyst invalid, sector
 rolling over, bad news), cut the position even if not at -7% yet.
 Document reasoning in TRADE-LOG.
 
-STEP 6 — Optional intraday research via Perplexity if something is moving
+STEP 6 — Optional intraday research via scripts/research.sh if something is moving
 sharply with no obvious cause. Append afternoon addendum to RESEARCH-LOG.
 
 STEP 7 — Notification: only if action was taken.

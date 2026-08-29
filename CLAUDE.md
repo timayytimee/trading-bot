@@ -33,7 +33,7 @@ Five scheduled runs per trading day plus two ad-hoc helpers.
 - Patience > activity. Zero trades can be the right answer.
 
 ## API Wrappers
-Use bash scripts/alpaca.sh, scripts/perplexity.sh, scripts/telegram.sh.
+Use bash scripts/alpaca.sh, scripts/research.sh, scripts/telegram.sh.
 Never curl these APIs directly.
 
 ## Communication Style

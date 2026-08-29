@@ -6,11 +6,11 @@ DATE=$(date +%Y-%m-%d).
 
 IMPORTANT — ENVIRONMENT VARIABLES:
 - Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
-  ALPACA_SECRET_KEY, PERPLEXITY_API_KEY, PERPLEXITY_MODEL,
+  ALPACA_SECRET_KEY, ANTHROPIC_API_KEY,
   TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
 - There is NO .env file in this repo and you MUST NOT create, write, or source one.
 - Verify env vars before any wrapper call:
-  for v in ALPACA_API_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY TELEGRAM_BOT_TOKEN TELEGRAM_CHAT_ID; do
+  for v in ALPACA_API_KEY ALPACA_SECRET_KEY ANTHROPIC_API_KEY TELEGRAM_BOT_TOKEN TELEGRAM_CHAT_ID; do
     [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
   done
 
@@ -32,7 +32,7 @@ STEP 3 — Compute the week's metrics:
 - Ending portfolio (today's equity)
 - Week return ($ and %)
 - S&P 500 week return:
-    bash scripts/perplexity.sh "S&P 500 weekly performance week ending $DATE"
+    bash scripts/research.sh "S&P 500 weekly performance week ending $DATE"
 - Trades taken (W/L/open counts)
 - Win rate (closed trades only)
 - Best trade, worst trade
