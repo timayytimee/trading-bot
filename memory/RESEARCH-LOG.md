@@ -73,3 +73,46 @@ TRADE or HOLD (default HOLD if no clear edge)
 
 ### Decision
 HOLD — Market closed (Saturday). Alpaca API broken (401). No positions to manage. Research captures leading sectors for Monday evaluation. Fix API auth before market open Monday.
+
+---
+
+## 2026-08-29 — Pre-market Research (Run 2, updated)
+
+### Account
+- **⚠️ CRITICAL: Alpaca API 401 "unauthorized"** — ALPACA_ENDPOINT now correctly set to `https://api.alpaca.markets/v2`; URL is fine. The credentials themselves (ALPACA_API_KEY / ALPACA_SECRET_KEY) are invalid or expired.
+- Equity: UNKNOWN — cannot query until credentials fixed
+- Cash: UNKNOWN
+- Buying power: UNKNOWN
+- Daytrade count: UNKNOWN
+- No positions per TRADE-LOG (Day 0 baseline)
+
+### Market Context
+- **Saturday Aug 29 + Labor Day Mon Sep 1 = next trading day is TUESDAY Sep 2**
+- WTI: $82.82/bbl (Fri close, -0.86%); Brent: $88.29/bbl (-0.26%)
+- S&P 500 futures: ~7,745–7,753 (weekend; positive after NVDA blowout earnings)
+- VIX: 14.57 (range 14.13–14.84 day); multi-year lows; low fear
+- Earnings before open: NIO (Tue Sep 2 pre-mkt); Macy's + Dollar Tree (Wed Sep 3 pre-mkt)
+- Key earnings week: MDT, PANW, DELL (Tue after close); AVGO, SNOW, HPE (Thu after close)
+- Economic calendar:
+  - Tue Sep 2: ISM Manufacturing PMI, JOLTS, construction spending
+  - Wed Sep 3: ADP nonfarm, durable goods, Fed Beige Book
+  - Thu Sep 4: ISM Services PMI
+  - Fri Sep 5: NFP jobs report (8:30 AM ET) — high impact
+- Sector momentum (leading/cycle): XLE #1 in August (+1.76%); XLV (+1.60%); XLP, XLI, XLB also leading quadrant YTD
+- Sector momentum (lagging): XLK (-2.47% in August, worst sector); XLC, XLY still weak
+
+### Trade Ideas (for Tue Sep 2 open)
+1. **XOM or CVX (Energy)** — XLE #1 sector August + YTD; WTI ~$83 stable; Iran geopolitical premium; NFP Fri could boost energy if economy stays hot. Entry: pullback near 20-DMA; stop: -8%; target: +16%; R:R 2:1. Catalyst: sector momentum + macro bid.
+2. **MDT (Medtronic)** — Reports Tue Sep 2 before open; healthcare/medtech defensive in risk-off; XLV strong in August. Only viable if earnings beat + guidance raise and stock gaps up with volume. Entry: pre-market gap breakout; stop: -7%; target: +14%; R:R 2:1. Catalyst: earnings + sector strength.
+3. **PANW (Palo Alto Networks)** — Reports Tue after close; cybersecurity re-rating ongoing; if earnings strong, could gap Wed open. Entry: Wed open consolidation; stop: -8%; target: +16%; R:R 2:1. Catalyst: earnings beat + AI-security narrative.
+
+### Risk Factors
+- **Alpaca API credentials broken** — zero trades possible until fixed (BLOCKER)
+- NFP Fri Sep 5 = major volatility event; caution entering positions Mon–Thu
+- ISM Manufacturing Tue — below 50 = contraction signal; could hit industrials
+- VIX at lows = crowded long; any surprise = sharp vol spike
+- Labor Day thin liquidity could cause erratic moves Tue Sep 2 open
+- XLK lagging; tech drag could pressure broader market if AVGO/SNOW disappoint Thu
+
+### Decision
+HOLD — Cannot trade (API credentials broken). Next actionable session: Tuesday Sep 2. Watchlist: XOM/CVX for energy entry; monitor MDT and PANW earnings Tue. Fix Alpaca credentials is prerequisite for any action.
