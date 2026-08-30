@@ -79,12 +79,12 @@ HOLD — Market closed (Saturday). Alpaca API broken (401). No positions to mana
 ## 2026-08-29 — Pre-market Research (Run 2, updated)
 
 ### Account
-- **⚠️ CRITICAL: Alpaca API 401 "unauthorized"** — ALPACA_ENDPOINT now correctly set to `https://api.alpaca.markets/v2`; URL is fine. The credentials themselves (ALPACA_API_KEY / ALPACA_SECRET_KEY) are invalid or expired.
-- Equity: UNKNOWN — cannot query until credentials fixed
-- Cash: UNKNOWN
-- Buying power: UNKNOWN
-- Daytrade count: UNKNOWN
-- No positions per TRADE-LOG (Day 0 baseline)
+- **✅ Alpaca API auth fixed** — credentials updated, API responding
+- Equity: $772.02
+- Cash: $772.02 (100% deployed in cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (assumed; API confirmed active, no open positions or orders)
+- Note: Account balance is $772, not ~$2,000. Max position size = $193 (25% of equity).
 
 ### Market Context
 - **Saturday Aug 29 + Labor Day Mon Sep 1 = next trading day is TUESDAY Sep 2**
