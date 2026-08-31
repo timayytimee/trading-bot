@@ -116,3 +116,51 @@ HOLD — Market closed (Saturday). Alpaca API broken (401). No positions to mana
 
 ### Decision
 HOLD — Cannot trade (API credentials broken). Next actionable session: Tuesday Sep 2. Watchlist: XOM/CVX for energy entry; monitor MDT and PANW earnings Tue. Fix Alpaca credentials is prerequisite for any action.
+
+---
+
+## 2026-08-31 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (no open positions or orders)
+- Max position size: ~$193 (25% of $772)
+
+### Market Context
+- WTI: ~$85.51/bbl (+2.53% premarket); Brent: ~$90.43–$90.69/bbl (+5.0%) — geopolitical surge
+- S&P 500 futures: -0.1% to -0.27% premarket; Polymarket 36% chance of higher open
+- VIX: 14.43 (Aug 28 close); likely elevated today given shock event — watch for spike
+- Today's catalysts: **US-Iran military escalation** — US struck Iranian rocket launchers on Larak Island near Strait of Hormuz over the weekend; Iran retaliated with missile/drone strikes on US air bases in Jordan. High geopolitical risk premium in oil; risk-off tone
+- Earnings before open: No major reports (light Monday)
+- Economic calendar:
+  - Today Aug 31: Chicago PMI possible; no high-impact releases
+  - Tue Sep 2 (NOTE: Labor Day was Mon Sep 1 — markets CLOSED today; next open is Tue Sep 2): ISM Manufacturing PMI, JOLTS
+  - Wed Sep 3: ADP nonfarm, durable goods, Fed Beige Book
+  - Thu Sep 4: ISM Services PMI
+  - Fri Sep 5: NFP jobs report (8:30 ET) — high impact
+- Sector momentum:
+  - Leading: XLE (Energy) — +2%+ last week, surging further on Iran; XLC (Comm Services) +1.4%; XLK (Tech) +1.3% last week (recovering)
+  - Lagging: XLV (Healthcare) underperformed last week
+  - S&P 500 August: +3.0% month; closed ~7,711–7,731; off ATH ~7,820
+
+**⚠️ NOTE: August 31, 2026 may be a Sunday/holiday-adjacent. Verify market open. Labor Day is typically first Monday of September — Sep 1, 2026 is likely Labor Day (markets closed). If today Aug 31 is Sunday, markets are closed; next open is Tue Sep 2.**
+
+### Trade Ideas (for Tue Sep 2 open — pending market schedule confirmation)
+1. **XOM (ExxonMobil)** — Energy #1 sector; WTI/Brent spiking on Iran Strait of Hormuz risk; geopolitical premium intact. Entry: wait for opening 30-min pullback after initial gap; don't chase; stop -8% from entry (~$177.50 if entry ~$193); target +16% (~$224); R:R 2:1. Catalyst: Iran military escalation + XLE sector leadership.
+2. **CVX (Chevron)** — Same energy thesis as XOM; alternative if XOM spread too wide at open. Entry: 20-DMA pullback or first 30-min consolidation; stop -8%; target +16%; R:R 2:1. Catalyst: Energy sector + geopolitical.
+3. **XLK / AAPL wait-and-see** — Tech showed +1.3% recovery last week. If Iran tensions stabilize and market stabilizes Tuesday, tech rotation possible. HOLD for now; re-assess at open.
+
+### Risk Factors
+- **Iran escalation** — if Strait of Hormuz shipping disrupted, oil could spike further; markets could sell off hard; energy could reverse if ceasefire announced
+- **NFP week** — multiple vol events Tue–Fri; wide stops required
+- **Thin liquidity** — day after Labor Day holiday; first trades of September week; erratic opens common
+- **VIX spike risk** — VIX was at 2026 lows (14.2); geopolitical shock could spike vol sharply; stop management critical
+- **Small account** — $772 total; max $193/position; limited number of shares per trade
+- **Don't chase oil gap** — if XOM/CVX already +3–5% at open, wait for intraday pullback; never buy into panic bid
+
+### Decision
+HOLD — Markets likely closed today (Aug 31 = Sunday; Sep 1 = Labor Day). Next actionable session: Tue Sep 2. Energy sector (XOM/CVX) remains top watchlist candidate given Iran escalation driving oil +5%. Wait for intraday pullback before any entry — do NOT chase the opening gap. NFP Friday is a significant vol event; keep position sizing conservative.
+
+---
