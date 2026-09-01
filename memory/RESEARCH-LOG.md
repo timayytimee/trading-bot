@@ -121,6 +121,7 @@ HOLD — Cannot trade (API credentials broken). Next actionable session: Tuesday
 
 ## 2026-08-31 — Pre-market Research
 
+
 ### Account
 - Equity: $772.02
 - Cash: $772.02 (100% cash, no positions)
@@ -162,5 +163,54 @@ HOLD — Cannot trade (API credentials broken). Next actionable session: Tuesday
 
 ### Decision
 HOLD — Markets likely closed today (Aug 31 = Sunday; Sep 1 = Labor Day). Next actionable session: Tue Sep 2. Energy sector (XOM/CVX) remains top watchlist candidate given Iran escalation driving oil +5%. Wait for intraday pullback before any entry — do NOT chase the opening gap. NFP Friday is a significant vol event; keep position sizing conservative.
+
+---
+
+## 2026-09-01 — Pre-market Research (Labor Day — markets closed; context for Tue Sep 2 open)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+
+### Market Context
+- WTI: $86.57/bbl (+0.94%); Brent: $91.28/bbl (+0.87%) — sustained Iran risk premium; Strait of Hormuz shipping threat
+- S&P 500 futures (Tue Sep 2 open): ~-0.5% — rising bond yields + Fed hawkish shift
+- VIX: ~15.29 (up from 2026 lows ~14.1; seasonal pattern points higher through Oct)
+- **Key backdrop:**
+  - Fed Chair Warsh hawkish: "we have work to do" on inflation → markets pricing in rate HIKE at Sep FOMC (bearish for equities)
+  - Iran military escalation ongoing — US struck Larak Island; Iran retaliated on US bases in Jordan; oil supply risk premium intact
+  - G20 meetings Tue — NVDA CEO Jensen Huang + OpenAI CEO Sam Altman keynoting
+- Earnings before Tue open: MDT (Medtronic)
+- Earnings after Tue close: PANW, DELL
+- Earnings Thu after close: AVGO, SNOW, HPE
+- Economic calendar:
+  - **Tue Sep 2**: JOLTS 10AM ET (est 7.33M vs prior 7.36M); ISM Manufacturing PMI (est 53.2)
+  - **Wed Sep 3**: ADP Nonfarm; Durable Goods; Fed Beige Book
+  - **Thu Sep 4**: ISM Services PMI
+  - **Fri Sep 5**: NFP Jobs Report 8:30AM ET — HIGH IMPACT
+- Sector momentum:
+  - Leading: XLE (Energy) — refiners MPC/PSX/VLO led August; Iran bid extends
+  - Improving: XLV (Healthcare) — MDT earnings catalyst Tue
+  - Lagging: XLU (Utilities) — yield headwinds; XLK mixed
+
+### Trade Ideas
+1. **XOM or CVX (Energy)** — XLE #1 sector August + Iran geopolitical premium. Do NOT chase gap. Wait for 30-min pullback. Entry: post-open consolidation; stop: -8%; target: +16%; R:R 2:1. Catalyst: Iran Strait risk + XLE sector leadership. CONDITIONAL: only enter if S&P futures recover and oil not gap >+5% at open.
+2. **MPC or PSX (Refiners)** — Smaller refiners led XLE in August; refining margins benefit from crude spike. Same conditions: 30-min rule, no gap chase. Entry: first consolidation; stop: -8%; target: +16%; R:R 2:1. Catalyst: Energy sector leadership + Iran.
+3. **MDT (Medtronic) — Earnings** — Reports Sep 2 pre-mkt; XLV sector strong. Entry only on beat + raise + gap-and-hold with volume; stop: -7%; target: +14%; R:R 2:1. REJECT if gap >+8% at open.
+
+### Risk Factors
+- **Fed hawkish pivot** — rate hike probability rising at Sep FOMC; highest near-term equity risk
+- **Iran escalation** — oil long could reverse sharply on any ceasefire news
+- **NFP Fri Sep 5** — strong jobs = more hike fuel; stay sized conservatively or flat
+- **Thin post-holiday liquidity** — Labor Day return; erratic opens common
+- **Seasonal VIX uptick** — September historically worst month; VIX median rises from ~15 to ~19 by early Oct
+- **Small account** — $772 equity; $193 max/position; max 1-2 positions
+
+### Decision
+HOLD — Markets closed today (Labor Day). Tue Sep 2 default: HOLD. Fed rate hike risk + futures -0.5% + seasonal headwinds + NFP week = poor risk environment. Only exception: energy entry (XOM/CVX/MPC) if S&P stabilizes after 30-min open and energy pulls back from initial gap. No chasing. Cash preservation priority until NFP clears.
 
 ---
