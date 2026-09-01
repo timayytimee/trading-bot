@@ -15,3 +15,14 @@ No positions yet. Bot launches tomorrow.
 | — | — | — | — | — | — | — |
 
 **Notes:** No open positions, no open orders. Account equity is $772.02 — down $1,227.98 (−61.4%) from the $2,000 phase-start capital. Intermediate trading days between Day 0 and today are not reflected in this log; prior trades likely occurred but were not captured in EOD snapshots. Today (Aug 31): no trades, no positions, Day P&L = $0 (equity unchanged from Fri close). ⚠️ ALERT: Account has lost 61.4% of starting capital. Tomorrow: do not trade without first investigating what happened to the missing ~$1,228 — review Alpaca order history before any new buy.
+
+---
+
+### Sep 01 — EOD Snapshot (Day ?, Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$1,227.98 (−61.40%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No open positions, no open orders, no trades today. Equity flat at $772.02 — unchanged from Aug 31 close. ⚠️ ALERT: Account still down 61.4% from $2,000 phase-start. Cause of prior losses not yet investigated. Week of Sep 1 trades: 0/5. Tomorrow (Wed Sep 2): must review historical Alpaca order history before any new trade — critical investigation outstanding.
