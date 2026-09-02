@@ -166,7 +166,7 @@ HOLD — Markets likely closed today (Aug 31 = Sunday; Sep 1 = Labor Day). Next 
 
 ---
 
-## 2026-09-01 — Pre-market Research (Labor Day — markets closed; context for Tue Sep 2 open)
+## 2026-09-01 — Pre-market Research (markets open; context for Wed Sep 2 open)
 
 ### Account
 - Equity: $772.02
@@ -211,6 +211,59 @@ HOLD — Markets likely closed today (Aug 31 = Sunday; Sep 1 = Labor Day). Next 
 - **Small account** — $772 equity; $193 max/position; max 1-2 positions
 
 ### Decision
-HOLD — Markets closed today (Labor Day). Tue Sep 2 default: HOLD. Fed rate hike risk + futures -0.5% + seasonal headwinds + NFP week = poor risk environment. Only exception: energy entry (XOM/CVX/MPC) if S&P stabilizes after 30-min open and energy pulls back from initial gap. No chasing. Cash preservation priority until NFP clears.
+HOLD — Markets closed today (Labor Day). Wed Sep 2 default: HOLD. Fed rate hike risk + futures -0.5% + seasonal headwinds + NFP week = poor risk environment. Only exception: energy entry (XOM/CVX/MPC) if S&P stabilizes after 30-min open and energy pulls back from initial gap. No chasing. Cash preservation priority until NFP clears.
+
+---
+
+## 2026-09-02 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+
+### Market Context
+- WTI: ~$90.82–$91/bbl (+5.2% yesterday, advancing on Iran escalation); Brent: ~$94.86–$95/bbl
+- S&P 500 futures: 7,638.25 (−0.06%); market under pressure from surging yields + oil
+- VIX: 16.34 (+9.52% — elevated and rising; fear returning)
+- Today's catalysts:
+  - **Iran/Strait of Hormuz**: US launched fresh overnight strikes on Iran; oil surged 5.2% Tue; oil headed toward $91 Wed pre-mkt. ~25% of global maritime crude flows through Strait. Trump warned further strikes coming.
+  - **MDT (Medtronic) earnings beat**: Q1 FY27 revenue $9.8B (+13.7% organic, beat $9.54B est); raised FY27 organic revenue guidance to +7.25–7.75%; $700M strategic investment in Cornerstone Robotics' surgical system. Stock advanced pre-mkt.
+  - **Hut 8 (HUT)**: +4% pre-mkt on Reuters report of major Texas data center partnership with Anthropic + Lambda.
+  - **Crude surge dragging equities**: tech (especially chips) taking brunt; bond yields soaring on inflation fear from oil spike.
+- Earnings before open: MDT (beat, raised guidance — see above); ~33 reports total today
+- Earnings after close tonight: PANW, DELL
+- Earnings Thu after close: AVGO, SNOW, HPE
+- Economic calendar:
+  - **Today Sep 2**: ADP Nonfarm Employment Report 8:15 AM ET (key labor market signal)
+  - **Thu Sep 3**: Initial Claims 8:30 AM; ISM Non-Manufacturing/Services PMI 10 AM
+  - **Fri Sep 5**: NFP Jobs Report 8:30 AM ET — HIGH IMPACT, potential vol event
+  - Note: ISM Manufacturing + JOLTS reported yesterday (Sep 1)
+- Sector momentum:
+  - Leading: XLE (Energy) — surging on Iran; WTI $91+; refiners MPC/PSX/VLO strong
+  - Lagging: XLK (Tech) — chips taking brunt of yield spike + oil inflation fears; XLC, XLY, XLF weak
+  - Improving: XLV (Healthcare) — MDT beat a tailwind
+- Fed: CME FedWatch 66% probability of 25bps hike at September FOMC; PCE at 3.7%/4.1% (way above 2% target); oil spike adds further inflation pressure; Barclays expects Sep + Dec hikes
+
+### Trade Ideas
+1. **XOM or CVX (Energy)** — XLE #1 sector; WTI at $91 driven by Iran Strait of Hormuz threat. CONDITIONAL: do NOT chase the gap — if XOM/CVX already +3–5% at open, wait for 30-min pullback and consolidation before entry. Entry: first 30-min consolidation; stop: -8% from entry; target: +16%; R:R 2:1. Catalyst: Iran military escalation + XLE sector leadership. Max size: ~$193 (2 shares XOM ~$95, or 1 share CVX ~$190).
+2. **MDT (Medtronic)** — Strong Q1 FY27 beat (revenue $9.8B vs $9.54B est), raised guidance, $700M strategic investment. CONDITIONAL: entry only if gap holds and consolidates in first 30 min with volume. Stop: -7% from entry; target: +14%; R:R 2:1. Catalyst: earnings beat + raised guidance + Cornerstone Robotics deal. Reject if gap >+8% at open.
+3. **MPC or PSX (Refiners)** — Refining margins benefit directly from crude spike; historically lead XLE in oil-shock environments. Same 30-min rule, no gap chase. Stop: -8%; target: +16%; R:R 2:1. Catalyst: Iran supply shock + refiner margin expansion.
+
+### Risk Factors
+- **Fed rate hike 66%** — September FOMC hike now base case; hawkish pivot = bond yield surge = equity multiple compression; tech most exposed
+- **Iran escalation** — oil long could reverse sharply on any ceasefire; but WTI $91+ suggests risk premium stays bid near-term
+- **ADP report today 8:15 AM** — strong number = more Fed hike fuel; avoid pre-data entries if possible
+- **NFP Friday Sep 5** — stay sized conservatively; consider staying flat into Friday
+- **VIX 16.34 and rising** — September seasonal pattern (worst month); VIX typically rises to ~19 by early Oct
+- **Small account** — $772 equity; $193 max/position; 1-2 positions max; limited shares per trade
+- **Don't chase oil gap** — energy names up 3-5%+ at open; 30-min rule is mandatory; never buy into panic bid
+- **PDT rule** — daytrade count = 0; swing trades only; hold overnight if entering
+
+### Decision
+HOLD — Default. Risk environment is hostile: Fed rate hike imminent (66%), VIX elevated and rising, ADP data today + NFP Friday both potential vol events, and S&P futures slightly negative with yields surging. Energy thesis (XOM/CVX/MPC) remains valid but only on a 30-min pullback from the opening gap — do NOT chase. If energy opens flat or pulls back to near-prior-close, a small position (1-2 shares XOM or PSX) is acceptable. MDT watch for consolidation. Patience > activity. Cash preservation priority through NFP Friday.
 
 ---
