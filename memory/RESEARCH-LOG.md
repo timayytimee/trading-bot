@@ -267,3 +267,56 @@ HOLD — Markets closed today (Labor Day). Wed Sep 2 default: HOLD. Fed rate hik
 HOLD — Default. Risk environment is hostile: Fed rate hike imminent (66%), VIX elevated and rising, ADP data today + NFP Friday both potential vol events, and S&P futures slightly negative with yields surging. Energy thesis (XOM/CVX/MPC) remains valid but only on a 30-min pullback from the opening gap — do NOT chase. If energy opens flat or pulls back to near-prior-close, a small position (1-2 shares XOM or PSX) is acceptable. MDT watch for consolidation. Patience > activity. Cash preservation priority through NFP Friday.
 
 ---
+
+## 2026-09-03 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (no trades placed; account never traded)
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+- Week of Sep 1: 0/5 trades used
+
+### Market Context
+- WTI: ~$90–91/bbl (slightly lower); Brent: ~$95.25/bbl (-0.40%) — snapping 3-day rally; Iran tensions ongoing but market re-assessing geopolitical premium
+- S&P 500 futures: -0.05% premarket; Polymarket 41% chance of higher open; mildly negative but near flat
+- VIX: 15.2 (-6.98% from prior day) — declining; market pricing out hawkish Fed surprise at Sep FOMC
+- Wednesday close: Dow +0.6% (53,062), Nasdaq +0.5%; markets brushed off oil and yield pressure on solid earnings sentiment
+- Today's catalysts:
+  - **ISM Services PMI (10 AM ET)**: est 54.5 vs prior 54.1 — key read on dominant services sector; beat = bullish
+  - **Initial Jobless Claims (8:30 AM ET)**: labor market health check day before NFP
+  - **LULU (lululemon) earnings** pre-mkt: Consumer Discretionary (lagging sector) — not a play
+  - **CIEN (Ciena) earnings** pre-mkt: networking/optical — not in sector focus
+  - **ADP showed weakening jobs growth Wed** — reduces Fed hike probability slightly; incrementally bullish for equities
+  - Fed FOMC meeting mid-September still a headwind; oil inflation-pass-through risk
+- Earnings before open today: LULU, CIEN (~47 total)
+- Earnings after close tonight: **AVGO (Broadcom)**, SNOW (Snowflake), HPE — critical for tech sentiment into Friday
+- Economic calendar:
+  - **8:30 AM ET**: Initial Jobless Claims; Trade Balance (Jul, est -$71.2B)
+  - **10:00 AM ET**: ISM Services PMI (est 54.5 vs 54.1)
+  - **2:00 PM ET**: Unit Labor Costs & Productivity Q2 Final
+  - **Fri Sep 5**: NFP Jobs Report 8:30 AM ET — HIGH IMPACT, biggest vol event of week
+- Sector momentum (leading): XLE (+7.4% Aug, +42% YTD), XLI, XLP, XLB — all leading quadrant
+- Sector momentum (lagging): XLK, XLC, XLY, XLF — lagging quadrant
+- Sector momentum (weakening): XLV — healthcare momentum fading
+
+### Trade Ideas
+1. **XOM or CVX (Energy)** — XLE #1 sector August + Iran Strait of Hormuz supply risk; Brent still ~$95; oil slightly cooling after 3-day rally creates possible pullback entry. CONDITIONAL: 30-min rule mandatory — wait for post-open consolidation, no gap chase. Entry: ~$195–200 (XOM) on 30-min consolidation; stop: -8% (~$179–184); target: +16% (~$226–232); R:R 2:1. Catalyst: Iran supply risk + XLE sector leadership + geopolitical floor on oil. Size: ~$193 max (~1 share).
+2. **MPC or PSX (Refiners)** — Refining margins historically expand with crude spike; led XLE in August alongside SLB. Entry: 30-min pullback/consolidation from open; stop: -8%; target: +16%; R:R 2:1. Catalyst: crude spike + refiner margin expansion + XLE momentum. Alternative to XOM/CVX if spreads too wide.
+3. **AVGO post-earnings play (Friday only)** — Broadcom reports tonight after close; if strong beat on AI networking, could gap up Friday. Do NOT enter today. Watch tonight; if Friday 30-min consolidation holds, potential tech-recovery entry. Stop: -7%; target: +14%; R:R 2:1. Catalyst: AI chip demand + earnings beat.
+
+### Risk Factors
+- **NFP Friday Sep 5** — major vol event; strong jobs = more Fed hike fuel; holding energy into NFP carries overnight risk
+- **ISM Services miss** — below 54 could signal services slowdown; negative for risk assets broadly
+- **Iran ceasefire risk** — any diplomatic resolution = oil spike reversal; energy longs could drop 5–8% fast
+- **Fed FOMC mid-Sep** — rate hike probability receding (VIX dropped) but not eliminated; PCE at 3.7% still above 2% target
+- **Oil rally fatigue** — Brent -0.40% today; 3-day rally may be stalling; energy could consolidate or pull back sharply if supply risk re-assessed
+- **Small account** — $772 equity; $193 max/position; 1-2 positions max; limited shares
+- **PDT rule** — 0 of 3 day trades used; swing trades preferred — hold overnight if entering
+
+### Decision
+HOLD — Default. Environment slightly improved vs. yesterday (VIX down to 15.2, S&P closed green, ADP soft, futures near flat). However, NFP Friday is the dominant risk and justifies caution. Energy thesis (XOM/CVX/MPC) still valid with Brent at $95 and Iran floor on oil. CONDITIONAL entry acceptable today ONLY if: (1) ISM Services 10 AM beats 54.5, AND (2) XOM/CVX pull back to within 1% of prior close in first 30 min, AND (3) S&P holds flat-to-positive. Max 1 position, $193 size, hold as swing trade through NFP. If conditions not met → full HOLD until NFP clears Friday.
+
+---
