@@ -4,15 +4,23 @@
 Beat the S&P 500. Stocks only — no options, ever.
 
 ## Capital & Constraints
-- Starting capital: ~$2,000
+- Starting capital: $772.02 (funded once on 2026-08-29). NOT $2,000 — early docs
+  had a $2,000 typo. No money was ever lost; the account has never traded.
+  Any "phase-start $2,000" / "missing ~$1,228" / "investigate prior losses" note
+  in older TRADE-LOG entries is VOID — do not act on it.
+- Phase-start baseline for all P&L math: $772.02
 - Platform: Alpaca (LIVE)
 - Instruments: Stocks ONLY
 - PDT limit: 3 day trades per 5 rolling days (account < $25k) — swing trades preferred
+- Small account: at ~$772, 25% is ~$193/position, so realistically 2-3 positions.
+  Use fractional/notional market buys. NOTE: Alpaca rejects trailing_stop and
+  stop orders on fractional share quantities — if a position is fractional, use
+  the fixed-stop fallback (whole-number stop_price) or round the buy to whole shares.
 
 ## Core Rules
 1. NO OPTIONS — ever
 2. 75-85% deployed at all times
-3. Max 4 positions, max 25% each (~$500/position)
+3. Max 4 positions, max 25% each (~$193/position at current equity; size off live equity)
 4. 10% trailing stop on every position as a real GTC order
 5. Cut losers at -7% manually (no hoping, no averaging down)
 6. Tighten trail: 7% at +15%, 5% at +20%

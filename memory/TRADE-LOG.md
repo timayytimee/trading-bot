@@ -1,39 +1,47 @@
 # Trade Log
 
-## Day 0 — EOD Snapshot (pre-launch baseline)
-**Portfolio:** $2,000.00 | **Cash:** $2,000.00 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
+## Day 0 — EOD Snapshot (pre-launch baseline, 2026-08-29)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
 
-No positions yet. Bot launches tomorrow.
-
----
-
-### Aug 31 — EOD Snapshot (Day ?, Monday)
-**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$1,227.98 (−61.40%)
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| — | — | — | — | — | — | — |
-
-**Notes:** No open positions, no open orders. Account equity is $772.02 — down $1,227.98 (−61.4%) from the $2,000 phase-start capital. Intermediate trading days between Day 0 and today are not reflected in this log; prior trades likely occurred but were not captured in EOD snapshots. Today (Aug 31): no trades, no positions, Day P&L = $0 (equity unchanged from Fri close). ⚠️ ALERT: Account has lost 61.4% of starting capital. Tomorrow: do not trade without first investigating what happened to the missing ~$1,228 — review Alpaca order history before any new buy.
+No positions. Account funded once with $772.02. This is the phase-start baseline
+for ALL P&L math.
 
 ---
 
-### Sep 01 — EOD Snapshot (Day ?, Tuesday)
-**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$1,227.98 (−61.40%)
-
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| — | — | — | — | — | — | — |
-
-**Notes:** No open positions, no open orders, no trades today. Equity flat at $772.02 — unchanged from Aug 31 close. ⚠️ ALERT: Account still down 61.4% from $2,000 phase-start. Cause of prior losses not yet investigated. Week of Sep 1 trades: 0/5. Tomorrow (Wed Sep 2): must review historical Alpaca order history before any new trade — critical investigation outstanding.
+## CORRECTION — 2026-09-03
+Earlier docs and the Aug 31 / Sep 01 / Sep 02 snapshots below used a **$2,000**
+phase-start figure. That was a **typo in the original setup**, not a real balance.
+The account was funded exactly once, with **$772.02**, and has **never placed a
+trade**. There is **no missing ~$1,228** and **no "prior losses" to investigate**.
+All "⚠️ investigate missing capital / critical investigation outstanding" notes in
+the entries below are **VOID**. Phase P&L from Day 0 is **$0.00 (0.00%)**.
+Resume normal operation: research → buy-side gate → trade per TRADING-STRATEGY.md.
 
 ---
 
-### Sep 02 — EOD Snapshot (Day ?, Wednesday)
-**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** −$1,227.98 (−61.40%)
+### Aug 31 — EOD Snapshot (Sunday, no session)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
 
-| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
-|--------|--------|-------|-------|---------|----------------|------|
-| — | — | — | — | — | — | — |
+No open positions, no open orders, no trades. Equity equals the $772.02 baseline.
+(Original entry mis-stated Phase P&L as −$1,227.98 / −61.4% off a $2,000 baseline — corrected 2026-09-03, see above.)
 
-**Notes:** No open positions, no open orders, no trades today (Sep 2). Equity flat at $772.02 — unchanged. Decision was HOLD: hostile risk environment — Fed rate hike at 66% probability, VIX elevated at 16.34 and rising, ADP data day, NFP Friday, S&P futures slightly negative with yields surging on Iran oil shock (WTI ~$91). Energy thesis (XOM/CVX/MPC) remained valid but 30-min pullback rule not met. Week of Sep 1: 0/5 trades. ⚠️ ALERT: Account down 61.4% from $2,000 phase-start; root cause of prior losses still not investigated. Tomorrow (Thu Sep 3): ISM Services PMI + initial claims; AVGO/SNOW/HPE report after close. Review historical order history before any buy — critical investigation still outstanding.
+---
+
+### Sep 01 — EOD Snapshot (Monday, Labor Day — market closed)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+Market closed (Labor Day). No trades. Equity flat at baseline. Week of Sep 1 trades: 0/5.
+(Original entry mis-stated Phase P&L as −61.4% — corrected 2026-09-03.)
+
+---
+
+### Sep 02 — EOD Snapshot (Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+No open positions/orders, no trades. Decision was HOLD on genuine market grounds:
+Fed rate-hike ~66% probability, VIX 16.34 and rising, ADP data day, NFP Friday,
+S&P futures slightly negative, yields surging on Iran oil shock (WTI ~$91). Energy
+thesis (XOM/CVX/MPC) valid but the 30-min pullback entry rule was not met — no chase.
+Week of Sep 1: 0/5 trades.
+(Original entry's "account down 61.4% / root cause not investigated" line was the
+$2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call.)

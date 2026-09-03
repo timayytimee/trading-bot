@@ -2,7 +2,7 @@
 
 ## Overview
 - What: Autonomous AI trading bot (Claude Code cloud routines)
-- Starting capital: ~$2,000
+- Starting capital: $772.02 (funded once 2026-08-29). Earlier docs said $2,000 — that was a typo, not a loss. Account has never traded.
 - Platform: Alpaca (LIVE)
 - Strategy: Swing trading stocks, no options
 - Goal: Beat S&P 500
