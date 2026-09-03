@@ -45,3 +45,14 @@ thesis (XOM/CVX/MPC) valid but the 30-min pullback entry rule was not met — no
 Week of Sep 1: 0/5 trades.
 (Original entry's "account down 61.4% / root cause not investigated" line was the
 $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call.)
+
+---
+
+### Sep 03 — EOD Snapshot (Day 2, Wednesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No action today. Environment improved vs. prior sessions — VIX ~15.2, S&P closed green, ADP soft, ISM Services 55.4 beat (highest since Feb). Energy thesis (XOM/CVX/MPC) valid with Brent ~$95 and Iran supply floor, but the 30-min consolidation entry window passed without a qualifying pullback (XOM closed ~$164.15, −0.24%). AVGO reported slight beat after close but Q4 guidance missed whisper numbers (−6.5% AH) — Friday AVGO play rejected. NFP Friday (Sep 5, 8:30 AM ET) is the dominant risk keeping portfolio in full cash. Week of Sep 1: 0/5 trades.
