@@ -319,4 +319,12 @@ HOLD — Default. Risk environment is hostile: Fed rate hike imminent (66%), VIX
 ### Decision
 HOLD — Default. Environment slightly improved vs. yesterday (VIX down to 15.2, S&P closed green, ADP soft, futures near flat). However, NFP Friday is the dominant risk and justifies caution. Energy thesis (XOM/CVX/MPC) still valid with Brent at $95 and Iran floor on oil. CONDITIONAL entry acceptable today ONLY if: (1) ISM Services 10 AM beats 54.5, AND (2) XOM/CVX pull back to within 1% of prior close in first 30 min, AND (3) S&P holds flat-to-positive. Max 1 position, $193 size, hold as swing trade through NFP. If conditions not met → full HOLD until NFP clears Friday.
 
+### Midday Addendum (Sep 03 — midday scan)
+- **ISM Services PMI: 55.4** (beat vs 54.5 est; highest since Feb; strongest new orders since early 2023) — **bullish** ✓
+- **S&P 500**: closed positive; markets broadly up on ISM beat and solid earnings sentiment
+- **XOM**: ~$164.15 (−0.24% vs prior close $164.55) — flat/slight pullback; price action consistent with thesis but 30-min entry window passed
+- **AVGO after-hours**: −6.5% on Q3 beat (rev $29.6B vs $29.5B est, EPS $3.32 vs $3.25 est) but Q4 guidance below "whisper number" (~$34.8B); **REJECT Friday AVGO trade idea** — not a gap-up consolidation play
+- **Portfolio**: 0 positions, 0 orders; no action taken at midday; conditional energy entry window (30-min rule from open) has passed for today
+- **Friday outlook**: NFP (8:30 AM ET) is dominant risk; AVGO selling pre-market could pressure tech; energy thesis still valid but hold cash ahead of NFP unless energy pulls back sharply and oil remains bid
+
 ---
