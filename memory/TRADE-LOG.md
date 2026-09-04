@@ -56,3 +56,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No action today. Environment improved vs. prior sessions — VIX ~15.2, S&P closed green, ADP soft, ISM Services 55.4 beat (highest since Feb). Energy thesis (XOM/CVX/MPC) valid with Brent ~$95 and Iran supply floor, but the 30-min consolidation entry window passed without a qualifying pullback (XOM closed ~$164.15, −0.24%). AVGO reported slight beat after close but Q4 guidance missed whisper numbers (−6.5% AH) — Friday AVGO play rejected. NFP Friday (Sep 5, 8:30 AM ET) is the dominant risk keeping portfolio in full cash. Week of Sep 1: 0/5 trades.
+
+---
+
+### Sep 04 — EOD Snapshot (Day 3, Friday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Full HOLD — NFP August 2026 came in at +162K (vs. 55K est.), a massive beat that triggered the pre-planned HOLD condition (>150K threshold). Fed hike fears returned; 10Y yield surged toward 4.82%; S&P sold off ~−0.42% midday with broad-based weakness (Dow −300 pts). Energy sector ironically declined despite Brent ~$95 and Iran supply risk — stronger dollar + higher-for-longer rates overriding the geopolitical oil premium. AVGO opened weak on guidance miss (Q4 whisper ~$34.8B). No trades placed. Cash preservation proved correct. Week of Sep 1 final: 0/5 trades. Weekend plan: assess Iran diplomatic developments (ceasefire = oil reversal risk), monitor 10Y yield trajectory (needs to stabilize below 4.82% for energy entry case to hold), reassess energy sector vs. rate headwind dynamic for Monday Sep 8.
