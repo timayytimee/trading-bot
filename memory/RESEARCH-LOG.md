@@ -384,4 +384,13 @@ HOLD — NFP at 8:30 AM is the dominant event. After a big Thursday rally, risk 
 - No trades placed. Week of Sep 1: 0/5 trades. Portfolio: $772.02 cash (100%).
 - Next opportunity: Monday Sep 8 — reassess energy + post-NFP yield reaction over weekend
 
+### Midday Addendum (Sep 04 — midday scan)
+- **S&P 500**: −0.42% midday; Dow −300 pts; broad sell-off on NFP beat / Fed hike repricing
+- **Yields**: 2Y +7bps to ~4.41%; 10Y edging higher — hike premium being priced in
+- **Sector performance midday**: Tech (+0.44%), Industrials (+0.22%), Utilities (+0.12%) advancing; **Energy DECLINING** despite Iran bid — stronger dollar + rate fears overriding geopolitical premium
+- **Energy thesis re-assessment**: XLE underperforming today even with Brent ~$95. Structural oil floor (Iran) intact, but higher-for-longer rates + dollar strength are a near-term headwind for energy stocks (not crude itself). This mutes the XOM/MPC entry case for Monday — need to see yields stabilize or energy stocks decouple positively.
+- **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
+- **HOLD confirmed**: Full HOLD was correct today. No action warranted midday.
+- **Weekend watchlist**: (1) Iran developments — any ceasefire = oil reversal risk; (2) 10Y yield trajectory — needs to stay below 4.82% for energy entry; (3) Energy sector resilience vs. broader sell-off; (4) Fed speakers over weekend for Sep FOMC guidance
+
 ---
