@@ -328,3 +328,52 @@ HOLD — Default. Environment slightly improved vs. yesterday (VIX down to 15.2,
 - **Friday outlook**: NFP (8:30 AM ET) is dominant risk; AVGO selling pre-market could pressure tech; energy thesis still valid but hold cash ahead of NFP unless energy pulls back sharply and oil remains bid
 
 ---
+
+## 2026-09-04 — Pre-market Research (NFP Friday)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+- Week of Sep 1: 0/5 trades used
+
+### Market Context
+- WTI: ~$90–91/bbl (Iran risk premium sustained); Brent: ~$95.23/bbl (−0.31% from Sep 3 close ~$95.82)
+- S&P 500 futures: +0.06% at ~7,759.75 pre-market; Thursday closed S&P +1.1%, Nasdaq +1.4%, Dow +1.2% — very strong session
+- VIX: Closed Sep 3 at 14.32 (−5.79%); pre-market Sep 4 ~15.25 — fear receding from recent highs
+- Today's catalysts:
+  - **NFP Jobs Report 8:30 AM ET** — August jobs; forecast: +55K (very weak; prior July: −23K vs +79K est). Dominant event. Market already pricing in weakness — dovish Fed narrative building
+  - **Fed Governor Waller (Sep 3)**: Stated he would support holding rates steady at Sep FOMC barring inflation surprises → hike odds fell from ~66% to ~50%; dollar hit lowest since May; 10Y yield retreated to 4.77% from 4.818% high
+  - **Iran tensions**: Ongoing; US-Iran military exchanges continue; Strait of Hormuz risk premium supporting oil floor
+  - **AVGO (Broadcom)**: Q3 rev $29.59B (beat), EPS $2.68; mixed AH reaction — guidance below whisper → −6.5% AH Wednesday; tech sentiment mixed for Friday open
+- Earnings before open today: No major reports (light end-of-week)
+- Economic calendar:
+  - **8:30 AM ET**: NFP August Employment Situation (est +55K) — only major event today
+  - Next week: PPI Sep 10, CPI Sep 11, JOLTS Sep 29; FOMC mid-September
+- Sector momentum (Sep 2026):
+  - Leading: XLE (Energy) — Brent ~$95, Iran premium, +42% YTD sector leader
+  - Improving: Healthcare (XLV), Real Estate (XLRE) — defensive rotation
+  - Lagging/overvalued: XLK (Tech), XLC, XLY — rotation away from growth
+  - XLI (Industrials), XLP (Staples) still in leading quadrant
+
+### Trade Ideas
+1. **XOM (ExxonMobil)** — Energy #1 sector; Brent $95.23; Iran Strait of Hormuz supply floor; XLE momentum. CONDITIONAL: enter ONLY if (a) NFP ≤ 55K (weak, Fed hold narrative intact), (b) 10Y yield stays below 4.80%, (c) XOM pulls back to 30-min consolidation within ~1% of prior close (~$164). Entry: ~$164; stop: −8% (~$151); target: +16% (~$190); R:R 2:1. Size: 1 share (~$164, under $193 limit). Catalyst: Iran supply risk + XLE sector leadership + Fed hold.
+2. **MPC or PSX (Refiners)** — Refining margin play on crude spike; XLE momentum; led August gains alongside XOM/CVX. Same entry conditions as XOM. Stop: −8%; target: +16%; R:R 2:1. Alternative if XOM spread too wide. Catalyst: Iran crude spike → refiner margin expansion.
+3. **Full HOLD** — Default if NFP beats strongly (>150K) or 10Y yields surge back to 4.82%+ — macro headwind overwhelms energy thesis; wait for post-NFP dust to settle before reassessing.
+
+### Risk Factors
+- **NFP 8:30 AM ET** — binary vol event; hot print → Fed hike fears return → yields spike → equities sell off; cold print → priced in or demand-concern risk
+- **Thursday rally already large** (+1.1% S&P) — Friday often consolidates; don't chase strength
+- **AVGO AH miss** — guidance below whisper; tech/semi drag at Friday open; AVGO pre-market likely negative
+- **Iran ceasefire risk** — diplomatic resolution = instant oil reversal; energy longs could drop 5–8% fast
+- **VIX at 14.32** — near 2026 lows; complacency risk; September historically worst month (median VIX rises to ~19 by early Oct)
+- **Small account** — $772; $193 max/position; max 1-2 positions; limited shares
+- **PDT**: 0/3 day trades used — swing trade required; must hold overnight if entering
+
+### Decision
+HOLD — NFP at 8:30 AM is the dominant event. After a big Thursday rally, risk is asymmetric: a hot jobs number kills the Fed-hold narrative and spikes yields; a weak number is mostly priced in. Energy thesis (XOM/MPC) remains valid with Brent $95 and Iran floor — this has been the right read all week. CONDITIONAL entry acceptable POST-NFP: if number ≤ 55K, yields stay below 4.80%, and XOM pulls back to 30-min consolidation → 1 share XOM (~$164), swing trade, 10% trailing stop GTC. Full HOLD otherwise. Week of Sep 1: 0/5 trades — patience intact.
+
+---
