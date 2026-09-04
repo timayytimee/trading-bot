@@ -376,4 +376,12 @@ HOLD — Default. Environment slightly improved vs. yesterday (VIX down to 15.2,
 ### Decision
 HOLD — NFP at 8:30 AM is the dominant event. After a big Thursday rally, risk is asymmetric: a hot jobs number kills the Fed-hold narrative and spikes yields; a weak number is mostly priced in. Energy thesis (XOM/MPC) remains valid with Brent $95 and Iran floor — this has been the right read all week. CONDITIONAL entry acceptable POST-NFP: if number ≤ 55K, yields stay below 4.80%, and XOM pulls back to 30-min consolidation → 1 share XOM (~$164), swing trade, 10% trailing stop GTC. Full HOLD otherwise. Week of Sep 1: 0/5 trades — patience intact.
 
+### Market-Open Addendum (Sep 04 — post-NFP)
+- **NFP August 2026: +162K** (vs. 55K est.; prior July revised up to +23K) — massive beat; strongest in 5 months
+- **Full HOLD triggered**: NFP > 150K threshold exceeded → Fed hike fears return, yields spike
+- 10Y yield pre-print ~4.75%; post-162K print expected to surge toward 4.82%+
+- Energy thesis (XOM/MPC) remains structurally valid but today's macro headwind overwhelming
+- No trades placed. Week of Sep 1: 0/5 trades. Portfolio: $772.02 cash (100%).
+- Next opportunity: Monday Sep 8 — reassess energy + post-NFP yield reaction over weekend
+
 ---
