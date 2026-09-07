@@ -394,3 +394,61 @@ HOLD — NFP at 8:30 AM is the dominant event. After a big Thursday rally, risk 
 - **Weekend watchlist**: (1) Iran developments — any ceasefire = oil reversal risk; (2) 10Y yield trajectory — needs to stay below 4.82% for energy entry; (3) Energy sector resilience vs. broader sell-off; (4) Fed speakers over weekend for Sep FOMC guidance
 
 ---
+
+## 2026-09-07 — Pre-market Research (Labor Day — Markets Closed, Tuesday Preview)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+- Week of Sep 8: 0/5 trades used
+
+### Market Context (US markets closed today — Labor Day)
+- **Oil**: Brent crude $97.39/bbl (+1.15% today); WTI $92.32/bbl (+0.92%) — major spike on US-Iran military escalation
+- **S&P 500 futures**: +0.12% (~7,722); range 7,711–7,764 today; Asia broadly higher (Nikkei +1%, Kospi +3.09%)
+- **VIX**: 14.53 (+1.47%, range 13.80–14.58) — oddly low given geopolitical escalation; complacency risk
+- **10Y yield**: ~4.75% pre-weekend; watch for moves above 4.82% as rate-hike trigger
+- **Weekend critical developments**:
+  - **Sep 5 (Sat)**: US CENTCOM struck 3 Iranian oil tankers (M/T Downy, M/T Stark 1, M/T Kylo) after Iran launched ballistic missiles targeting 2 US Navy warships. No US casualties. US warned it would "destroy Iran's limited and exposed oil fleet" if necessary.
+  - Iran retaliated: struck 3 additional tankers and 3 American vessels. Strait of Hormuz supply risk at multi-month high.
+  - **Most significant US-Iran escalation** since conflict began — structural oil floor now higher.
+- **Earnings today**: None (market closed Labor Day); Tuesday earners: ABM, CAN, UNFI, WDH (small caps, not relevant)
+- **Economic calendar this week**:
+  - Tue Sep 8: No major releases; market reopens
+  - Wed Sep 10: **PPI (8:30 AM ET)** — August producer prices
+  - Thu Sep 11: **CPI (8:30 AM ET)** — August consumer prices; critical FOMC input
+  - Tue Sep 16: **FOMC rate decision (2 PM ET)** — 56–60% odds of 25bp hike to 3.75–4.00%
+  - Fed in quiet period Sep 5–Sep 17 — no Fed speakers
+- **FOMC outlook**: Warsh hawkish at Jackson Hole; current rate 3.50–3.75%; ~60% hike odds Sep 16; CPI this week is the swing factor
+- **Sector momentum**:
+  - **XLE (Energy)**: +43% YTD, +21% Q3 — undisputed sector leader; Iran escalation structurally bullish
+  - Leading: XLE, XLI, XLP, XLB | Lagging: XLK, XLC, XLY, XLF
+  - Refiners (MPC +91.8% YTD, VLO +87.8% YTD) — avoid; richly valued
+- **No held positions** — no ticker-specific news needed
+
+### Trade Ideas
+1. **XOM (ExxonMobil)** — Iran tanker strikes = Brent $97+ supply floor; XLE #1 sector; XOM expected +2.3% gap open Tuesday (~$168). CONDITIONAL: wait for 30-min post-open pullback to $166–167 consolidation. Do NOT chase >4% gap. Entry: ~$167; stop: -8% (~$154); target: +15% (~$192); R:R ~2:1. Size: 1 share (~$167, under $193 limit). Catalyst: US military strikes on Iranian tankers → Brent $97+ → XLE sector momentum.
+2. **CVX (Chevron)** — Secondary alternative; income-tilt; expected +2.1% gap Tuesday. Same 30-min pullback condition. Lower conviction vs. XOM.
+3. **Full HOLD** — Default if (a) XOM/CVX gap >4% with no consolidation, (b) 10Y yields spike above 4.82%, (c) S&P broadly negative Tuesday, or (d) CPI looms too large for overnight swing risk.
+
+### Risk Factors
+- **Iran escalation → war risk**: US-Iran naval conflict could trigger full Strait of Hormuz closure = oil spike + global recession fear = risk-off despite energy stock support
+- **FOMC Sep 16 + CPI Sep 11**: Hot CPI (energy-driven) confirms rate hike → higher rates headwind for equities broadly; energy stocks face dual pressure
+- **Energy already priced in**: XLE +43% YTD; XOM/CVX may have fully priced Iran risk; gap-up Tuesday = "sell the news" risk
+- **NFP +162K hangover**: Sep 4 sell-off showed energy can underperform even with Brent $95 when rates spike on strong jobs data
+- **VIX at 14.53**: Complacency near 2026 lows; September historically sees VIX mean-revert toward ~19
+- **Refiners overvalued**: MPC +91.8% YTD, VLO +87.8% YTD — reject both at current valuations
+- **PDT rule**: 0/3 day trades used; any entry must be swing trade (hold overnight)
+
+### Decision
+CONDITIONAL — XOM only (not refiners) acceptable Tuesday Sep 8 IF all met:
+  (a) XOM gaps ≤4% and pulls back to 30-min consolidation (~9:30–10:00 AM ET)
+  (b) Brent holds above $95 at US market open
+  (c) 10Y yield stable below 4.82%
+  (d) S&P broadly positive or flat (above −0.5%)
+If any condition fails → Full HOLD through CPI Sep 11 and FOMC Sep 16.
+CVX: secondary only if XOM entry conditions fail. Refiners (MPC, PSX, VLO): REJECT.
+Week of Sep 8: 0/5 trades — patience intact. One clean entry beats three speculative ones.
