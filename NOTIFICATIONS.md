@@ -24,3 +24,15 @@ Trades: 0 (W:0 / L:0 / open:0)
 Best: N/A  Worst: N/A
 Takeaway: NFP +162K beat triggered pre-planned HOLD; cash preserved vs -0.42% sell-off. Energy thesis valid — no qualifying entry. Must execute next week.
 Grade: B-
+
+---
+## 2026-09-07 20:03 UTC (fallback — Telegram 403 proxy block)
+EOD 2026-09-07
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none (weekend)
+Open positions: none
+Week of Sep 8: 0/5 trades so far
+Tomorrow: Monitor Iran headlines + 10Y yield; energy thesis (XOM/CVX/MPC) on watch — need yield stability below 4.82% and qualifying 30-min pullback for entry
+
+[NOTE: Telegram API blocked by proxy — logged here as fallback]

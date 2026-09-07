@@ -67,3 +67,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Full HOLD — NFP August 2026 came in at +162K (vs. 55K est.), a massive beat that triggered the pre-planned HOLD condition (>150K threshold). Fed hike fears returned; 10Y yield surged toward 4.82%; S&P sold off ~−0.42% midday with broad-based weakness (Dow −300 pts). Energy sector ironically declined despite Brent ~$95 and Iran supply risk — stronger dollar + higher-for-longer rates overriding the geopolitical oil premium. AVGO opened weak on guidance miss (Q4 whisper ~$34.8B). No trades placed. Cash preservation proved correct. Week of Sep 1 final: 0/5 trades. Weekend plan: assess Iran diplomatic developments (ceasefire = oil reversal risk), monitor 10Y yield trajectory (needs to stabilize below 4.82% for energy entry case to hold), reassess energy sector vs. rate headwind dynamic for Monday Sep 8.
+
+---
+
+### Sep 07 — EOD Snapshot (Day 4, Sunday — market closed)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Weekend — markets closed. Account remains fully in cash at the $772.02 phase baseline. No trades placed since account inception. Week of Sep 8 opens at 0/5 trades. Key watchlist for Monday open: (1) Iran diplomatic headlines over the weekend — any ceasefire signals would undercut the Brent ~$95 oil floor and invalidate the energy thesis; (2) 10Y yield — must stabilize below 4.82% before energy sector entry is viable; (3) Pre-market futures direction after Friday's NFP-driven selloff. Energy thesis (XOM/CVX/MPC) remains on watch but rate headwind is the dominant risk. Will require qualifying 30-min pullback setup on Monday before any entry.
