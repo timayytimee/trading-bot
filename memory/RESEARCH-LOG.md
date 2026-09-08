@@ -452,3 +452,62 @@ CONDITIONAL — XOM only (not refiners) acceptable Tuesday Sep 8 IF all met:
 If any condition fails → Full HOLD through CPI Sep 11 and FOMC Sep 16.
 CVX: secondary only if XOM entry conditions fail. Refiners (MPC, PSX, VLO): REJECT.
 Week of Sep 8: 0/5 trades — patience intact. One clean entry beats three speculative ones.
+
+---
+
+## 2026-09-08 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 8: 0/5 trades used
+
+### Market Context
+- WTI: ~$92.37/bbl (−0.17%); Brent: ~$97.29/bbl (+1.05% close yesterday) — sustained by US-Iran naval conflict; US military escorting 40 vessels / 18M bbl through Strait today
+- S&P 500 futures: +0.49% at ~7,714 — recovering as crude retreat knocks bond yields lower; S&P ranged 7,711–7,714 pre-market
+- VIX: ~15.30 close (opened ~14.15, range 13.80–14.58) — contained; slightly elevated vs 2026 lows
+- **Iran/Strait of Hormuz (structural)**: Shipping largely blocked since Feb 2026; US naval blockade prevents Iranian oil exports since July; US-Iran "tanker war" ongoing; US struck 3 Iranian tankers Sep 5, Iran retaliated; oil floor structural and multi-month
+- **Apple "Surprise and Shine" event TOMORROW Sep 9**: iPhone 18 Pro, foldable iPhone Ultra, A20 Pro chip; first event under new CEO John Ternus — AAPL pre-event positioning potential (but XLK lagging sector, sell-the-news risk)
+- **GameStop (GME) reports Q2 after close today**: Prelim already known ($780–800M revenue, $290–310M net income; eBay stake gains boosting profitability); no edge — NOT a play
+- **Defense stocks in focus**: Iran escalation driving defense re-ratings; LMT, RTX, NOC in spotlight
+- Earnings before open today: CASY (Casey's General Stores) — small catalyst, not relevant
+- Earnings after close today: GME — reject
+- Economic calendar:
+  - Today Sep 8: **No major releases** — clean trading day
+  - Wed Sep 10: PPI 8:30 AM ET (next key risk event)
+  - Thu Sep 11: CPI 8:30 AM ET — critical FOMC input; oil-driven inflation risk
+  - Sep 15–16: FOMC rate decision (~60% odds 25bp hike to 3.75–4.00%); Fed in quiet period since Sep 5
+- Sector momentum:
+  - Leading: XLE (+43% YTD, +21% Q3), XLI, XLP, XLB — intact
+  - Lagging: XLK, XLC, XLY, XLF
+  - SPMO momentum ETF +30% YTD (top holdings: MU, NVDA, AVGO); leadership broadening into industrials/financials
+
+### Trade Ideas
+1. **XOM (ExxonMobil)** — Brent $97.29 + US-Iran tanker war structural oil floor; XLE #1 sector; Sep 8 is first clean trading day (no macro data). CONDITIONAL (same as Sep 7 plan): (a) XOM gaps ≤4% at open, (b) Brent > $95 at open ✓, (c) 10Y yield < 4.82% (likely — yields retreating on crude softening), (d) S&P broadly positive ✓ (+0.49%). Wait for 30-min post-open pullback/consolidation (~9:30–10:00 AM ET). Entry: ~$167–170 on consolidation; stop: −10% GTC; target: +15–16% (~$192–197); R:R ~1.5:1–2:1. Size: 1 share (~$167–170, under $193). Catalyst: US-Iran naval conflict + Brent $97 structural floor + XLE sector leadership.
+2. **LMT or RTX (Defense)** — Iran escalation re-rating defense sector; XLI (leading sector) umbrella; US military escort operations and active Strait deployments support spending narrative. Catalyst: 2026 Iran war + defense spending surge. Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1. Secondary idea — only if XOM entry fails or conditions missed.
+3. **AAPL pre-event positioning** — "Surprise and Shine" Sep 9 event; iPhone 18 Pro + foldable iPhone Ultra + A20 Pro chip. Pre-event bid possible today. REJECT: XLK lagging sector, high "sell the news" risk, better to watch tomorrow's reaction first.
+
+### Risk Factors
+- **CPI/PPI this week**: Oil-driven CPI print Thu Sep 11 could reinforce rate hike expectations → yields spike → equities/energy stocks pressure
+- **FOMC Sep 15–16**: ~60% hike odds; first hike after months of "hold" debate; energy stocks underperformed NFP +162K day (Sep 4) — same risk if CPI hot
+- **Iran ceasefire risk**: Any diplomatic resolution = instant oil reversal; Brent could drop 5–8%; energy longs most exposed
+- **Complacency**: VIX ~14–15 near 2026 lows despite active US-Iran naval war; September historically worst month (VIX median rises to ~19 by early Oct)
+- **XOM gap-too-large risk**: If XOM gaps >4% at open, no entry; do NOT chase
+- **Small account**: $772 total; max $193/position; only 1 share XOM realistically
+- **PDT**: 0/3 day trades; any entry must hold overnight
+
+### Decision
+CONDITIONAL — XOM only, IF all 4 gate conditions met at 9:30–10:00 AM ET open:
+  (a) XOM gaps ≤4% from Friday close
+  (b) Brent > $95 at US open ✓ (structural, likely holds)
+  (c) 10Y yield stable < 4.82% (likely with futures positive and yields retreating)
+  (d) S&P broadly flat-to-positive ✓ (+0.49% futures)
+  → 1 share XOM, 10% trailing stop GTC (check fractional share rules — buy exact whole shares to avoid trailing stop restriction).
+LMT/RTX: secondary watchlist only.
+AAPL: REJECT.
+If any XOM gate fails → full HOLD through CPI Sep 11 and FOMC Sep 16.
+Week of Sep 8: 0/5 trades. Today is the first clean window since account inception.
