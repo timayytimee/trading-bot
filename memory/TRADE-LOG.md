@@ -78,3 +78,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Weekend — markets closed. Account remains fully in cash at the $772.02 phase baseline. No trades placed since account inception. Week of Sep 8 opens at 0/5 trades. Key watchlist for Monday open: (1) Iran diplomatic headlines over the weekend — any ceasefire signals would undercut the Brent ~$95 oil floor and invalidate the energy thesis; (2) 10Y yield — must stabilize below 4.82% before energy sector entry is viable; (3) Pre-market futures direction after Friday's NFP-driven selloff. Energy thesis (XOM/CVX/MPC) remains on watch but rate headwind is the dominant risk. Will require qualifying 30-min pullback setup on Monday before any entry.
+
+---
+
+### Sep 08 — EOD Snapshot (Day 5, Monday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed. Today was the first clean macro data day of week-of-Sep-8, but the XOM entry gate failed at midday on two conditions: (a) S&P edged lower (S&P broadly soft, not flat-to-positive), and (b) a Bloomberg report flagged an Iran-Oman ceasefire deal "days away," which directly invalidates the structural Brent $97+ floor underpinning the energy thesis. XOM fell to $159.47 (−1.69%), underperforming crude — the same pattern seen Sep 4 (rates/rotation overriding oil bid). Brent reached ~$99 intraday on Iran declaring a maritime exclusion zone and reports of a captured US submarine, but the ceasefire headline capped energy upside. HOLD was the correct call. Portfolio: $772.02 cash (100%). Week of Sep 8: 0/5 trades. Next window: Wed Sep 10 (PPI 8:30 AM ET) and Thu Sep 11 (CPI 8:30 AM ET) are the next key risk events; any entry before then requires confirmation that Iran-Oman ceasefire talks have stalled or failed and 10Y yields remain below 4.82%.
