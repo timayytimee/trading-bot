@@ -511,3 +511,18 @@ LMT/RTX: secondary watchlist only.
 AAPL: REJECT.
 If any XOM gate fails → full HOLD through CPI Sep 11 and FOMC Sep 16.
 Week of Sep 8: 0/5 trades. Today is the first clean window since account inception.
+
+### Midday Addendum (Sep 08 — midday scan)
+- **S&P 500**: Edging lower at midday; broad market soft post-Labor Day weekend
+- **XOM**: $159.47 (−1.69% vs Friday close ~$164.15) — pulling back despite Brent near $99; energy stocks underperforming oil (same pattern as Sep 4 NFP day: rate fears / sector rotation overriding crude bid)
+- **Brent**: ~$99/bbl (7-week high) — Iran declared maritime "exclusion zone" outside Strait; Iran reportedly captured US submarine; only 10 ships/day transiting (lowest since May)
+- **CRITICAL RISK**: Bloomberg "Oil Extends Gain as Iran Says Hormuz Deal With Oman Days Away" — potential Iran-Oman brokered ceasefire; if confirmed, oil floor thesis collapses; Brent could drop $5–10 instantly
+- **XOM entry gate (Sep 07 plan) — re-evaluated at midday**:
+  - (a) XOM gaps ≤4%: XOM opened DOWN −2.85% — no gap up; but pulled back further to $159.47 ✓ (technically within range but not a consolidation setup)
+  - (b) Brent > $95 at open: ✓ ($99)
+  - (c) 10Y yield < 4.82%: Likely ✓ (yields retreating, futures were positive AM)
+  - (d) S&P broadly flat-to-positive: ✗ (edging lower at midday)
+  - **Ceasefire risk**: Invalidates structural oil floor assumption → entry gate FAILS
+- **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
+- **HOLD confirmed**: S&P negative + Iran ceasefire risk overhead = skip XOM entry. Ceasefire, if announced, would drop oil 5–10% and pull XOM down with it; wrong risk/reward to enter ahead of that headline.
+- **Outlook**: Wait for Iran-Oman deal to resolve (confirm or deny) before any energy entry. If deal falls through and oil sustains above $95 with S&P stabilizing, energy entry case remains live for Wed–Thu (pre-CPI Sep 11).
