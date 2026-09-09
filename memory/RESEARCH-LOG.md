@@ -591,3 +591,13 @@ Week of Sep 8: 0/5 trades. Patience intact. One clean entry beats three speculat
 - **Gate result**: (d) FAILS — S&P negative. Same energy-underperforms-in-rising-rate-environment pattern as Sep 4 and Sep 8. Oil hitting $100 triggers "sell the news" risk explicitly flagged in pre-market research.
 - **PPI tomorrow 8:30 AM ET**: Overnight macro risk too high for any new position entered today.
 - **Decision: FULL HOLD** — No trades placed. Portfolio $772.02 cash (100%). Week of Sep 8: 0/5 trades.
+
+### Midday Addendum (Sep 09 — midday scan)
+- **S&P 500**: −0.52% midday; Dow −0.58%; Nasdaq −0.35% — declines accelerated after ~11 AM as Brent crossed $100 for first time since July; energy/inflation fears driving broad selling
+- **Brent crude**: Crossed $100/bbl during session — "sell the news" risk flagged pre-market materialized; US-Iran new strikes ongoing, Strait supply squeeze intact
+- **XOM**: Trading $158.75–$163.11 intraday — down from Sep 8 close ~$160.66; energy stocks still underperforming crude (rate/dollar headwind pattern continues)
+- **Iran ceasefire**: No deal announced; US-Iran new strikes confirmed at midday; Oman talks unresolved — oil floor structural but market selling energy stocks on inflation/rate fear
+- **Gate (d) re-confirmed FAIL**: S&P −0.52% — well below flat-to-positive threshold
+- **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
+- **HOLD confirmed**: Zero trades correct. Brent $100 crossing triggered "sell the news" in energy stocks; rate-fear rotation overriding oil bid for 3rd consecutive session (Sep 4, Sep 8, Sep 9)
+- **Tonight/Tomorrow**: AAPL event result post-1 PM ET; PPI 8:30 AM ET Sep 10 (overnight data risk); watch for Brent to establish above $100 or reverse; energy underperformance pattern must break before XOM entry viable
