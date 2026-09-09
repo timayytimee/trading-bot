@@ -89,3 +89,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed. Today was the first clean macro data day of week-of-Sep-8, but the XOM entry gate failed at midday on two conditions: (a) S&P edged lower (S&P broadly soft, not flat-to-positive), and (b) a Bloomberg report flagged an Iran-Oman ceasefire deal "days away," which directly invalidates the structural Brent $97+ floor underpinning the energy thesis. XOM fell to $159.47 (−1.69%), underperforming crude — the same pattern seen Sep 4 (rates/rotation overriding oil bid). Brent reached ~$99 intraday on Iran declaring a maritime exclusion zone and reports of a captured US submarine, but the ceasefire headline capped energy upside. HOLD was the correct call. Portfolio: $772.02 cash (100%). Week of Sep 8: 0/5 trades. Next window: Wed Sep 10 (PPI 8:30 AM ET) and Thu Sep 11 (CPI 8:30 AM ET) are the next key risk events; any entry before then requires confirmation that Iran-Oman ceasefire talks have stalled or failed and 10Y yields remain below 4.82%.
+
+---
+
+### Sep 09 — EOD Snapshot (Day 6, Wednesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Full HOLD — third consecutive session of energy stocks underperforming crude (same pattern as Sep 4 NFP day and Sep 8). Brent crossed $100/bbl intraday for the first time since July; the pre-planned "sell the news" risk on Brent $100 materialized immediately — S&P slipped ~−0.52% midday, gate (d) failed again (S&P must be flat-to-positive). No Iran-Oman ceasefire deal confirmed; US-Iran strikes continued; structural Hormuz supply squeeze intact. XOM traded $158.75–$163.11 intraday (still underperforming crude). AAPL "Surprise and Shine" event at 1 PM ET (iPhone 18 Pro, foldable iPhone Ultra, A20 Pro chip); XLK remained lagging sector; energy/inflation fears drove broad-based selling. Cash preservation correct for a third day. Portfolio: $772.02 cash (100%). Week of Sep 8: 0/5 trades. Tomorrow: PPI 8:30 AM ET is next binary event; if PPI soft + Brent holds above $97 + S&P recovers flat-to-positive + no ceasefire → XOM entry conditional again at 30-min consolidation. If PPI hot → HOLD through CPI Sep 11 and FOMC Sep 16.
