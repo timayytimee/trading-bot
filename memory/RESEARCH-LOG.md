@@ -581,3 +581,13 @@ If ceasefire announced before open OR XOM gaps >3% → Full HOLD.
 LMT/RTX: secondary only if energy thesis invalidated. AAPL: REJECT.
 PPI tomorrow is the key reason to stay light today — overnight data risk.
 Week of Sep 8: 0/5 trades. Patience intact. One clean entry beats three speculative ones.
+
+### Market-Open Addendum (Sep 09 — 9:30–9:45 AM ET)
+- **Brent crude**: $99.35 open → $102.05 (7 AM ET) — crossed $100 psychological level ✓ (gate b)
+- **Iran ceasefire**: No deal confirmed; negotiations "ongoing" per ABC/CBS; Oman talks unresolved ✓ (gate a)
+- **10Y yield**: Closed Sep 8 at 4.786%; likely rising today with oil at $100+ (gate c uncertain)
+- **S&P 500**: SLIPPING at open — "Dow, S&P 500, Nasdaq slip as oil prices hit $100"; down ~0.3% ✗ (gate d FAILS)
+- **XOM last trade**: $164.045 at 9:37 AM ET (recovered from $159.47 Sep 8 low, but S&P down)
+- **Gate result**: (d) FAILS — S&P negative. Same energy-underperforms-in-rising-rate-environment pattern as Sep 4 and Sep 8. Oil hitting $100 triggers "sell the news" risk explicitly flagged in pre-market research.
+- **PPI tomorrow 8:30 AM ET**: Overnight macro risk too high for any new position entered today.
+- **Decision: FULL HOLD** — No trades placed. Portfolio $772.02 cash (100%). Week of Sep 8: 0/5 trades.
