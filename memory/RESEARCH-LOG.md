@@ -526,3 +526,58 @@ Week of Sep 8: 0/5 trades. Today is the first clean window since account incepti
 - **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
 - **HOLD confirmed**: S&P negative + Iran ceasefire risk overhead = skip XOM entry. Ceasefire, if announced, would drop oil 5–10% and pull XOM down with it; wrong risk/reward to enter ahead of that headline.
 - **Outlook**: Wait for Iran-Oman deal to resolve (confirm or deny) before any energy entry. If deal falls through and oil sustains above $95 with S&P stabilizing, energy entry case remains live for Wed–Thu (pre-CPI Sep 11).
+
+---
+
+## 2026-09-09 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 8: 0/5 trades used
+
+### Market Context
+- WTI: ~$92.69/bbl (Sep 8 close/futures); Brent: ~$99.85/bbl (Sep 8 close) — approaching $100 psychological level; US-Iran naval conflict + no ceasefire deal = structural supply squeeze
+- S&P 500 futures: ~7,690.50 (+0.13% premarket); range flat-to-slightly-positive; cautious tone as oil approaches $100
+- VIX: ~15.72 (Sep 8 close); elevated vs. 2026 lows (13.8); rising as geopolitical + inflation risks compound
+- **AAPL "Surprise and Shine" event TODAY at 10 AM PT / 1 PM ET**: iPhone 18 Pro, foldable iPhone Ultra, A20 Pro chip, new Apple Watch, Siri AI; first event under new CEO John Ternus. AAPL ~$319.97 (−2.5% yesterday), +18–21% YTD.
+- **Iran/Hormuz**: NO ceasefire deal confirmed despite Bloomberg "days away" claim Sep 8. Trump threatened to "bomb Oman" if it interferes; 60-day ceasefire expired; Iran-Oman talks ongoing but unresolved. Strait transit at trickle (~10 ships/day). Structural oil floor intact.
+- **Sector performance (Sep 9)**: XLE leading (+1.3% early); XLY lagging (−1.9%). Oil near $100 = inflation fear driving rate-sensitive sectors lower.
+- Earnings before open: SUNB, COO (minor; no relevant catalysts); ~33 total reports
+- Economic calendar:
+  - Today Sep 9: NFIB Small Business Optimism 6 AM ET (minor)
+  - **Wed Sep 10: PPI 8:30 AM ET** — pipeline inflation; oil-driven upside risk
+  - **Thu Sep 11: CPI 8:30 AM ET** — critical FOMC input; August energy inflation likely hot
+  - **Sep 15–16: FOMC rate decision** (~60% odds 25bp hike to 3.75–4.00%); Fed in quiet period
+- Sector momentum: XLE, XLI, XLP, XLB Leading | XLK, XLC, XLY, XLF Lagging | XLRE/XLU Improving
+
+### Trade Ideas
+1. **XOM (ExxonMobil)** — Brent $99.85 approaching $100 psychological level; no Iran-Oman ceasefire confirmed; XLE #1 sector +43% YTD; structural Hormuz supply squeeze. XOM closed Sep 8 at ~$160.66 (recovered from $159.47 intraday low). CONDITIONAL: (a) Iran-Oman deal NOT announced by 9:30 AM, (b) Brent > $97 at open, (c) 10Y yield stable < 4.82%, (d) S&P flat-to-positive. Wait for 30-min post-open consolidation — do NOT chase if gapping >3%. Entry: ~$161–164 on consolidation; stop: −10% trailing GTC (whole shares only — 1 share max); target: +15% (~$185–189); R:R ~1.5:1. Catalyst: Brent $100 threshold + US-Iran naval conflict structural floor + XLE momentum.
+2. **LMT or RTX (Defense)** — Iran war driving defense re-rating; XLI in leading sector quadrant; US military escort operations and active Strait deployments. Secondary idea if XOM entry fails or ceasefire announced (energy reversal). Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1. Catalyst: 2026 US-Iran war + defense spending surge.
+3. **AAPL (Apple) — REJECT** — Event day; XLK lagging sector; stock up 18–21% YTD with analyst 26% overvaluation flag; classic "sell the news" setup. Watch post-event reaction tomorrow. No trade today.
+
+### Risk Factors
+- **Iran-Oman ceasefire headline risk** — any deal announcement = instant Brent drop $5–10; energy longs wiped out fast; single biggest downside risk today
+- **Brent approaching $100 = "buy the news" risk** — sell-the-news reversal on headline crossing $100 is real; don't chase parabolic move
+- **PPI tomorrow Sep 10 (8:30 AM ET)** — overnight hold into macro data; hot PPI = rate hike cement + yield spike + equity pressure
+- **CPI Sep 11 + FOMC Sep 16** — risk-heavy week; multiple binary events favor reducing position size or staying flat
+- **Energy underperformance pattern** — XOM fell −1.69% yesterday despite Brent $99; rate/dollar headwinds overriding oil bid at times (same as Sep 4 NFP day)
+- **VIX 15.72 and rising** — September seasonally worst month; VIX median reaches ~19 by early Oct; complacency premium wearing off
+- **AAPL event at 1 PM ET** — could pressure overall sentiment if disappoints; or create tech rotation noise
+- **PDT**: 0/3 day trades used; any entry must be swing trade held overnight
+
+### Decision
+CONDITIONAL — XOM only (1 share), IF at 9:30–10:00 AM ET all met:
+  (a) Iran-Oman ceasefire NOT confirmed ✗/✓ (TBD at open)
+  (b) Brent > $97 at US open (likely ✓ given $99.85 Sep 8 close)
+  (c) 10Y yield < 4.82% (likely ✓ with futures slightly positive)
+  (d) S&P flat-to-positive (futures +0.13% ✓ — monitor at open)
+  → 1 share XOM, 10% trailing stop GTC. Whole shares only (fractional blocks trailing stop per Alpaca rules).
+If ceasefire announced before open OR XOM gaps >3% → Full HOLD.
+LMT/RTX: secondary only if energy thesis invalidated. AAPL: REJECT.
+PPI tomorrow is the key reason to stay light today — overnight data risk.
+Week of Sep 8: 0/5 trades. Patience intact. One clean entry beats three speculative ones.
