@@ -647,3 +647,17 @@ Week of Sep 8: 0/5 trades. Patience intact. One clean entry beats three speculat
 HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-to-back with CPI Sep 11 and FOMC Sep 16 makes the risk/reward for new entries poor. Energy underperformance vs. crude (3 consecutive sessions) hasn't broken. XOM conditional entry only viable if PPI is soft AND all 4 gates pass intraday — which is a high bar. WebSearch unavailable reduces research confidence further. Zero trades; cash preservation priority through FOMC Sep 16.
 - **CONDITIONAL**: Post-PPI, if print is soft/inline and S&P recovers to flat-to-positive and Brent holds $97+, reassess XOM in first 30 minutes. Otherwise full HOLD through CPI tomorrow.
 - Week of Sep 8: 0/5 trades. Patience intact.
+
+### Midday Addendum (Sep 10 — midday scan)
+- **PPI August 2026 (released 8:30 AM ET)**: +0.4% MoM (inline with Dow Jones consensus); +5.4% YoY (0.1pp above est); Core PPI ex food & energy +0.2% MoM (below +0.3% est — softer than expected). Goods +1.1%, Services +0.1%. Drivers: diesel, jet fuel, gasoline, chemicals. Not a hot surprise on core — but headline annual 5.4% still well above Fed 2% target.
+- **S&P 500**: −0.68% midday; Dow/Nasdaq also declining — "risk-off" again; bond yields "jumping" (per Yahoo Finance/TheStreet)
+- **Brent crude**: ~$105/bbl — Iran targeted US Navy warships (new escalation); oil accelerating above $100 close; structural Hormuz squeeze worsening
+- **XOM / Energy**: Energy stocks still underperforming crude (4th consecutive session: Sep 4, Sep 8, Sep 9, Sep 10); rate-fear/dollar headwind continues to override oil bid
+- **XOM entry gate re-eval**:
+  - (a) PPI soft/inline: PARTIAL ✓ (core below est; headline inline)
+  - (b) Brent > $97: ✓ (~$105)
+  - (c) 10Y yield < 4.82%: ✗ (yields jumping; 52-wk highs set yesterday)
+  - (d) S&P flat-to-positive: ✗ (−0.68%)
+- **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
+- **HOLD confirmed**: Gates (c) and (d) fail. Energy underperformance pattern intact for 4th day. Cash preservation correct.
+- **Tomorrow**: CPI August 2026 (8:30 AM ET Sep 11) — critical FOMC swing factor; if core CPI soft + energy stocks begin decoupling positively from crude, XOM entry may finally clear all gates. Full HOLD until CPI result and post-data S&P reaction confirm direction.
