@@ -601,3 +601,49 @@ Week of Sep 8: 0/5 trades. Patience intact. One clean entry beats three speculat
 - **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
 - **HOLD confirmed**: Zero trades correct. Brent $100 crossing triggered "sell the news" in energy stocks; rate-fear rotation overriding oil bid for 3rd consecutive session (Sep 4, Sep 8, Sep 9)
 - **Tonight/Tomorrow**: AAPL event result post-1 PM ET; PPI 8:30 AM ET Sep 10 (overnight data risk); watch for Brent to establish above $100 or reverse; energy underperformance pattern must break before XOM entry viable
+
+---
+
+## 2026-09-10 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 8: 0/5 trades used
+
+### Market Context
+- **⚠️ WebSearch tool unavailable this session** — live market data (oil, futures, VIX, news) could not be fetched; research draws from Sep 09 close data and scheduled economic calendar.
+- WTI: ~$92–93/bbl (Sep 9 close estimate); Brent: ~$100–102/bbl — first $100 close since July; structural Iran Strait of Hormuz squeeze
+- S&P 500 futures: Unknown live (Sep 9 closed −0.52%); futures direction pre-PPI unclear; cautious baseline
+- VIX: ~15.72 (Sep 9 close); rising from 2026 lows ~13.8; September seasonality headwind
+- **PPI August 2026 (8:30 AM ET TODAY)** — dominant event; oil-driven upside risk; hot PPI = rate hike cemented + yields spike = energy stocks face dual headwind (same as NFP +162K on Sep 4)
+- **CPI August 2026 (8:30 AM ET Sep 11 TOMORROW)** — critical FOMC input; back-to-back binary events
+- **FOMC Sep 15–16**: ~60% odds 25bp hike to 3.75–4.00%; Fed in quiet period; CPI is swing factor
+- **Iran/Hormuz**: No ceasefire confirmed Sep 9; US-Iran new strikes ongoing; Strait transit ~10 ships/day; oil floor structural but market keeps selling energy stocks on rate/dollar fear
+- **AAPL "Surprise and Shine" Sep 9 event** (result unknown — WebSearch down): iPhone 18 Pro, foldable iPhone Ultra, A20 Pro; XLK lagging sector; post-event reaction TBD
+- Earnings before open today: Unknown (WebSearch down); no pre-known major catalyst
+- Sector momentum: XLE (+43% YTD) #1 but underperforming crude 3 straight sessions; XLI, XLP, XLB leading; XLK, XLC, XLY, XLF lagging
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — CONDITIONAL POST-PPI** — Brent $100+ structural floor (Iran Strait); XLE #1 sector; energy underperformance pattern must break. Gate: (a) PPI soft/inline (not hot), (b) Brent > $97 at open, (c) 10Y yield < 4.82%, (d) S&P flat-to-positive. If ALL pass → wait for 30-min post-open consolidation; Entry: ~$160–164 (1 share); stop: −10% trailing GTC; target: +15%; R:R ~1.5:1. Catalyst: Brent $100+ floor + soft PPI relief rally + XLE momentum. REJECT if PPI hot or S&P negative.
+2. **LMT or RTX (Defense) — secondary** — Iran war driving defense re-rating; US escort operations + Strait crisis = sustained defense spend; XLI in leading sector. Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1. Activate only if energy thesis invalidated by PPI/ceasefire or XOM entry gate fails.
+3. **Full HOLD (default)** — PPI today + CPI tomorrow + FOMC Sep 16 = three binary events in 5 days. Staying flat is the correct posture until PPI result clears and post-data price action confirms direction.
+
+### Risk Factors
+- **PPI 8:30 AM ET today** — oil-driven August PPI likely elevated; hot print = hike cemented, yields spike, energy stocks fall despite crude strength (Sep 4 pattern repeats)
+- **CPI Sep 11 tomorrow** — back-to-back macro events; entering any position today means overnight CPI exposure
+- **Energy underperformance pattern** — XOM fell −1.69% Sep 8 and underperformed on Sep 4 and Sep 9 despite rising crude; rate/dollar headwinds repeatedly override oil bid
+- **Brent $100 sell-the-news risk** — psychological level crossed Sep 9; market may have priced oil floor; any ceasefire headline = instant $5–10 Brent drop
+- **Iran ceasefire** — Oman talks ongoing; any deal = energy thesis invalidated immediately
+- **WebSearch unavailable** — reduced information quality today; proceed conservatively
+- **FOMC Sep 15–16** — rate hike in 5 days; market may not support new long positions with hike looming
+- **PDT**: 0/3 day trades used; any entry must hold overnight
+
+### Decision
+HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-to-back with CPI Sep 11 and FOMC Sep 16 makes the risk/reward for new entries poor. Energy underperformance vs. crude (3 consecutive sessions) hasn't broken. XOM conditional entry only viable if PPI is soft AND all 4 gates pass intraday — which is a high bar. WebSearch unavailable reduces research confidence further. Zero trades; cash preservation priority through FOMC Sep 16.
+- **CONDITIONAL**: Post-PPI, if print is soft/inline and S&P recovers to flat-to-positive and Brent holds $97+, reassess XOM in first 30 minutes. Otherwise full HOLD through CPI tomorrow.
+- Week of Sep 8: 0/5 trades. Patience intact.
