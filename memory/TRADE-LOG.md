@@ -100,3 +100,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Full HOLD — third consecutive session of energy stocks underperforming crude (same pattern as Sep 4 NFP day and Sep 8). Brent crossed $100/bbl intraday for the first time since July; the pre-planned "sell the news" risk on Brent $100 materialized immediately — S&P slipped ~−0.52% midday, gate (d) failed again (S&P must be flat-to-positive). No Iran-Oman ceasefire deal confirmed; US-Iran strikes continued; structural Hormuz supply squeeze intact. XOM traded $158.75–$163.11 intraday (still underperforming crude). AAPL "Surprise and Shine" event at 1 PM ET (iPhone 18 Pro, foldable iPhone Ultra, A20 Pro chip); XLK remained lagging sector; energy/inflation fears drove broad-based selling. Cash preservation correct for a third day. Portfolio: $772.02 cash (100%). Week of Sep 8: 0/5 trades. Tomorrow: PPI 8:30 AM ET is next binary event; if PPI soft + Brent holds above $97 + S&P recovers flat-to-positive + no ceasefire → XOM entry conditional again at 30-min consolidation. If PPI hot → HOLD through CPI Sep 11 and FOMC Sep 16.
+
+---
+
+### Sep 10 — EOD Snapshot (Day 7, Wednesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Full HOLD — fourth consecutive session of energy stocks underperforming crude (Sep 4, Sep 8, Sep 9, Sep 10). PPI August 2026 released at 8:30 AM ET: +0.4% MoM (inline with consensus), +5.4% YoY (0.1pp above est), Core PPI +0.2% MoM (below +0.3% est — softer than feared). The partial soft core print was not enough: S&P declined −0.68% midday as bond yields surged, and Brent rallied to ~$105/bbl on fresh Iran strikes targeting US Navy warships. XOM entry gate re-evaluated and rejected: gates (c) and (d) both failed — yields jumping to 52-week highs and S&P firmly negative. Energy stocks continued to underperform crude for the same rate/dollar headwind reason (Sep 4 pattern). No positions placed, no orders submitted. Portfolio: $772.02 cash (100%). Week of Sep 8: 0/5 trades. Tomorrow: CPI August 2026 at 8:30 AM ET is the critical FOMC swing factor — soft core CPI + energy stocks finally decoupling positively from crude would be the first genuine XOM entry window since inception. If CPI hot → HOLD through FOMC Sep 16.
