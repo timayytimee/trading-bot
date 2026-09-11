@@ -111,3 +111,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Full HOLD — fourth consecutive session of energy stocks underperforming crude (Sep 4, Sep 8, Sep 9, Sep 10). PPI August 2026 released at 8:30 AM ET: +0.4% MoM (inline with consensus), +5.4% YoY (0.1pp above est), Core PPI +0.2% MoM (below +0.3% est — softer than feared). The partial soft core print was not enough: S&P declined −0.68% midday as bond yields surged, and Brent rallied to ~$105/bbl on fresh Iran strikes targeting US Navy warships. XOM entry gate re-evaluated and rejected: gates (c) and (d) both failed — yields jumping to 52-week highs and S&P firmly negative. Energy stocks continued to underperform crude for the same rate/dollar headwind reason (Sep 4 pattern). No positions placed, no orders submitted. Portfolio: $772.02 cash (100%). Week of Sep 8: 0/5 trades. Tomorrow: CPI August 2026 at 8:30 AM ET is the critical FOMC swing factor — soft core CPI + energy stocks finally decoupling positively from crude would be the first genuine XOM entry window since inception. If CPI hot → HOLD through FOMC Sep 16.
+
+---
+
+### Sep 11 — EOD Snapshot (Day 8, Thursday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Full HOLD — CPI August 2026 printed inline (Headline +0.4% MoM / +3.4% YoY; Core +0.3% MoM / +2.4% YoY — softer than feared). S&P staged a +0.96% CPI relief rally; gates (a), (b), and (d) all passed. However gate (c) failed decisively: 10Y yield hit 4.91% (near multi-year highs), well above the 4.82% threshold. Fed rate hike Sep 15–16 is now "all but assured." XOM ~$165.23; energy stocks bounced with the broader market but entering ahead of a confirmed rate hike cycle remains poor risk/reward. No positions placed, no orders submitted. Portfolio: $772.02 cash (100%). Week of Sep 8 final: 0/5 trades. Next window: post-FOMC Sep 17+. If Fed hikes 25bp as priced and language is not incrementally hawkish, yields may stabilize and XOM entry case re-opens with 10Y < 4.82% as the key gate.
