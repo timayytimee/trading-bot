@@ -661,3 +661,60 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
 - **HOLD confirmed**: Gates (c) and (d) fail. Energy underperformance pattern intact for 4th day. Cash preservation correct.
 - **Tomorrow**: CPI August 2026 (8:30 AM ET Sep 11) — critical FOMC swing factor; if core CPI soft + energy stocks begin decoupling positively from crude, XOM entry may finally clear all gates. Full HOLD until CPI result and post-data S&P reaction confirm direction.
+
+---
+
+## 2026-09-11 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 8: 0/5 trades used
+
+### Market Context
+- **Brent crude**: ~$106.11/bbl (−1.41% from Sep 10 ~$108 high); WTI ~$102.59/bbl (+0.11%)
+- **Iran/Hormuz**: Ceasefire repeatedly violated; Iranian ballistic launch toward Kuwait, drone attacks near Strait; traffic severely disrupted; oil floor structural, tensions ongoing
+- **S&P 500 futures**: +0.17% premarket; 64% probability of higher open; Dow futures +0.28%, Nasdaq +0.02%, Russell 2000 +0.18% — modest positive tone
+- **Asia markets**: MSCI Asia Pacific −1.7% overnight (steepest 3-week drop) on oil surge + inflation fears; Japan, S. Korea, Australia, Taiwan all down
+- **VIX**: 16.34 (normal range; up 14.7% YoY from ~14.2; September seasonality headwind)
+- **⚠️ CPI August 2026 (8:30 AM ET TODAY)** — THE dominant event; last inflation data before FOMC Sep 15-16
+  - Consensus: Headline +0.4% MoM / +3.4% YoY; Core +0.4% MoM / +2.4% YoY
+  - "Fate of September Fed meeting lies with August CPI" — Citigroup
+  - ACTUAL RESULTS NOT YET RELEASED (pre-market research; release imminent)
+- **FOMC Sep 15–16**: 56–70% odds of 25bp hike to 3.75–4.00%; CPI is the swing factor
+- **PPI Sep 10 (recap)**: Headline +0.4% MoM / +5.4% YoY (inline); Core +0.2% MoM (below +0.3% est — softer than feared); did not prevent market selloff −0.68%
+- **XOM**: ~$165.23 close Sep 10; energy sector slid −0.8% Sep 10 (4th consecutive underperformance vs crude — Sep 4, 8, 9, 10)
+- **Sector momentum**: Leading: XLP, XLI, XLB, XLE (+22% YTD); Lagging: XLK, XLC, XLY, XLF; XLE #1 YTD but 4 straight sessions underperforming crude
+- **Earnings today**: ~4 reports scheduled before open; no major named catalyst identified
+- **10Y yield**: At/near 52-week highs after PPI; exact pre-market level unknown but upward pressure remains
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — POST-CPI CONDITIONAL** — This is the highest-probability entry window since account inception IF CPI prints soft.
+   - Catalyst: Brent $106+ structural floor (Iran Hormuz crisis ongoing); XLE #1 sector YTD; potential CPI relief rally
+   - Gate: (a) Core CPI ≤ +0.4% MoM AND headline ≤ +3.4% YoY, (b) Brent > $97 at open, (c) 10Y yield stabilizes or falls, (d) S&P flat-to-positive post-CPI
+   - If ALL pass → wait for 30-min post-open consolidation; Entry: ~$163–167 (1 share); 10% trailing stop GTC; target: +15%; R:R ~1.5:1
+   - REJECT if CPI hot (core >0.4% MoM or YoY >3.5%) → energy underperformance pattern resumes
+2. **LMT or RTX (Defense) — secondary fallback** — Iran war ongoing; US escort operations + Hormuz crisis = sustained defense spend; XLI in leading sector
+   - Entry: 30-min post-CPI consolidation; stop: −8%; target: +16%; R:R ~2:1
+   - Activate only if energy thesis invalidated (ceasefire confirmed) or XOM gate fails; defense less rate-sensitive than energy
+3. **Full HOLD (default before 8:30 AM ET)** — Do not trade before CPI release under any circumstances; CPI is binary; futures barely positive (+0.17%) and Asia down −1.7% means conviction is low pre-data
+
+### Risk Factors
+- **CPI hot print** (core >0.4% or headline >3.5%) → Fed hike cemented → yields spike → energy underperformance pattern continues for 5th day; FOMC Sep 16 in 4 days
+- **5th consecutive energy underperformance** — XOM underperformed crude Sep 4, 8, 9, 10; same rate/dollar headwind may persist regardless of CPI result
+- **Asia markets down 1.7% overnight** — potential drag on US open despite modestly positive futures
+- **Brent $107 sell-the-news risk** — psychological resistance; ceasefire headline = $5–10 instant drop; any Oman deal invalidates energy thesis immediately
+- **FOMC Sep 15–16 overhead** — even with soft CPI, market may not sustain new long positions with 56-70% hike probability in 4 days
+- **Fractional share trailing stop issue** — if position is fractional qty, Alpaca rejects trailing_stop orders; must use whole shares or fixed-stop fallback
+- **PDT**: 0/3 day trades used; any entry must hold overnight (swing trade only)
+
+### Decision
+**CONDITIONAL — GATE ON CPI AT 8:30 AM ET**
+- **If CPI prints soft/inline (core ≤ +0.4% MoM)**: Re-evaluate XOM gate (a)–(d) in first 30 minutes post-open. This is the first genuine XOM entry window since inception — energy underperformance pattern MUST visibly break (XOM up while market positive) before executing.
+- **If CPI prints hot (core >+0.4% MoM or headline >+3.5% YoY)**: FULL HOLD through FOMC Sep 16 (Sep 15-16). No entry in any sector.
+- **Default NOW (pre-8:30 AM)**: HOLD — no trades before CPI release.
+- Week of Sep 8: 0/5 trades. This is the 5th trading day of the week. Patience intact.
