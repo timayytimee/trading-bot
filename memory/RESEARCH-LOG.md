@@ -718,3 +718,19 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **If CPI prints hot (core >+0.4% MoM or headline >+3.5% YoY)**: FULL HOLD through FOMC Sep 16 (Sep 15-16). No entry in any sector.
 - **Default NOW (pre-8:30 AM)**: HOLD — no trades before CPI release.
 - Week of Sep 8: 0/5 trades. This is the 5th trading day of the week. Patience intact.
+
+### Midday Addendum (Sep 11 — midday scan)
+- **CPI August 2026 (released 8:30 AM ET)**: Headline +0.4% MoM / +3.4% YoY (inline with consensus); Core +0.3% MoM / +2.4% YoY — softer than some forecasts but "sticky" per market consensus; Fed rate hike Sep 16 "all but assured"
+- **S&P 500**: +0.96% midday — "relief rally" on in-line print; market was more worried about a hotter number; gate (d) ✓
+- **Brent crude**: ~$105/bbl (−1.4–2.4% today from recent $107 highs) — pulling back on oil profit-taking; still above $97; gate (b) ✓
+- **10Y yield**: 4.91% (near multi-year highs; briefly approached 5.00%) — well above 4.82% gate threshold; gate (c) ✗ **FAILS**
+- **XOM**: ~$165.23 (unchanged from Sep 10 close; energy stocks bouncing with broader market today)
+- **XOM entry gate re-eval**:
+  - (a) Core CPI ≤ +0.4% MoM: ✓ (0.3% — inline/soft)
+  - (b) Brent > $97 at open: ✓ (~$105)
+  - (c) 10Y yield < 4.82%: ✗ (4.91% — significantly above gate)
+  - (d) S&P flat-to-positive: ✓ (+0.96%)
+- **Portfolio**: 0 positions, 0 orders; $772.02 cash (100%). No action taken.
+- **HOLD confirmed**: Gate (c) fails decisively. 10Y at 4.91% is the same rate/dollar headwind that caused XOM underperformance all week (Sep 4, 8, 9, 10). FOMC rate hike Sep 15–16 in 4 days — market now pricing hike as near-certain after CPI. Entering XOM into a confirmed rate hike cycle is poor risk/reward.
+- **Next window**: Post-FOMC (Sep 17+). If Fed hikes 25bp as expected and language is not more hawkish than priced, yields may stabilize; XOM entry case could re-open. Full HOLD through Sep 16 FOMC.
+- Week of Sep 8 final: 0/5 trades. Patience intact.
