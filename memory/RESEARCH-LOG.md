@@ -734,3 +734,56 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **HOLD confirmed**: Gate (c) fails decisively. 10Y at 4.91% is the same rate/dollar headwind that caused XOM underperformance all week (Sep 4, 8, 9, 10). FOMC rate hike Sep 15–16 in 4 days — market now pricing hike as near-certain after CPI. Entering XOM into a confirmed rate hike cycle is poor risk/reward.
 - **Next window**: Post-FOMC (Sep 17+). If Fed hikes 25bp as expected and language is not more hawkish than priced, yields may stabilize; XOM entry case could re-open. Full HOLD through Sep 16 FOMC.
 - Week of Sep 8 final: 0/5 trades. Patience intact.
+
+---
+
+## 2026-09-14 — Pre-market Research (Sunday; preview for Mon Sep 15 open)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 14: 0/5 trades used
+
+### Market Context
+- **WTI**: ~$102.52/bbl (+2.47% today); range $101.76–$103.58
+- **Brent**: ~$107.95/bbl (+3.19%) — approaching $108; near 2026 highs
+- **⚠️ CRITICAL NEW EVENT — Saudi East-West Pipeline shutdown (Sep 11)**: Drone strikes from Iraqi territory (Iran-backed militias) hit the 1,200km East-West pipeline; Saudi Arabia shut it down. It was carrying **4–5 million bbl/day — 4–5% of global supply** — and had been the PRIMARY bypass route for Middle East oil while Hormuz is restricted. BOTH major Middle East oil transit routes now disrupted simultaneously.
+- **Iran/Hormuz (Day 199)**: Strait effectively closed; US naval escorts moving ~14 non-Iranian ships/day; structural multi-month supply squeeze ongoing
+- **S&P 500 futures (Mon Sep 15 open)**: ~7,727.25; ESU26 +0.49% — modestly positive heading into FOMC week
+- **VIX**: 15.84 (Sep 11 close, −11.21% on CPI day); estimate similar Sep 14 weekend
+- **FOMC Sep 15–16 (decision Wed Sep 16 at 2 PM ET)**:
+  - 85.6% CME FedWatch odds of 25bp hike to 3.75–4.00%
+  - Dot plot (SEP) also released Wednesday
+  - Fed Chair press conference 2:30 PM ET
+  - Retail Sales released Wed morning Sep 16 before decision
+  - ADP Employment + Empire State Index: Tue Sep 15 8:15–8:30 AM ET
+  - Initial Claims + housing data: Thu Sep 17
+- **Earnings**: No major pre-market earnings Mon–Wed; Lennar (LEN) after Wed close; Trip.com in focus
+- **Sector momentum**: XLE +47.7% YTD (#1); XLI (+20% H1), XLP, XLB leading; XLK, XLC, XLY, XLF lagging
+- **10Y yield**: 4.91% (Sep 11 close; near multi-year highs); 25bp hike fully priced
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — POST-FOMC Sep 17 CONDITIONAL** — Saudi East-West Pipeline shutdown + Hormuz closure = most severe global oil supply disruption since conflict began; Brent ~$108; XLE #1 sector +47.7% YTD. The "25bp hike as priced → buy the rumor, sell the fact on rates" pattern could finally break the XOM/crude underperformance streak. Gate (all must pass Sep 17 morning): (a) FOMC language not incrementally hawkish beyond 25bp, (b) 10Y yield stabilizes or falls after Wed hike, (c) Brent > $100, (d) S&P flat-to-positive Sep 17. Wait for 30-min post-open consolidation; Entry: ~$160–168 (1 share); 10% trailing stop GTC (whole shares only — Alpaca fractional restriction); target: +15%; R:R ~1.5:1. Catalyst: Saudi+Hormuz dual supply shutdown + XLE sector leadership + post-FOMC rate relief.
+2. **LMT or RTX (Defense) — secondary** — Iran-Iraq war widening; Saudi infrastructure now targeted by Iran-backed Iraqi militias; US military operations expanding; XLI in leading sector. Less rate-sensitive than energy — can enter earlier if FOMC risk is the block. Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1. Catalyst: geopolitical escalation + defense spending surge.
+3. **Full HOLD through Sep 16 FOMC (default)** — 85.6% hike probability means Wednesday is binary; entering before decision risks yield spike on hawkish language; energy underperformed crude 5 straight sessions (Sep 4, 8, 9, 10, 11); pattern must break first.
+
+### Risk Factors
+- **FOMC hawkish surprise** — if dot plot signals >25bp total or language more restrictive than priced → yields spike further above 4.91%, energy stocks underperform crude for 6th consecutive session
+- **Saudi pipeline repair** — any quick repair or ceasefire = oil supply partially restored; Brent could drop $5–10 fast
+- **Oil at $108 = "sell the news" risk** — psychological resistance zone; profit-taking on Saudi headline already partly in price
+- **XOM underperformance streak** — 5 consecutive sessions of energy stocks lagging crude despite rising oil; rate headwind has been persistent and structural
+- **Geopolitical escalation tail** — if conflict widens to Saudi oil infrastructure broadly, risk-off could overwhelm energy long thesis (global recession fear overrides supply premium)
+- **ADP/Empire State Tue morning** — could shift FOMC odds intraday before decision
+- **Retail Sales Wed before FOMC** — hot number = hawkish confirmation; cold = rate relief
+- **Fractional share rule** — must buy whole shares only for trailing stop to work on Alpaca
+- **PDT**: 0/3 day trades used; any entry must be swing trade (hold overnight)
+
+### Decision
+**HOLD through FOMC (Sep 15–16)** — No trades before the rate decision. The Saudi pipeline shutdown is the biggest new catalyst since the conflict began and structurally changes the oil thesis, but it cannot override a Fed that is 85%+ likely to hike Wednesday. Post-FOMC (Sep 17+) is the first genuine entry window: if Fed hikes 25bp as priced and language is not incrementally hawkish, yields may stabilize ("buy the rumor, sell the fact") and XOM entry case opens for the first time since inception with a compelling catalyst.
+- **Watch on Wednesday Sep 16**: (1) Retail Sales pre-FOMC, (2) FOMC statement language — specifically any signals beyond 25bp hike, (3) 10Y yield reaction post-2pm, (4) energy sector reaction vs. S&P
+- **Sep 17 is the target**: 30-min consolidation in XOM, 1 share, 10% trailing stop GTC — but ONLY if all 4 gates pass
+- Week of Sep 14: 0/5 trades. Patience intact.
