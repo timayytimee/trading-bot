@@ -787,3 +787,12 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **Watch on Wednesday Sep 16**: (1) Retail Sales pre-FOMC, (2) FOMC statement language — specifically any signals beyond 25bp hike, (3) 10Y yield reaction post-2pm, (4) energy sector reaction vs. S&P
 - **Sep 17 is the target**: 30-min consolidation in XOM, 1 share, 10% trailing stop GTC — but ONLY if all 4 gates pass
 - Week of Sep 14: 0/5 trades. Patience intact.
+
+### Midday Addendum (Sep 14 — midday scan, markets closed)
+- **No positions / no orders** — account remains $772.02 cash (100%). No action possible or warranted.
+- **Saudi pipeline update**: Yanbu (Red Sea) export storage covers only 5–7 days of exports; no repair timeline given. Combined with Hormuz, 30–40% of Gulf crude output now disrupted.
+- **Strait of Hormuz**: Vessel traffic fallen to **single digits/day** (was 14/day average; pre-conflict normal ~125/day). Merchant vessel struck in Strait over weekend — 1 killed, 3 injured. Escalation accelerating.
+- **FOMC confirmed**: 85.5% CME FedWatch odds of 25bp hike Sep 16 (unchanged from pre-market). Current rate 3.50–3.75%. Fed in quiet period.
+- **Oil**: Brent ~$107–108; WTI ~$102–103. Intraday surge on dual-supply-disruption narrative. Supply shock increasingly structural.
+- **Thesis unchanged**: HOLD through FOMC. Post-Sep 16 (Sep 17+) remains first viable XOM entry window if hike is inline (not incrementally hawkish) and 10Y yield stabilizes below 4.82%.
+- **New risk to monitor**: If Saudi Yanbu reserves deplete within 5–7 days (~Sep 19–21) with no repair, next leg of oil move could be explosive — potential XOM breakout opportunity OR global recession fear-driven risk-off reversal. Watch closely post-FOMC.
