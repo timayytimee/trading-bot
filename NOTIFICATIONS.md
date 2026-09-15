@@ -36,3 +36,14 @@ Week of Sep 8: 0/5 trades so far
 Tomorrow: Monitor Iran headlines + 10Y yield; energy thesis (XOM/CVX/MPC) on watch — need yield stability below 4.82% and qualifying 30-min pullback for entry
 
 [NOTE: Telegram API blocked by proxy — logged here as fallback]
+
+---
+## 2026-09-11 Weekly Review (Telegram 403 — fallback)
+Week ending 2026-09-11
+Portfolio: $772.02 (0.00% week, 0.00% phase)
+vs S&P 500: −0.80% (outperformed by +0.80%)
+Trades: 0 (W:0 / L:0 / open:0)
+Best: N/A  Worst: N/A
+Key: Energy thesis right on oil ($107 Brent) but 10Y at 4.91% blocked all XOM entries; cash outperformed declining S&P
+Next: Post-FOMC Sep 17 is first clean entry window; promote defense (LMT/RTX) to primary
+Grade: C+

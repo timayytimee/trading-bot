@@ -122,3 +122,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Full HOLD — CPI August 2026 printed inline (Headline +0.4% MoM / +3.4% YoY; Core +0.3% MoM / +2.4% YoY — softer than feared). S&P staged a +0.96% CPI relief rally; gates (a), (b), and (d) all passed. However gate (c) failed decisively: 10Y yield hit 4.91% (near multi-year highs), well above the 4.82% threshold. Fed rate hike Sep 15–16 is now "all but assured." XOM ~$165.23; energy stocks bounced with the broader market but entering ahead of a confirmed rate hike cycle remains poor risk/reward. No positions placed, no orders submitted. Portfolio: $772.02 cash (100%). Week of Sep 8 final: 0/5 trades. Next window: post-FOMC Sep 17+. If Fed hikes 25bp as priced and language is not incrementally hawkish, yields may stabilize and XOM entry case re-opens with 10Y < 4.82% as the key gate.
+
+---
+
+### Sep 14 — EOD Snapshot (Day 9, Sunday — market closed)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Sunday — markets closed. No EOD snapshot was logged for Sep 12 (Friday); Alpaca confirms equity unchanged at $772.02 through balance_asof 2026-09-11, consistent with zero trades since inception. FOMC begins tomorrow (Sep 15); decision Sep 16. Fed 25bp hike is fully priced — the key watch is whether the post-decision language is incrementally hawkish. If 25bp + neutral language → 10Y yields may stabilize below 4.82% → XOM energy entry gate re-opens Sep 17+. If hawkish surprise → hold through next data window. Week of Sep 15: 0/5 trades. Full cash. Strategy: wait for FOMC clarity before any entry.

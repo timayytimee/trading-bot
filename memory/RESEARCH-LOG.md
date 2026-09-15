@@ -734,3 +734,145 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **HOLD confirmed**: Gate (c) fails decisively. 10Y at 4.91% is the same rate/dollar headwind that caused XOM underperformance all week (Sep 4, 8, 9, 10). FOMC rate hike Sep 15–16 in 4 days — market now pricing hike as near-certain after CPI. Entering XOM into a confirmed rate hike cycle is poor risk/reward.
 - **Next window**: Post-FOMC (Sep 17+). If Fed hikes 25bp as expected and language is not more hawkish than priced, yields may stabilize; XOM entry case could re-open. Full HOLD through Sep 16 FOMC.
 - Week of Sep 8 final: 0/5 trades. Patience intact.
+
+---
+
+## 2026-09-14 — Pre-market Research (Sunday; preview for Mon Sep 15 open)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 14: 0/5 trades used
+
+### Market Context
+- **WTI**: ~$102.52/bbl (+2.47% today); range $101.76–$103.58
+- **Brent**: ~$107.95/bbl (+3.19%) — approaching $108; near 2026 highs
+- **⚠️ CRITICAL NEW EVENT — Saudi East-West Pipeline shutdown (Sep 11)**: Drone strikes from Iraqi territory (Iran-backed militias) hit the 1,200km East-West pipeline; Saudi Arabia shut it down. It was carrying **4–5 million bbl/day — 4–5% of global supply** — and had been the PRIMARY bypass route for Middle East oil while Hormuz is restricted. BOTH major Middle East oil transit routes now disrupted simultaneously.
+- **Iran/Hormuz (Day 199)**: Strait effectively closed; US naval escorts moving ~14 non-Iranian ships/day; structural multi-month supply squeeze ongoing
+- **S&P 500 futures (Mon Sep 15 open)**: ~7,727.25; ESU26 +0.49% — modestly positive heading into FOMC week
+- **VIX**: 15.84 (Sep 11 close, −11.21% on CPI day); estimate similar Sep 14 weekend
+- **FOMC Sep 15–16 (decision Wed Sep 16 at 2 PM ET)**:
+  - 85.6% CME FedWatch odds of 25bp hike to 3.75–4.00%
+  - Dot plot (SEP) also released Wednesday
+  - Fed Chair press conference 2:30 PM ET
+  - Retail Sales released Wed morning Sep 16 before decision
+  - ADP Employment + Empire State Index: Tue Sep 15 8:15–8:30 AM ET
+  - Initial Claims + housing data: Thu Sep 17
+- **Earnings**: No major pre-market earnings Mon–Wed; Lennar (LEN) after Wed close; Trip.com in focus
+- **Sector momentum**: XLE +47.7% YTD (#1); XLI (+20% H1), XLP, XLB leading; XLK, XLC, XLY, XLF lagging
+- **10Y yield**: 4.91% (Sep 11 close; near multi-year highs); 25bp hike fully priced
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — POST-FOMC Sep 17 CONDITIONAL** — Saudi East-West Pipeline shutdown + Hormuz closure = most severe global oil supply disruption since conflict began; Brent ~$108; XLE #1 sector +47.7% YTD. The "25bp hike as priced → buy the rumor, sell the fact on rates" pattern could finally break the XOM/crude underperformance streak. Gate (all must pass Sep 17 morning): (a) FOMC language not incrementally hawkish beyond 25bp, (b) 10Y yield stabilizes or falls after Wed hike, (c) Brent > $100, (d) S&P flat-to-positive Sep 17. Wait for 30-min post-open consolidation; Entry: ~$160–168 (1 share); 10% trailing stop GTC (whole shares only — Alpaca fractional restriction); target: +15%; R:R ~1.5:1. Catalyst: Saudi+Hormuz dual supply shutdown + XLE sector leadership + post-FOMC rate relief.
+2. **LMT or RTX (Defense) — secondary** — Iran-Iraq war widening; Saudi infrastructure now targeted by Iran-backed Iraqi militias; US military operations expanding; XLI in leading sector. Less rate-sensitive than energy — can enter earlier if FOMC risk is the block. Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1. Catalyst: geopolitical escalation + defense spending surge.
+3. **Full HOLD through Sep 16 FOMC (default)** — 85.6% hike probability means Wednesday is binary; entering before decision risks yield spike on hawkish language; energy underperformed crude 5 straight sessions (Sep 4, 8, 9, 10, 11); pattern must break first.
+
+### Risk Factors
+- **FOMC hawkish surprise** — if dot plot signals >25bp total or language more restrictive than priced → yields spike further above 4.91%, energy stocks underperform crude for 6th consecutive session
+- **Saudi pipeline repair** — any quick repair or ceasefire = oil supply partially restored; Brent could drop $5–10 fast
+- **Oil at $108 = "sell the news" risk** — psychological resistance zone; profit-taking on Saudi headline already partly in price
+- **XOM underperformance streak** — 5 consecutive sessions of energy stocks lagging crude despite rising oil; rate headwind has been persistent and structural
+- **Geopolitical escalation tail** — if conflict widens to Saudi oil infrastructure broadly, risk-off could overwhelm energy long thesis (global recession fear overrides supply premium)
+- **ADP/Empire State Tue morning** — could shift FOMC odds intraday before decision
+- **Retail Sales Wed before FOMC** — hot number = hawkish confirmation; cold = rate relief
+- **Fractional share rule** — must buy whole shares only for trailing stop to work on Alpaca
+- **PDT**: 0/3 day trades used; any entry must be swing trade (hold overnight)
+
+### Decision
+**HOLD through FOMC (Sep 15–16)** — No trades before the rate decision. The Saudi pipeline shutdown is the biggest new catalyst since the conflict began and structurally changes the oil thesis, but it cannot override a Fed that is 85%+ likely to hike Wednesday. Post-FOMC (Sep 17+) is the first genuine entry window: if Fed hikes 25bp as priced and language is not incrementally hawkish, yields may stabilize ("buy the rumor, sell the fact") and XOM entry case opens for the first time since inception with a compelling catalyst.
+- **Watch on Wednesday Sep 16**: (1) Retail Sales pre-FOMC, (2) FOMC statement language — specifically any signals beyond 25bp hike, (3) 10Y yield reaction post-2pm, (4) energy sector reaction vs. S&P
+- **Sep 17 is the target**: 30-min consolidation in XOM, 1 share, 10% trailing stop GTC — but ONLY if all 4 gates pass
+- Week of Sep 14: 0/5 trades. Patience intact.
+
+### Midday Addendum (Sep 14 — midday scan, markets closed)
+- **No positions / no orders** — account remains $772.02 cash (100%). No action possible or warranted.
+- **Saudi pipeline update**: Yanbu (Red Sea) export storage covers only 5–7 days of exports; no repair timeline given. Combined with Hormuz, 30–40% of Gulf crude output now disrupted.
+- **Strait of Hormuz**: Vessel traffic fallen to **single digits/day** (was 14/day average; pre-conflict normal ~125/day). Merchant vessel struck in Strait over weekend — 1 killed, 3 injured. Escalation accelerating.
+- **FOMC confirmed**: 85.5% CME FedWatch odds of 25bp hike Sep 16 (unchanged from pre-market). Current rate 3.50–3.75%. Fed in quiet period.
+- **Oil**: Brent ~$107–108; WTI ~$102–103. Intraday surge on dual-supply-disruption narrative. Supply shock increasingly structural.
+- **Thesis unchanged**: HOLD through FOMC. Post-Sep 16 (Sep 17+) remains first viable XOM entry window if hike is inline (not incrementally hawkish) and 10Y yield stabilizes below 4.82%.
+- **New risk to monitor**: If Saudi Yanbu reserves deplete within 5–7 days (~Sep 19–21) with no repair, next leg of oil move could be explosive — potential XOM breakout opportunity OR global recession fear-driven risk-off reversal. Watch closely post-FOMC.
+
+---
+
+## 2026-09-15 — Pre-market Research (FOMC Day 1)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 15: 0/5 trades used
+
+### Market Context
+- **WTI**: ~$102.69–102.92/bbl (+1.5%); **Brent**: ~$107.05–107.46/bbl (+1.3%)
+  - Saudi East-West pipeline remains shut (struck Sep 11 by Iran-backed Iraqi militias; 4–5M bbl/day offline)
+  - Saudi Yanbu Red Sea reserves estimated at only 5–7 days; countdown to potential full export halt ~Sep 19–21
+  - Strait of Hormuz: <10 transits/day (pre-conflict normal ~125/day); Iran refuses to reopen unless US concessions
+  - Both major Middle East oil transit routes disrupted simultaneously — most severe supply shock since conflict began
+  - Oil nearing $110; next major resistance is $110–115 range
+- **S&P 500 futures**: −0.30% (Dow −0.40%, Nasdaq −0.32%, Russell 2000 −0.39%); Polymarket 32% chance of higher open
+- **VIX**: 17.50 open; intraday range 16.58–18.17 (up from 15.84 Sep 11 close) — fear increasing
+- **⚠️ 10Y TREASURY YIELD CROSSED 5.00%** — rose to 5.02–5.04% pre-market; HIGHEST SINCE 2007
+  - 8bps jump overnight; "US 10-year yields rise to highest level since 2007" per Bloomberg/CNBC
+  - This is ~20bps above the 4.82% XOM entry gate — gate (c) fails decisively and by a widening margin
+- **FOMC Day 1 (of 2)**: Decision Wednesday Sep 16 at 2 PM ET; Retail Sales also Sep 16 at 8:30 AM ET
+- **FOMC rate hike odds**: 80–88% probability of 25bp hike to 3.75–4.00% (CME/Polymarket); most hawkish consensus since conflict began
+- **XOM (Sep 14 close)**: $165.63–$169.45 range; ~$166.72; Barclays reaffirmed Buy (Sep 10)
+- **Earnings before open today**: No major reports scheduled
+- **Sector momentum (YTD)**: XLE +47.7% (#1); XLI, XLP, XLB leading | XLK, XLC, XLY, XLF lagging
+  - Energy 3-month momentum: +14.0% (median sector: −1.9%) — XLE dominant but energy stocks keep underperforming crude
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — POST-FOMC Sep 17 CONDITIONAL**
+   - Structural catalyst is now at maximum strength: Saudi pipeline + Hormuz = 30–40% of Gulf crude output offline
+   - Yanbu depletion ~Sep 19–21 could trigger explosive next leg in oil; XLE +47.7% YTD with further upside if supply shock worsens
+   - Gate (all must pass Sep 17 morning): (a) FOMC 25bp hike as priced with no incremental hawkishness in dot plot, (b) 10Y yield stabilizes or falls post-hike (classic "buy the rumor, sell the fact" on rates), (c) Brent > $100, (d) S&P flat-to-positive Sep 17
+   - Entry: ~$163–170 (1 share, whole shares only per Alpaca fractional restriction); 10% trailing stop GTC; target: +15%; R:R ~1.5:1
+   - Catalyst: Dual supply shutdown + XLE sector leadership + post-FOMC rate relief trade
+2. **LMT or RTX (Defense) — secondary**
+   - Iran war widening to Saudi infrastructure; US military escort operations expanding; XLI in leading sector
+   - Less rate-sensitive than energy; can activate if energy thesis invalidated or post-FOMC if XOM gate fails
+   - Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1
+3. **Full HOLD today (default)** — FOMC Day 1 with binary decision tomorrow; 10Y at 5.02% is a new structural headwind; S&P negative pre-market
+
+### Risk Factors
+- **10Y yield at 5.00%+ (new 2026 high)** — energy stocks have underperformed crude every time yields spike (Sep 4, 8, 9, 10, 11); this is now ~20bps above the entry gate; XOM entry viability at lowest point since inception
+- **FOMC hawkish surprise** — if dot plot signals >2 additional hikes or language more restrictive than priced → yields spike further; 5.25–5.50% range not impossible before year-end
+- **Saudi Yanbu depletion timeline** — if Saudi exports halt (~Sep 19–21 without repair) could trigger risk-off global recession panic, overwhelming even the XOM long thesis
+- **XOM underperformance streak** — 5+ consecutive sessions of energy stocks lagging crude despite oil at $107+; rate/dollar headwind structural and now worse with 5% yield
+- **FOMC overnight binary** — any position entered today bears full FOMC risk; asymmetric downside if hawkish surprise
+- **Iran ceasefire headline** — any sudden diplomatic deal = instant Brent drop $5–10; energy longs most exposed
+- **VIX rising to ~17.5** — fear gauge moving toward September seasonal median (~19 by early Oct); increasing cost of being wrong
+- **PDT**: 0/3 day trades used; any entry must hold overnight (swing trade only)
+
+### Decision
+**HOLD — FOMC Day 1; no trades before Sep 16 2PM ET decision.**
+- 10Y yield at 5.02% (highest since 2007) makes gate (c) fail by the largest margin since tracking began.
+- S&P futures −0.30% (gate d fails).
+- FOMC binary event tomorrow — entering today means overnight rate-decision risk with ~80–88% hike probability.
+- Oil supply thesis stronger than ever (dual supply shutdown), but market has consistently sold energy stocks on inflation/rate fear, not bought them.
+- **Post-FOMC (Sep 17+) remains the first viable XOM entry window** — specifically if: hike is exactly 25bp, dot plot not more hawkish than priced, 10Y yield begins to pull back from 5%, and S&P recovers. If those conditions hold, the Saudi depletion countdown (~Sep 19–21) makes the XOM catalyst uniquely time-sensitive.
+- Week of Sep 15: 0/5 trades. Patience intact.
+
+### Midday Addendum (Sep 15 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **S&P 500**: −0.5% midday (fell from −0.30% pre-mkt); chipmaker selloff leading drag; Nasdaq −0.8%
+- **10Y yield**: 5.02% (highest since 2007 — unchanged from pre-market; gate c fails by ~20bps)
+- **Brent crude**: ~$107.30/bbl (+1.6%); Saudi East-West pipeline still offline; Hormuz still restricted
+- **XOM**: ~$165 range (Sep 14 close $165.99); energy stocks likely underperforming crude again (6th session pattern)
+- **FOMC**: Day 1 of 2-day meeting; decision tomorrow Sep 16 at 2 PM ET; >90% odds 25bp hike
+- **Gate re-eval**:
+  - (a) FOMC outcome: TBD — decision tomorrow
+  - (b) Brent > $100: ✓ ($107.30)
+  - (c) 10Y yield < 4.82%: ✗ (5.02%)
+  - (d) S&P flat-to-positive: ✗ (−0.5%)
+- **No action taken** — gates (c) and (d) fail; no positions to cut or stops to tighten
+- **HOLD confirmed**: Identical to pre-market decision. Market behaving exactly as modeled.
+- **Next window**: Post-FOMC Sep 17. If 25bp hike + non-hawkish language + 10Y yield begins pulling back from 5% + S&P recovers → XOM entry case opens. Saudi Yanbu depletion timeline (~Sep 19–21) adds urgency to post-FOMC entry if gates pass.
