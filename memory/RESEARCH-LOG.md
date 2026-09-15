@@ -860,3 +860,19 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - Oil supply thesis stronger than ever (dual supply shutdown), but market has consistently sold energy stocks on inflation/rate fear, not bought them.
 - **Post-FOMC (Sep 17+) remains the first viable XOM entry window** — specifically if: hike is exactly 25bp, dot plot not more hawkish than priced, 10Y yield begins to pull back from 5%, and S&P recovers. If those conditions hold, the Saudi depletion countdown (~Sep 19–21) makes the XOM catalyst uniquely time-sensitive.
 - Week of Sep 15: 0/5 trades. Patience intact.
+
+### Midday Addendum (Sep 15 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **S&P 500**: −0.5% midday (fell from −0.30% pre-mkt); chipmaker selloff leading drag; Nasdaq −0.8%
+- **10Y yield**: 5.02% (highest since 2007 — unchanged from pre-market; gate c fails by ~20bps)
+- **Brent crude**: ~$107.30/bbl (+1.6%); Saudi East-West pipeline still offline; Hormuz still restricted
+- **XOM**: ~$165 range (Sep 14 close $165.99); energy stocks likely underperforming crude again (6th session pattern)
+- **FOMC**: Day 1 of 2-day meeting; decision tomorrow Sep 16 at 2 PM ET; >90% odds 25bp hike
+- **Gate re-eval**:
+  - (a) FOMC outcome: TBD — decision tomorrow
+  - (b) Brent > $100: ✓ ($107.30)
+  - (c) 10Y yield < 4.82%: ✗ (5.02%)
+  - (d) S&P flat-to-positive: ✗ (−0.5%)
+- **No action taken** — gates (c) and (d) fail; no positions to cut or stops to tighten
+- **HOLD confirmed**: Identical to pre-market decision. Market behaving exactly as modeled.
+- **Next window**: Post-FOMC Sep 17. If 25bp hike + non-hawkish language + 10Y yield begins pulling back from 5% + S&P recovers → XOM entry case opens. Saudi Yanbu depletion timeline (~Sep 19–21) adds urgency to post-FOMC entry if gates pass.
