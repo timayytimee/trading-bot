@@ -133,3 +133,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Sunday — markets closed. No EOD snapshot was logged for Sep 12 (Friday); Alpaca confirms equity unchanged at $772.02 through balance_asof 2026-09-11, consistent with zero trades since inception. FOMC begins tomorrow (Sep 15); decision Sep 16. Fed 25bp hike is fully priced — the key watch is whether the post-decision language is incrementally hawkish. If 25bp + neutral language → 10Y yields may stabilize below 4.82% → XOM energy entry gate re-opens Sep 17+. If hawkish surprise → hold through next data window. Week of Sep 15: 0/5 trades. Full cash. Strategy: wait for FOMC clarity before any entry.
+
+---
+
+### Sep 15 — EOD Snapshot (Day 10, Monday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** FOMC Day 1 of 2-day meeting; decision Wednesday Sep 16 at 2 PM ET with >90% probability of 25bp hike to 3.75–4.00%. 10Y yield reached 5.02% — highest since 2007 and ~20bps above the 4.82% XOM entry gate (c). S&P closed approximately −0.5% (gate d failed). Energy stocks underperformed crude for the 6th consecutive session (Sep 4, 8, 9, 10, 11, 15); Brent ~$107 with Saudi East-West pipeline still offline and Hormuz restricted (<10 transits/day). No positions placed, no orders submitted. Week of Sep 15: 0/5 trades. Post-FOMC Sep 17 is the first viable XOM entry window: requires 25bp inline + non-hawkish dot plot + 10Y yield beginning to pull back from 5% + S&P recovering. Saudi Yanbu reserves at ~5–7 days (depletion ~Sep 19–21) adds urgency to post-FOMC entry if all gates clear.

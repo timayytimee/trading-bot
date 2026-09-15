@@ -47,3 +47,18 @@ Best: N/A  Worst: N/A
 Key: Energy thesis right on oil ($107 Brent) but 10Y at 4.91% blocked all XOM entries; cash outperformed declining S&P
 Next: Post-FOMC Sep 17 is first clean entry window; promote defense (LMT/RTX) to primary
 Grade: C+
+
+---
+## 2026-09-15 EOD (Telegram 403 — proxy blocked)
+EOD 2026-09-15
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+---
+FOMC Day 1: Decision Wed Sep 16 2PM ET (>90% 25bp hike)
+10Y yield: 5.02% (2007 high; gate c fails by 20bps)
+S&P ~-0.5% (gate d fails)
+Energy underperforms crude: 6th consecutive session
+Week Sep 15: 0/5 trades
+Tomorrow: HOLD through FOMC. Post-Sep 16: XOM entry if 25bp inline + non-hawkish + 10Y pulls back + S&P recovers
