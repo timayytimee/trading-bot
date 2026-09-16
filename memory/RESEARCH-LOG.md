@@ -940,3 +940,20 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **Post-FOMC (Sep 17+) is the entry window**: If 25bp + dot plot non-hawkish (median 2026 rate ≤4.00%) + 10Y begins to pull back from 5% + S&P recovers → XOM gate opens for the first time since inception with the strongest catalyst set (Saudi depletion imminent + Hormuz shut + XLE #1 YTD)
 - Watch tonight/post-decision: (1) FOMC statement language — any "ongoing increases" vs. "data-dependent" framing, (2) Dot plot — number of participants signaling >1 hike, (3) 10Y yield reaction post-2 PM, (4) XOM after-hours reaction
 - Week of Sep 15: 0/5 trades. Patience intact. Post-FOMC Sep 17 is the most compelling entry window since account inception.
+
+### Midday Addendum (Sep 16 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **FOMC Decision**: 25bp hike to 3.75–4.00% confirmed — EXACTLY as priced (93% probability pre-meeting). No hawkish surprise on the rate itself.
+- **Dot plot**: Released with decision; key watch is whether median 2026 rate projection stays at 4.00% (baseline) vs. signaling >1 additional hike. Market reaction post-2 PM ET will be decisive.
+- **Brent crude**: ~$108.51 (open); WTI ~$104.68; Saudi East-West pipeline still offline; Hormuz still restricted; structural supply floor intact.
+- **XOM**: $164.49 (range $163.15–$168.58); roughly flat vs. Sep 15 close ~$165. Energy sector watching FOMC language closely.
+- **10Y yield**: ~5.00–5.02% — gate (c) still fails by ~18–20bps even with hike now "sold." "Sell the fact" yield relief not yet confirmed at midday.
+- **S&P 500**: Pre-market +0.12%; FOMC reaction at 2 PM ET will set direction for Sep 17 open.
+- **Gate re-eval** (pre-2 PM — FOMC still live):
+  - (a) FOMC 25bp non-hawkish: ✓ (hike inline; dot plot TBD post-2 PM)
+  - (b) Brent > $100: ✓ ($108.51)
+  - (c) 10Y yield < 4.82%: ✗ (5.00–5.02%)
+  - (d) S&P flat-to-positive: borderline ✓ (pre-market +0.12%; FOMC reaction pending)
+- **No action taken** — FOMC binary still live (dot plot at 2 PM); premature to enter before full reaction
+- **HOLD confirmed through close today**: Post-FOMC reaction tonight and Sep 17 pre-market are the decisive signals. If dot plot non-hawkish + 10Y yield begins pulling back from 5% + S&P recovers → XOM Sep 17 morning entry case opens. If dot plot signals additional hikes → yield spike; full HOLD extends.
+- **Saudi Yanbu urgency**: Depletion timeline ~Sep 19–21 (3–5 days away) adds urgency to post-FOMC entry if gates pass Sep 17.
