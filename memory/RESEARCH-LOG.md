@@ -876,3 +876,67 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **No action taken** — gates (c) and (d) fail; no positions to cut or stops to tighten
 - **HOLD confirmed**: Identical to pre-market decision. Market behaving exactly as modeled.
 - **Next window**: Post-FOMC Sep 17. If 25bp hike + non-hawkish language + 10Y yield begins pulling back from 5% + S&P recovers → XOM entry case opens. Saudi Yanbu depletion timeline (~Sep 19–21) adds urgency to post-FOMC entry if gates pass.
+
+---
+
+## 2026-09-16 — Pre-market Research (FOMC Decision Day)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 15: 0/5 trades used
+
+### Market Context
+- **WTI**: ~$104.68/bbl (−1.09%); **Brent**: ~$108.51/bbl open (slight pullback from $107–108 recent range)
+  - Saudi East-West pipeline still offline (struck Sep 11; 4–5M bbl/day offline)
+  - Saudi Yanbu reserves ~5–7 days as of Sep 14; depletion risk ~Sep 19–21 without repair
+  - Strait of Hormuz: <10 transits/day vs. pre-conflict ~125/day; no resolution
+  - Oil slightly pulling back today — possible pre-FOMC profit-taking; structural supply floor intact
+- **S&P 500 futures**: ~7,666 (+0.12%) — modestly positive after 3 consecutive down sessions; finding footing as oil + yields pull back slightly pre-FOMC
+- **VIX**: ~17.2 (up 0.58%); elevated; rising from 2026 lows ~13.8; September seasonality headwind
+- **10Y Treasury yield**: ~5.00% (highest since 2007; essentially unchanged from Sep 15's 5.02%) — gate (c) fails by ~18–20bps
+- **FOMC Decision TODAY at 2 PM ET (pivotal)**:
+  - 93% probability of 25bp hike to 3.75–4.00% — base case locked in
+  - Dot plot released simultaneously — CRITICAL: may signal 10-8 majority for further hikes
+  - Chair Warsh press conference 2:30 PM ET
+  - "Rate hike only half the story; dot plot is the real market mover" — The Street
+- **Retail Sales August (8:30 AM ET today)**: July was −0.6% MoM (miss); August official Census data out today; NRSInsights same-store sales down 1.1% in Aug (soft consumer signal)
+- **Earnings before open**: No major reports scheduled today
+- **Sector momentum**: XLE +47.7% YTD (#1 sector); 3-month momentum +14.0% (median sector −1.9%); XLI, XLP, XLB leading; XLK, XLC, XLY, XLF lagging
+- **XOM**: ~$169.32 (−0.55% pre-market); Piper Sandler target raised to $185 (Sep 2); Permian hitting record 1.8M boe/day; LNG sales target raised to 50M tons by 2030
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — POST-FOMC Sep 17 CONDITIONAL (highest priority)**
+   - Saudi pipeline + Hormuz closure = most severe dual supply shock since conflict; Brent $108+; XLE #1 sector +47.7% YTD; Yanbu depletion ~Sep 19–21 adds urgency
+   - Gate (all must pass Sep 17 morning): (a) FOMC hike exactly 25bp, no incremental hawkishness in dot plot (b) 10Y yield stabilizes or falls post-decision ("sell the fact" on rates), (c) Brent > $100, (d) S&P flat-to-positive Sep 17
+   - Entry: ~$165–172 (1 whole share — Alpaca fractional share restriction blocks trailing stops); 10% trailing stop GTC; target: +15%; R:R ~1.5:1
+   - Catalyst: Dual supply shutdown + XLE sector leadership + post-FOMC rate relief trade + Yanbu depletion timeline urgency
+2. **LMT or RTX (Defense) — secondary fallback**
+   - Iran war widening to Saudi infrastructure; US military escort operations + Strait crisis = sustained defense spend; XLI in leading sector
+   - Activate only if energy thesis invalidated post-FOMC (ceasefire confirmed) or XOM gate (c) fails again
+   - Entry: 30-min consolidation Sep 17; stop: −8%; target: +16%; R:R 2:1
+3. **Full HOLD today (default)**
+   - No trades before or during FOMC (binary event with dot plot risk)
+   - Pre-FOMC entry means taking full overnight rate-decision risk
+
+### Risk Factors
+- **Dot plot hawkish surprise** — if majority signals >1 additional hike or 2026 terminal rate above 4.25% → yields spike further above 5%; energy underperformance pattern extends; worst-case scenario for XOM entry
+- **Retail Sales 8:30 AM ET** — hot print = demand still strong despite oil shock = more inflationary pressure = more hawkish FOMC confirmation; cold print = dovish relief (helps yields)
+- **Saudi Yanbu depletion ~Sep 19–21** — if Saudi halts Red Sea exports, next oil leg could be explosive ($115+); may trigger global recession fear and risk-off that overwhelms even energy long thesis
+- **XOM underperformance streak** — energy stocks underperformed crude 6 straight sessions (Sep 4, 8, 9, 10, 11, 15); rate/dollar headwind; this pattern must VISIBLY break post-FOMC before entry
+- **10Y yield at 5.00%** — ~18bps above gate; needs to pull back below 4.82% for gate to pass; even with "sell the fact" on rates, 20bps of yield decline in one day is aggressive
+- **Iran ceasefire headline** — any diplomatic resolution = instant Brent drop $5–10; invalidates energy thesis; Oman talks reportedly still ongoing
+- **VIX 17.2 and rising** — September seasonal worst month; median VIX rises to ~19 by early Oct; increasing cost of being wrong
+- **PDT**: 0/3 day trades used; any entry must hold overnight (swing trade only)
+
+### Decision
+**HOLD — No trades before or during FOMC (2 PM ET today).**
+- 10Y yield at 5.00% (gate c fails by ~18bps); S&P futures +0.12% (gate d borderline but FOMC binary risk overhead)
+- FOMC at 2 PM ET is a binary event; dot plot is the real risk beyond the near-certain 25bp hike
+- **Post-FOMC (Sep 17+) is the entry window**: If 25bp + dot plot non-hawkish (median 2026 rate ≤4.00%) + 10Y begins to pull back from 5% + S&P recovers → XOM gate opens for the first time since inception with the strongest catalyst set (Saudi depletion imminent + Hormuz shut + XLE #1 YTD)
+- Watch tonight/post-decision: (1) FOMC statement language — any "ongoing increases" vs. "data-dependent" framing, (2) Dot plot — number of participants signaling >1 hike, (3) 10Y yield reaction post-2 PM, (4) XOM after-hours reaction
+- Week of Sep 15: 0/5 trades. Patience intact. Post-FOMC Sep 17 is the most compelling entry window since account inception.
