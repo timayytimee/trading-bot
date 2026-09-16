@@ -144,3 +144,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** FOMC Day 1 of 2-day meeting; decision Wednesday Sep 16 at 2 PM ET with >90% probability of 25bp hike to 3.75–4.00%. 10Y yield reached 5.02% — highest since 2007 and ~20bps above the 4.82% XOM entry gate (c). S&P closed approximately −0.5% (gate d failed). Energy stocks underperformed crude for the 6th consecutive session (Sep 4, 8, 9, 10, 11, 15); Brent ~$107 with Saudi East-West pipeline still offline and Hormuz restricted (<10 transits/day). No positions placed, no orders submitted. Week of Sep 15: 0/5 trades. Post-FOMC Sep 17 is the first viable XOM entry window: requires 25bp inline + non-hawkish dot plot + 10Y yield beginning to pull back from 5% + S&P recovering. Saudi Yanbu reserves at ~5–7 days (depletion ~Sep 19–21) adds urgency to post-FOMC entry if all gates clear.
+
+---
+
+### Sep 16 — EOD Snapshot (Day 11, Wednesday — FOMC Decision Day)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** FOMC decision day — Fed announced 25bp hike to 3.75–4.00% at 2 PM ET as fully priced. Portfolio held flat at $772.02 cash (100%) for the 11th consecutive session. No positions placed, no orders submitted; full cash preservation through this week's FOMC binary event was the correct call. Week of Sep 15: 0/5 trades. Tomorrow (Sep 17) is the first post-FOMC entry window: conditions required before any XOM buy — (a) Powell press conference tone not incrementally hawkish, (b) 10Y yield beginning to pull back from 5.02% toward 4.82% gate, (c) S&P flat-to-positive in early session, (d) Brent above $97 with no Iran-Oman ceasefire confirmed. Saudi Yanbu reserves approaching depletion (~Sep 19–21) adds catalyst urgency. If all gates clear on Sep 17 morning, XOM entry at 30-min consolidation breakout is the primary trade. If hawkish dot plot surprise or yields spike further → hold through Sep 18+.
