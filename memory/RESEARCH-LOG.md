@@ -957,3 +957,77 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **No action taken** — FOMC binary still live (dot plot at 2 PM); premature to enter before full reaction
 - **HOLD confirmed through close today**: Post-FOMC reaction tonight and Sep 17 pre-market are the decisive signals. If dot plot non-hawkish + 10Y yield begins pulling back from 5% + S&P recovers → XOM Sep 17 morning entry case opens. If dot plot signals additional hikes → yield spike; full HOLD extends.
 - **Saudi Yanbu urgency**: Depletion timeline ~Sep 19–21 (3–5 days away) adds urgency to post-FOMC entry if gates pass Sep 17.
+
+---
+
+## 2026-09-17 — Pre-market Research (Post-FOMC Day 1)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 15: 0/5 trades used
+
+### Market Context
+- **WTI**: ~$102.14/bbl (−0.22%); **Brent**: ~$105.81/bbl (slight pullback from $107–108 recent range)
+  - Saudi East-West pipeline still fully offline (struck Sep 11; 4–5M bbl/day bypassed Hormuz)
+  - Saudi Aramco pivoting to sell ~20M bbls direct from outside Hormuz to Asian refiners (emergency measure)
+  - **Saudi Yanbu depletion IMMINENT**: 5–7 day window from Sep 14 = depletion by Sep 19–21 (2–4 days away); if pipeline not repaired, Saudi Red Sea exports halt
+  - Hormuz: still restricted (<10 transits/day); no Iran-Oman ceasefire confirmed
+  - Oil slightly lower today — pre-market profit-taking after FOMC; structural supply floor remains
+- **S&P 500 futures**: ~7,662 (+0.3–0.6%) — recovering after Sep 16 Dow −600pt selloff; "sell the hike, buy the fact" dynamic; S&P 500 spot ~7,596 (+0.59%)
+- **VIX**: ~17.20 (essentially unchanged); 52-week range 13.38–35.30; elevated September seasonality
+- **10Y Treasury yield**: ~5.016% — still above 4.82% gate (c) by ~18bps; Warsh hawkish language keeping long-end elevated; NO "sell the fact" yield relief materializing
+- **FOMC Outcome (Sep 16 decision — key)**:
+  - ✓ 25bp hike to 3.75–4.00% as priced (unanimous vote) — rate itself inline
+  - ✗ **Dot plot HAWKISH**: signals ≥1 more hike by year-end; 2026–2027 terminal rate projections shifted higher; Chair Warsh specifically highlighted "persistent inflation risks" at press conference
+  - Bottom line: rate inline but language/dot plot MORE hawkish than the "neutral" scenario the XOM gate required; gate (a) FAILS
+- **Economic Releases Today**:
+  - 8:30 AM ET: Initial Jobless Claims (weekly; prev ~228K; mid-cycle indicator)
+  - 8:30 AM ET: New Residential Construction / Building Permits (Aug; housing softness expected)
+  - 8:30 AM ET: Philadelphia Fed Manufacturing Survey (Sep; prev −6.2; sub-zero = contraction)
+  - NAR Pending Home Sales (lower-impact; housing demand signal)
+  - None are CPI/PPI-tier market movers; no binary risk today
+- **Earnings before open**: No major reports scheduled Sep 17 (next major = XOM Oct 23)
+- **Sector momentum (last 30 days)**:
+  - XLE (Energy): #1 sector, +47.7% YTD; 3-month momentum sustained; oil shock driver
+  - XLI (Industrials): leading; defense/infrastructure tailwind
+  - XLK, XLC, XLY, XLF: lagging; rate-sensitive growth sectors under pressure
+- **XOM**: $169.32 (−0.55% pre-market per prior data); "Strong Buy" technical; P/S still reasonable given $105+ Brent; next earnings Oct 23; Permian 1.8M boe/day record
+
+### Trade Ideas
+
+1. **XOM (ExxonMobil) — CONDITIONAL WATCH (not yet actionable)**
+   - Catalyst: Saudi Yanbu depletion ~Sep 19–21 (imminent); Hormuz restricted; Brent $105+ structural floor; XLE #1 sector YTD; S&P recovering today
+   - Gate status: (a) FOMC non-hawkish ✗ (dot plot hawkish, Warsh inflation language); (b) Brent > $100 ✓; (c) 10Y < 4.82% ✗ (5.016%); (d) S&P flat-to-positive ✓ (futures +0.3–0.6%)
+   - **2 of 4 gates failing; no entry today unless intraday catalyst changes (c) and (a) perceptions**
+   - Intraday triggers that could open gate: 10Y falls through 5.00% AND energy stocks visibly outperform S&P intraday (breaking the 7-session underperformance streak)
+   - Entry (if gates clear): 1 whole share XOM at 30-min consolidation (~$165–172); 10% trailing stop GTC; target: +15% (~$190–198); R:R ~1.5:1
+   - Risk: PDT swing trade only (hold overnight); Alpaca trailing stop requires whole shares
+
+2. **RTX (Raytheon Technologies) — Secondary if energy thesis invalidated**
+   - Catalyst: US military escort ops in Hormuz; Iran war widening to Saudi infrastructure; bipartisan defense supplemental spending in pipeline
+   - Entry: 30-min consolidation Sep 17–18; stop: −8%; target: +16%; R:R 2:1
+   - Only activate if XOM gate (c) continues to fail after Sep 19 Yanbu event
+
+3. **HOLD (default) — No trades today**
+   - Hawkish dot plot extends the yield headwind; gate (c) failing by ~18bps
+   - Energy-equity underperformance streak at 7 consecutive sessions; needs visible pattern break before entry
+   - S&P recovery today is encouraging but could reverse intraday
+   - Yanbu depletion timeline: watching for confirmation news Sep 19–21; that event may force 10Y/energy divergence and create first real entry window
+
+### Risk Factors
+- **Hawkish dot plot**: signals ≥1 additional 2026 hike; kills "sell the fact" yield rally; 10Y may grind higher toward 5.2%; longest possible extension of gate (c) failure
+- **Energy stock underperformance streak** (now 7 sessions): rate/dollar headwind still dominating the oil supply shock; XOM needs to VISIBLY outperform crude today to justify a re-entry gate review
+- **Yanbu depletion overshoot risk**: If Saudi halts exports Sep 19–21, next oil surge to $115–120 could trigger global recession fears (demand destruction) → energy longs crushed on stagflation narrative shift
+- **Philly Fed / Initial Claims at 8:30 AM**: weak data = dovish lean (helps yields); strong data = confirmation of FOMC hawk thesis (more yield pressure)
+- **VIX 17.2**: September seasonal headwind; October often spikes; being wrong with a position on has increased cost
+- **PDT**: 0/3 day trades; any entry must hold overnight
+
+### Decision
+**HOLD — No trades today. Dot plot was hawkish; 10Y at 5.016% (gate c fails). Watch intraday for 10Y < 5.00% + energy outperformance pattern break as conditional trigger. Yanbu depletion ~Sep 19–21 is the primary upcoming catalyst; Sep 19 or post-Yanbu could be first genuine entry window since inception.**
+- Week of Sep 15: 0/5 trades. Patience intact.
+- Next gate review: Monday Sep 22 (new week) or earlier if Yanbu halts exports (Sep 19–21).
