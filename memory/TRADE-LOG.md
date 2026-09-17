@@ -155,3 +155,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** FOMC decision day — Fed announced 25bp hike to 3.75–4.00% at 2 PM ET as fully priced. Portfolio held flat at $772.02 cash (100%) for the 11th consecutive session. No positions placed, no orders submitted; full cash preservation through this week's FOMC binary event was the correct call. Week of Sep 15: 0/5 trades. Tomorrow (Sep 17) is the first post-FOMC entry window: conditions required before any XOM buy — (a) Powell press conference tone not incrementally hawkish, (b) 10Y yield beginning to pull back from 5.02% toward 4.82% gate, (c) S&P flat-to-positive in early session, (d) Brent above $97 with no Iran-Oman ceasefire confirmed. Saudi Yanbu reserves approaching depletion (~Sep 19–21) adds catalyst urgency. If all gates clear on Sep 17 morning, XOM entry at 30-min consolidation breakout is the primary trade. If hawkish dot plot surprise or yields spike further → hold through Sep 18+.
+
+---
+
+### Sep 17 — EOD Snapshot (Day 12, Thursday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Post-FOMC Day 1. Fed's dot plot (Sep 16) came in hawkish — signaling ≥1 additional 2026 hike and Warsh's "persistent inflation risks" language; gate (a) failed. 10Y yield drifted from 5.016% to ~4.996-5.00%, still ~17bps above the 4.82% gate (c) threshold — no "sell the fact" yield relief materialized. S&P recovered +0.59% on buy-the-fact momentum (gate d ✓). Major midday catalyst: Saudi Aramco confirmed suspension of crude loadings at Yanbu terminal (Red Sea) — both major Middle East oil transit routes now offline simultaneously; Brent surged to ~$108.75 (+2.9%), WTI to ~$105.83 (+4.38%). Despite maximum oil supply catalyst, 10Y still above gate and hawkish dot plot means XOM entry remains blocked. No trades placed; portfolio $772.02 cash (100%). Week of Sep 15: 0/5 trades. Tomorrow: watch 10Y for any move below 4.82% (the sole remaining gate now that Yanbu halt is confirmed and S&P is recovering); if 10Y cooperates on weak housing/claims data, XOM entry window opens Sep 18+.
