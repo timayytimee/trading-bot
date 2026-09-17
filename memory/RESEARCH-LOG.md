@@ -1031,3 +1031,20 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 **HOLD — No trades today. Dot plot was hawkish; 10Y at 5.016% (gate c fails). Watch intraday for 10Y < 5.00% + energy outperformance pattern break as conditional trigger. Yanbu depletion ~Sep 19–21 is the primary upcoming catalyst; Sep 19 or post-Yanbu could be first genuine entry window since inception.**
 - Week of Sep 15: 0/5 trades. Patience intact.
 - Next gate review: Monday Sep 22 (new week) or earlier if Yanbu halts exports (Sep 19–21).
+
+### Midday Addendum (Sep 17 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **🚨 YANBU SUSPENSION CONFIRMED**: Aramco suspended crude loadings at Yanbu terminal — happening NOW, ahead of the Sep 19–21 depletion estimate. "Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings" (Yahoo Finance / OilPrice.com). This is the event we flagged; Saudi Red Sea exports halting.
+- **Saudi alternative routes**: Saudi seeking ship-to-ship transfers and emergency routing via Sohar (Oman) — stopgap measures; capacity far below Yanbu's 4–5M bbl/day.
+- **Brent crude**: ~$108.75/bbl (+2.9%); **WTI**: ~$105.83/bbl (+4.38%) — highest since May 19. Oil surging on Yanbu halt news.
+- **S&P 500**: +0.59% (7,596); post-FOMC "buy the fact" recovery; gate (d) ✓
+- **10Y Treasury yield**: ~4.996–5.00% (dropped ~2bps from 5.016%); still above gate (c) threshold of 4.82% by ~17bps; gate (c) ✗ — still fails
+- **XOM**: Tracking near Sep 15 close ~$169; energy sector watching Yanbu news closely; MACD turned positive Sep 15 (bullish signal); exact intraday price unavailable
+- **Gate re-eval (Sep 17 midday)**:
+  - (a) FOMC non-hawkish: ✗ (dot plot hawkish; Warsh "persistent inflation risks" language)
+  - (b) Brent > $100: ✓ ($108.75)
+  - (c) 10Y yield < 4.82%: ✗ (4.996–5.00% — only 2bps off; but still fails)
+  - (d) S&P flat-to-positive: ✓ (+0.59%)
+- **No action taken**: 2 of 4 gates fail. No positions to cut, no stops to tighten.
+- **HOLD confirmed**: Rate headwind (gate c) is the sole blocker now — yield needs to fall ~17bps more. Yanbu suspension has made the oil supply catalyst MAXIMUM (both transit routes offline). If 10Y falls through 4.82% on any dovish surprise, XOM entry becomes viable immediately.
+- **Updated outlook**: Yanbu halt already happening = Saudi oil exports to Europe/Asia severely curtailed. Next leg oil move toward $115–120 is now plausible near-term. Watch if recession fears/stagflation narrative takes hold (would overwhelm energy long thesis). XOM at all-time highs near $169 — entry at current levels carries increased risk of "buy at the top." Re-evaluate entry price and stop levels if 10Y finally cooperates. Week of Sep 15: 0/5 trades.
