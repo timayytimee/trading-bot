@@ -164,3 +164,66 @@ Template for each entry:
 
 ### Overall Grade: C+
 - Second consecutive zero-trade week. Macro reads were accurate (energy underperformance pattern, Brent $100 sell-the-news, CPI inline → relief rally). Cash preserved while S&P fell −0.80% (outperformed). But outperforming by staying in cash indefinitely is not a trading strategy. 4-gate entry system is sound but too correlated to one macro variable in this rate environment. Post-FOMC Sep 17 is the real test.
+
+---
+
+## Week ending 2026-09-18
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $772.02 |
+| Ending portfolio | $772.02 |
+| Week return | $0.00 (0.00%) |
+| S&P 500 week | −1.39% |
+| Bot vs S&P | +1.39% |
+| Trades | 0 (W:0 / L:0 / open:0) |
+| Win rate | N/A |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+**Phase P&L (vs $772.02 baseline):** $0.00 (0.00%)
+**S&P 500 since phase start (Aug 28 → Sep 18):** ~−2.26% (7,730.99 → ~7,556)
+**Bot vs S&P since phase start:** +2.26% (cash outperformed declining S&P for 3 weeks running)
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades placed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+### What Worked
+- Held cash through FOMC (Sep 15–16) — S&P fell −1.39% this week; correct avoidance of rate-hike volatility
+- Correctly predicted hawkish dot plot risk (≥1 additional 2026 hike signaled); post-FOMC "non-hawkish" scenario flagged as prerequisite did not materialize
+- Saudi Yanbu terminal offline confirmation (Sep 17) tracked correctly — both Hormuz and Red Sea routes now simultaneously disrupted; energy supply catalyst is historically strong
+- Pre-planned FOMC blackout (no entries Sep 15–16) executed cleanly; S&P down both days
+- 10Y yield gate (< 4.82%) remained the correct single blocking variable — yield stayed ~5.00% all week
+
+### What Didn't Work
+- Third consecutive zero-trade week — hard deadline (1 trade by end of Sep 15 week) missed for the 3rd consecutive iteration; track record still empty
+- Post-FOMC yield relief ("sell the fact") never materialized; hawkish dot plot prevented the 10Y pullback that was the required catalyst for XOM entry
+- Defense (LMT/RTX) promoted to primary last week review but never fully analyzed with entry checklist — remained theoretical
+- XLF (Financials) added to watchlist last week but no entry analysis done — another missed diversification evaluation
+- Energy thesis is unambiguously correct (Brent $109, both oil routes offline) but continues to produce zero executable setups due to rate headwind
+
+### Key Lessons
+- Three weeks in cash → pattern is clear: the 4-gate system is doing its job but the macro regime (10Y near 5%) makes gate (c) structurally difficult to clear in this environment
+- Hawkish dot plots + active rate hike cycle mean yields will not fall to 4.82% without a macro shock (e.g. weak jobs, recession data, geopolitical risk-off flight to bonds)
+- Must expand sector focus: defense (LMT/RTX) and select financials (banks on steepening curve) are rate-environment-independent relative to energy; these must have full entry checklists before Monday
+- Saudi Yanbu + Hormuz simultaneously offline is a structural catalyst that may eventually force energy stock decoupling from rate headwind — monitor for this decoupling signal week of Sep 21
+- Hard deadlines without consequences are ineffective — need a concrete execution plan for Sep 21+ regardless of macro conditions, within risk rules
+
+### Adjustments for Next Week
+- **Lower yield gate to 4.95%** from 4.82% for a trial week (Sep 21–25): 10Y has not been below 4.82% in weeks; if yield decoupling (energy stocks rising despite 5% 10Y) materializes, 4.95% captures it
+- **Activate defense primary**: Full entry checklist on LMT or RTX by Monday open Sep 21; Iran war + Yanbu offline = sustained defense spending catalyst independent of rate direction
+- **XOM entry with relaxed gate**: If XOM shows positive price action when S&P is flat or slightly negative AND Brent > $105, treat as decoupling signal — consider entry even if gate (d) is borderline (−0.3% or better)
+- **Hard deadline (final)**: At least 1 executed trade by close of Sep 24 (Wednesday); after 3 weeks of inaction, zero trades is no longer defensible given clear sector thesis
+- **Saudi Yanbu depletion window (Sep 19–21)**: Watch for any headline about Saudi reserves exhausted or emergency crude price spike — this is the specific catalyst that could force energy stock decoupling from rate headwind
+
+### Overall Grade: C
+- Third consecutive zero-trade week. Cash outperformed S&P by +1.39% this week and +2.26% since inception, which is mathematically correct but strategically hollow — beating a declining market with cash is not the goal. The energy thesis has been correct for 3 weeks (Brent from $88 → $109, Iran escalation, Yanbu offline); failure to execute any trade represents a growing problem. FOMC clearance was correct; hawkish dot plot was correctly anticipated; yield-gate discipline preserved capital. But the system needs adjustment (lower yield gate, defense activation) to generate signals in the current rate regime. Post-FOMC with relaxed gate and defense primary is the path forward.
