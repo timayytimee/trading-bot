@@ -1048,3 +1048,64 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **No action taken**: 2 of 4 gates fail. No positions to cut, no stops to tighten.
 - **HOLD confirmed**: Rate headwind (gate c) is the sole blocker now — yield needs to fall ~17bps more. Yanbu suspension has made the oil supply catalyst MAXIMUM (both transit routes offline). If 10Y falls through 4.82% on any dovish surprise, XOM entry becomes viable immediately.
 - **Updated outlook**: Yanbu halt already happening = Saudi oil exports to Europe/Asia severely curtailed. Next leg oil move toward $115–120 is now plausible near-term. Watch if recession fears/stagflation narrative takes hold (would overwhelm energy long thesis). XOM at all-time highs near $169 — entry at current levels carries increased risk of "buy at the top." Re-evaluate entry price and stop levels if 10Y finally cooperates. Week of Sep 15: 0/5 trades.
+
+---
+
+## 2026-09-18 — Pre-market Research
+
+### Account Snapshot
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 15:** 0/5 trades used
+
+### Market Context
+- **WTI:** ~$101.21/bbl (−1.9%); **Brent:** ~$102.57/bbl (−2.2%) — sharp pullback from $108.75 yesterday; market pricing in partial offset from Saudi "dark" tanker alternatives and Egyptian corridor routing (not pipeline restoration — Yanbu still suspended)
+- **Saudi Yanbu:** Aramco crude loading suspension confirmed Sep 15; East-West pipeline offline since Sep 11 (drone strikes). Saudi crude exports down ~2/3; alternatives via Egypt/Suez + dark tankers partially filling gap but well below 4–5M bbl/day pipeline capacity
+- **S&P 500 futures:** +1.94% pre-market (Nasdaq +2.62%, Dow +1.36%, Russell +1.14%) — "cooler crude = lower yields = risk-on" dynamic emerging; stocks rallying as oil retreats and bond yields pull back
+- **VIX:** ~15.44 prev close; intraday range 13.80–14.58; markedly lower than yesterday's 17.2 — fear declining
+- **10Y Treasury yield:** FALLING today as oil retreats; was 4.996–5.00% on Sep 17; today's oil-driven yield relief is directionally favorable but magnitude uncertain — likely still above 4.82% gate (c) by ~10–18bps intraday
+- **Economic calendar:** No major releases today (post-FOMC, post-Claims Friday); clean tape
+- **Earnings before open:** No major reports; Progressive (PGR) August earnings possibly scheduled Sep 18 (timing unconfirmed); market-moving impact minimal
+- **Sector momentum (30-day):** Energy, Industrials, Materials, Consumer Staples = Leading quadrant; Tech/Comms/Consumer Disc = Lagging; Energy still #1 YTD (+47.7%)
+
+### XOM Specific
+- **Price:** ~$161.68–166 (highest since May 2026); up ~8.94% past 4 weeks; +51.44% YoY
+- **Venezuela deal:** Exxon reportedly nearing deal to invest in Venezuelan oil fields — new upstream growth catalyst; after-hours reaction on Sep 17 was muted (limited market impact so far)
+- **Dividend:** $1.03/share paid Sep 10 (ex-div already passed; not a current catalyst)
+- **Next earnings:** Oct 23, 2026
+
+### Trade Ideas
+
+**1. XOM — CONDITIONAL WATCH (closest to actionable since Day 1 — 13 sessions)**
+- Catalyst: Yanbu suspension ongoing (Saudi Red Sea exports severely curtailed); Hormuz restricted; Venezuela upstream deal (new); VIX declining to 14–15; S&P +1.94% pre-market; XLE sector #1 YTD
+- Gate status:
+  - (a) FOMC posture: Hawkish dot plot is baked in; TODAY'S relevant question is whether yield relief from oil pullback shifts market's near-term rate path perception — ambiguous; soft gate
+  - (b) Brent > $100: ✓ ($102.57 — margin narrowing; watch $100 floor closely)
+  - (c) 10Y < 4.82%: ❓ UNCERTAIN — yesterday 5.00%; today falling but ~18bps of relief needed; likely still 4.84–4.92% intraday; monitor
+  - (d) S&P flat-to-positive: ✓ (+1.94% pre-market)
+- Oil pullback is AMBIGUOUS for XOM: helps yields (gate c improving), but weakens the day's energy price catalyst; Yanbu structural halt means today's dip is likely temporary, not fundamental reversal
+- Entry trigger (intraday — only if gate c confirms): 1 whole share XOM at 30-min consolidation breakout above $165; 10% trailing stop GTC; target: $190 (+15%); R:R ~1.5:1
+- PDT: 0/3 day trades; would be swing trade held overnight — eligible
+
+**2. RTX (Raytheon) — Secondary watch only**
+- Catalyst: US military Hormuz escort ops expanding; Iran-Saudi conflict risk; defense supplemental spending
+- Activate only if XOM gate (c) fails through Sep 22 AND oil falls below $97 (energy thesis invalidated)
+
+**3. HOLD (default)**
+- Gate (c) uncertain/likely still failing today (exact 10Y unknown pre-market; need confirmation below 4.82%)
+- Today is FRIDAY — buying = 3-day weekend exposure (Saudi/Iran weekend news risk)
+- Energy stocks underperformed crude for 7+ consecutive sessions; no confirmed pattern break yet
+
+### Risk Factors
+- **Gate (c) magnitude:** 10Y needs ~18bps of same-day relief from 5.00% → 4.82%; large single-day move; today's oil dip helps but likely insufficient
+- **Oil floor erosion:** If "dark" tanker gap-fill expands, Brent could slide toward $95–97 → both energy thesis AND Brent > $100 gate threatened
+- **Friday entry:** Weekend geopolitical risk cuts both ways (Saudi/Iran escalation vs. ceasefire)
+- **XOM at multi-month highs:** ~$161-166 = late entry risk if oil pullback continues
+- **VIX declining:** Positive signal today, but October seasonal VIX spike risk looming
+- **Financial sector weakness:** BofA/Goldman warning on Q3 investment banking fees drag on broad market
+
+### Decision
+**HOLD — Gate (c) remains uncertain and likely still failing today (10Y probably 4.85–4.95%, not confirmed below 4.82%). Today's oil pullback is ambiguous: helps yields but weakens XOM's day catalyst. Friday weekend risk adds further caution. Monitor 10Y INTRADAY — if confirmed below 4.82% AND XOM holds above $163 AND energy sector visibly outperforms S&P 500 → trigger XOM entry with 1 whole share at 30-min consolidation. Otherwise, stay in cash.**
+- Week of Sep 15: 0/5 trades. Patience maintained.
+- Next review: Mon Sep 22 opens fresh week (0/5 trades); weekend Saudi/Iran/Yanbu headlines may shift the thesis materially.
