@@ -1109,3 +1109,19 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 **HOLD — Gate (c) remains uncertain and likely still failing today (10Y probably 4.85–4.95%, not confirmed below 4.82%). Today's oil pullback is ambiguous: helps yields but weakens XOM's day catalyst. Friday weekend risk adds further caution. Monitor 10Y INTRADAY — if confirmed below 4.82% AND XOM holds above $163 AND energy sector visibly outperforms S&P 500 → trigger XOM entry with 1 whole share at 30-min consolidation. Otherwise, stay in cash.**
 - Week of Sep 15: 0/5 trades. Patience maintained.
 - Next review: Mon Sep 22 opens fresh week (0/5 trades); weekend Saudi/Iran/Yanbu headlines may shift the thesis materially.
+
+### Midday Addendum (Sep 18 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **10Y Treasury yield**: 4.951–4.98% intraday (slight relief from yesterday's 5.016%, but gate (c) still FAILS by ~13–16bps; well above 4.82% threshold)
+- **Brent crude**: $104.64/bbl (−$3.87 from Sep 17 high; structural Yanbu halt persists but partial Saudi pipeline repair effort underway) — gate (b) ✓
+- **S&P 500**: +0.86% (7,656.98) — gate (d) ✓
+- **New risk**: Saudi Arabia reportedly working to restore East-West pipeline — if repair confirmed, oil floor weakens; Brent could slide toward $95–97; energy thesis would be partially undermined
+- **Gate re-eval (Sep 18 midday)**:
+  - (a) FOMC non-hawkish: ✗ (hawkish dot plot baked in; Warsh "persistent inflation risks")
+  - (b) Brent > $100: ✓ ($104.64)
+  - (c) 10Y yield < 4.82%: ✗ (4.95–4.98% — still ~13–16bps above gate)
+  - (d) S&P flat-to-positive: ✓ (+0.86%)
+- **No action taken**: 2 of 4 gates fail; no positions to cut, no stops to tighten
+- **HOLD confirmed**: Rate headwind (gate c) remains the sole blocker; ~13bps improvement vs Sep 17 is directionally positive but insufficient. Saudi pipeline repair attempt is a new bearish oil risk to monitor over the weekend.
+- **Weekend watchlist**: (1) Saudi East-West pipeline repair progress — any restoration timeline = oil bearish; (2) Iran-Oman ceasefire talks; (3) 10Y yield direction; (4) Mon Sep 22 opens fresh week (0/5 trades) — first genuine entry window if 10Y falls below 4.82%
+- Week of Sep 15: 0/5 trades. No telegram notification (no action taken).
