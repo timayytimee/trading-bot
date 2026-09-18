@@ -62,3 +62,13 @@ S&P ~-0.5% (gate d fails)
 Energy underperforms crude: 6th consecutive session
 Week Sep 15: 0/5 trades
 Tomorrow: HOLD through FOMC. Post-Sep 16: XOM entry if 25bp inline + non-hawkish + 10Y pulls back + S&P recovers
+
+---
+## 2026-09-18 EOD (fallback — Telegram 403)
+EOD 2026-09-18
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+Week of Sep 15: 0/5 trades (2nd consecutive 0-trade week)
+Tomorrow: Weekend — Mon Sep 21 XOM entry if 10Y < 4.82% + SPY flat/pos + Brent >$97 + no Iran ceasefire. Yanbu depletion ~Sep 19-21 is key catalyst watch.

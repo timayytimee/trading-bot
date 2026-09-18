@@ -166,3 +166,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Post-FOMC Day 1. Fed's dot plot (Sep 16) came in hawkish — signaling ≥1 additional 2026 hike and Warsh's "persistent inflation risks" language; gate (a) failed. 10Y yield drifted from 5.016% to ~4.996-5.00%, still ~17bps above the 4.82% gate (c) threshold — no "sell the fact" yield relief materialized. S&P recovered +0.59% on buy-the-fact momentum (gate d ✓). Major midday catalyst: Saudi Aramco confirmed suspension of crude loadings at Yanbu terminal (Red Sea) — both major Middle East oil transit routes now offline simultaneously; Brent surged to ~$108.75 (+2.9%), WTI to ~$105.83 (+4.38%). Despite maximum oil supply catalyst, 10Y still above gate and hawkish dot plot means XOM entry remains blocked. No trades placed; portfolio $772.02 cash (100%). Week of Sep 15: 0/5 trades. Tomorrow: watch 10Y for any move below 4.82% (the sole remaining gate now that Yanbu halt is confirmed and S&P is recovering); if 10Y cooperates on weak housing/claims data, XOM entry window opens Sep 18+.
+
+---
+
+### Sep 18 — EOD Snapshot (Day 13, Friday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** End of week 2 — no trades placed for the second consecutive full week (Week of Sep 15: 0/5 trades; Week of Sep 8: 0/5 trades; all weeks since inception: 0/0). Alpaca balance_asof shows 2026-09-17 with equity flat at $772.02; no intraday change today. The sole remaining XOM entry gate is 10Y yield below 4.82% — as of Sep 17 EOD, 10Y was ~5.00% (~18bps above gate). No qualifying setup materialized today. Saudi Yanbu terminal remains offline; Hormuz restricted; Brent near $108–109 range; energy supply disruption catalyst fully intact but yield headwind persists. Weekend watch items: (1) 10Y yield trajectory — any surprise Fed communication or risk-off bid that pulls yields toward 4.82%; (2) Saudi Yanbu reserves approaching depletion (~Sep 19–21), escalation could force yield decoupling for energy stocks; (3) Iran-Oman ceasefire status — any breakthrough would undercut oil thesis. Week of Sep 15 final: 0/5 trades. Portfolio: $772.02 cash (100%). Monday Sep 21: reassess all gates at open; if 10Y < 4.82% + S&P flat-to-positive + Brent > $97 + no ceasefire → XOM 30-min consolidation breakout is the primary trade.
