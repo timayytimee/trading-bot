@@ -1191,3 +1191,18 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **Better window:** Post-Trump-Xi summit (Sep 24+) for geopolitical clarity; or if 10Y breaks below 4.82% with sustained yield relief
 - **No urgent action required:** 0 positions to cut; 0 stops to tighten; full cash preservation intact
 - Week of Sep 21: 0/5 trades. Patience maintained.
+
+### Midday Addendum (Sep 21 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Goolsbee speech (10:30 AM ET)**: HAWKISH — "path to 2% unlikely to be painless"; inflation may require faster rate hikes; strong demand adding to inflation; "no ambiguity" how Fed would react if needed. Gate (a) worsens further — hawkish posture more entrenched, not softening
+- **WTI**: ~$97.56/bbl (−2.73%); **Brent**: ~$101–105/bbl (range $101.22–$104.82 today) — oil continuing to decline on Trump-Xi summit (Sep 24) geopolitical de-escalation pricing; WTI approaching the $97 threshold
+- **10Y Treasury yield**: ~4.94% pre-market; Goolsbee hawkish tone likely keeping yields elevated intraday; gate (c) almost certainly still failing
+- **S&P 500**: +0.7–0.95% pre-market positive tone holding; gate (d) ✓
+- **Gate re-eval (Sep 21 midday)**:
+  - (a) FOMC/Fed posture: ✗ WORSE — Goolsbee explicitly hawkish; faster hikes signal reinforces Sep 16 dot plot
+  - (b) Brent > $97: ✓ ($101–105) — margin narrowing; WTI $97.56 approaching threshold; monitor
+  - (c) 10Y yield < 4.82%: ✗ (estimated ~4.94%; Goolsbee speech prevents yield relief)
+  - (d) S&P flat-to-positive: ✓
+- **No action taken** — 3 of 4 gates fail; no positions to cut, no stops to tighten
+- **HOLD confirmed**: Goolsbee's hawkish comments were the intraday catalyst; reinforces the Fed's rate path is NOT softening. Oil declining on Trump-Xi summit optimism is a new bearish oil signal — gate (b) at risk if Brent slides toward $97 pre-summit. No entry today.
+- **Watch pre-Trump-Xi summit (Sep 24)**: if oil continues declining + 10Y yields stay elevated, both gate (b) and gate (c) may fail simultaneously — would shift watchlist toward RTX/defense. Post-summit (Sep 24+) remains better entry window for geopolitical clarity.
