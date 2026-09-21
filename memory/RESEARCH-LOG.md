@@ -1125,3 +1125,69 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **HOLD confirmed**: Rate headwind (gate c) remains the sole blocker; ~13bps improvement vs Sep 17 is directionally positive but insufficient. Saudi pipeline repair attempt is a new bearish oil risk to monitor over the weekend.
 - **Weekend watchlist**: (1) Saudi East-West pipeline repair progress — any restoration timeline = oil bearish; (2) Iran-Oman ceasefire talks; (3) 10Y yield direction; (4) Mon Sep 22 opens fresh week (0/5 trades) — first genuine entry window if 10Y falls below 4.82%
 - Week of Sep 15: 0/5 trades. No telegram notification (no action taken).
+
+---
+
+## 2026-09-21 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 21:** 0/5 trades used
+
+### Market Context
+- **WTI:** ~$97.09/bbl (−3.0%); **Brent:** ~$100.50–$103.19/bbl (−2–3%) — oil declining on Trump-Xi summit diplomacy anticipation (Sep 24 Washington DC meeting)
+- **Saudi/Hormuz update:** East-West pipeline still offline (no repair confirmed); Hormuz still restricted; Saudi Aramco told European customers no crude next month — supply disruption structural but market pricing in diplomatic resolution premium
+- **S&P 500 futures:** +0.7–0.95% pre-market; 81% probability of higher open (Polymarket); ES at ~7,730; Dow +0.8%, Nasdaq +1.1%, Russell +1.1%
+- **VIX:** ~14.81–14.95 (significant decline from 17.2 on Sep 15; fear receding sharply)
+- **10Y Treasury yield:** ~4.94% (improving from 5.01% Sep 18; still ~12bps above 4.82% gate threshold)
+- **Trump-Xi Summit (Sep 24 Washington DC):** Trade, AI, Taiwan, Iran war agenda; stocks and bonds rallying on diplomacy optimism; oil declining as market prices in potential geopolitical de-escalation
+- **Earnings before open:** LGCY ($0.61 est), AYTU (−$0.12 est) — small caps, no trading catalyst
+- **Earnings after close:** SFIX, CBRL, MLKN — minor, no sector relevance
+- **Economic calendar:**
+  - 10:30 AM ET: Fed Goolsbee speech (qualitative; potential rate signal)
+  - 12:30 PM ET: Chicago Fed National Activity Index (aggregate activity read)
+  - No binary macro events today; clean tape
+- **Sector momentum (30-day):** XLE still #1 YTD (+47.7%); XLI, XLP, XLB leading; XLK, XLC, XLY, XLF lagging; VIX decline and S&P rally suggest broadening risk-on rotation possible
+
+### XOM Specific
+- **Price today:** $161.31–$163.54 (below $165–169 range from last week; declining with oil)
+- **Venezuela deal:** Advancing (reported Sep 17; new upstream growth catalyst — limited market impact so far)
+- **Saudi Aramco:** No crude to European customers next month
+- **Next earnings:** Oct 23, 2026
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — CONDITIONAL WATCH (not yet actionable)**
+   - Catalyst: Saudi pipeline + Hormuz dual shutdown still structural; XLE #1 YTD; Venezuela deal; oil floor declining today
+   - Gate status:
+     - (a) FOMC posture: ✗ (hawkish dot plot from Sep 16 still in effect; Warsh "persistent inflation risks")
+     - (b) Brent > $97: ✓ ($100.50–103 — narrowing; watch $97 floor)
+     - (c) 10Y yield < 4.82%: ✗ (4.94% — ~12bps above gate; improving direction)
+     - (d) S&P flat-to-positive: ✓ (+0.7–0.95% pre-market)
+   - Trump-Xi summit (Sep 24) creates OIL THESIS UNCERTAINTY — any US-China-Iran discussions = additional Brent downside risk
+   - Entry trigger (intraday): 10Y confirms below 4.82% + energy stocks visibly outperform S&P + Brent holds above $97 + XOM holds $160+ → 1 whole share at 30-min consolidation; 10% trailing stop GTC; target: +15% (~$185); R:R ~1.5:1
+2. **RTX (Raytheon) — Secondary watch**
+   - Catalyst: US-Iran war ongoing; US military Hormuz escort ops; defense supplemental spending; XLI leading sector
+   - Activate if: XOM gate (c) continues to fail post-summit AND oil falls below $97 (energy thesis shifts to defense)
+   - Entry: 30-min consolidation; stop: −8%; target: +16%; R:R 2:1
+3. **HOLD (default)**
+   - Gates (a) and (c) fail; oil declining toward $97 threatens gate (b); Trump-Xi summit uncertainty
+   - Better entry window: Post-summit (Sep 24+) once geopolitical picture clarifies
+
+### Risk Factors
+- **Trump-Xi summit (Sep 24):** If US-China-Iran diplomatic resolution discussed = oil supply bearish; Brent could drop $5–10 fast
+- **Oil eroding toward $97 gate:** Brent at $100.50 is 3.6% from threshold; any further decline fails gate (b)
+- **Gate (c) fails by 12bps:** 10Y needs to fall from 4.94% to 4.82% — 12bps intraday; possible on Goolsbee dovish tone but not guaranteed
+- **Goolsbee speech 10:30 AM ET:** Hawkish = yield spike, gates fail further; dovish = yield relief opportunity
+- **XOM declining:** Trading $161–163 (below $165–169 last week); entry point risk if oil floor eroding
+- **October VIX seasonality:** VIX at 14.8 approaching lows; seasonal spike to ~19 in Oct still a risk
+- **Saudi pipeline repair:** Saudi reportedly seeking alternatives; any confirmed repair timeline = oil bearish
+- **PDT:** 0/3 day trades; any entry must hold overnight
+
+### Decision
+**HOLD** — Gates (a) and (c) fail. Oil declining on Trump-Xi summit diplomacy optimism creates energy thesis uncertainty heading into Sep 24. Gate (c) improving (4.94% vs 5.01%) but insufficient by ~12bps. VIX at 14.8 and S&P +0.95% are encouraging macro conditions, but entering XOM today means taking on pre-summit oil thesis risk.
+- **Intraday trigger:** Goolsbee speech dovish + 10Y confirms below 4.82% + energy stocks outperform S&P intraday → conditional XOM entry; 1 whole share; 10% trailing stop GTC
+- **Better window:** Post-Trump-Xi summit (Sep 24+) for geopolitical clarity; or if 10Y breaks below 4.82% with sustained yield relief
+- **No urgent action required:** 0 positions to cut; 0 stops to tighten; full cash preservation intact
+- Week of Sep 21: 0/5 trades. Patience maintained.
