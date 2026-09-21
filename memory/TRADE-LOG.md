@@ -177,3 +177,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** End of week 2 — no trades placed for the second consecutive full week (Week of Sep 15: 0/5 trades; Week of Sep 8: 0/5 trades; all weeks since inception: 0/0). Alpaca balance_asof shows 2026-09-17 with equity flat at $772.02; no intraday change today. The sole remaining XOM entry gate is 10Y yield below 4.82% — as of Sep 17 EOD, 10Y was ~5.00% (~18bps above gate). No qualifying setup materialized today. Saudi Yanbu terminal remains offline; Hormuz restricted; Brent near $108–109 range; energy supply disruption catalyst fully intact but yield headwind persists. Weekend watch items: (1) 10Y yield trajectory — any surprise Fed communication or risk-off bid that pulls yields toward 4.82%; (2) Saudi Yanbu reserves approaching depletion (~Sep 19–21), escalation could force yield decoupling for energy stocks; (3) Iran-Oman ceasefire status — any breakthrough would undercut oil thesis. Week of Sep 15 final: 0/5 trades. Portfolio: $772.02 cash (100%). Monday Sep 21: reassess all gates at open; if 10Y < 4.82% + S&P flat-to-positive + Brent > $97 + no ceasefire → XOM 30-min consolidation breakout is the primary trade.
+
+---
+
+### Sep 21 — EOD Snapshot (Day 14, Monday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — third full week opens with equity flat at $772.02 (Day 14 since inception, 0 trades in 14 sessions). Confirmed via midday scan: WTI ~$97.56/bbl (−2.73%), Brent ~$101–105/bbl; 10Y yield ~4.94% (gate c ✗ — still ~12bps above 4.82% threshold); S&P +0.7–0.95% (gate d ✓); Goolsbee (Chicago Fed) gave hawkish speech at 10:30 AM ET — "path to 2% inflation unlikely to be painless," faster rate hikes possible — reinforcing Sep 16 hawkish dot plot. 3 of 4 entry gates failed (a: Fed posture hawkish ✗, c: 10Y too high ✗; b: Brent ✓ but WTI approaching $97 floor; d: S&P ✓). New risk: Trump-Xi summit scheduled Sep 24 — geopolitical de-escalation is being priced in, with oil declining on the news (WTI −2.73%). If Brent falls below $97 pre-summit, gate (b) also fails. Saudi Yanbu depletion window (~Sep 19–21) reached today but insufficient to move yield gate. HOLD was correct. Week of Sep 21: 0/5 trades. Watch: if oil continues declining toward $97 + 10Y holds above 4.82%, watchlist pivots toward RTX/defense post-Sep 24 summit for geopolitical clarity.
