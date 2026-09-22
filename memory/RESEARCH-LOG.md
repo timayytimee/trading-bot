@@ -1206,3 +1206,72 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **No action taken** — 3 of 4 gates fail; no positions to cut, no stops to tighten
 - **HOLD confirmed**: Goolsbee's hawkish comments were the intraday catalyst; reinforces the Fed's rate path is NOT softening. Oil declining on Trump-Xi summit optimism is a new bearish oil signal — gate (b) at risk if Brent slides toward $97 pre-summit. No entry today.
 - **Watch pre-Trump-Xi summit (Sep 24)**: if oil continues declining + 10Y yields stay elevated, both gate (b) and gate (c) may fail simultaneously — would shift watchlist toward RTX/defense. Post-summit (Sep 24+) remains better entry window for geopolitical clarity.
+
+---
+
+## 2026-09-22 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 22:** 0/5 trades used
+
+### Market Context
+- **WTI:** ~$93.18/bbl (declining sharply from $97.56 Sep 21 — Trump signals + summit diplomacy pricing); **Brent:** ~$101.39–101.51/bbl (+1.05% premarket on Iranian airline sanctions, but down from $105 range)
+- **S&P 500 futures:** ES ~7,767 (Dow/S&P futures gaining; Nasdaq 100 slipping slightly); net mixed-to-positive
+- **VIX:** ~14.87 (below 15; significantly lower than 17.2 on Sep 15; fear receding)
+- **10Y Treasury yield:** ~4.97% (Sep 21 close: 4.97%, down from 5.01% on Sep 18; gate (c) still fails by ~15bps)
+- **Today's catalysts:**
+  - **US Treasury "Economic D-Day" / Iranian Airlines Shutdown (Sep 23 deadline):** Sec. Bessent warned all Iranian airlines shut down globally by Sep 23; secondary sanctions on any airport/fuel supplier/ticketer serving Iranian carriers → exclusion from dollar clearing system. Tightest Iran economic squeeze since conflict began. Slight Brent bid (+1.05% premarket).
+  - **Tech/AI surge:** Intel +12%, AMD +10% (AMD market cap crosses $1T) — AI semiconductor demand; Nasdaq near all-time highs; sector rotation toward tech underway
+  - **Trump-Xi summit Sep 24 (Washington DC):** Trade truce extension, Iran war, AI, Taiwan on agenda. Oil declining on diplomacy optimism. Market pricing partial de-escalation. China privately urging Tehran to rein in Houthis.
+  - **XOM underperformance:** XOM fell ~3.2% to ~$158 in prior session while S&P gained 1.49% — worst energy/market divergence yet; now 8+ consecutive sessions of energy stocks underperforming crude
+- **Earnings before open:** AutoZone (AZO), KB Home (KBH) — not relevant to watchlist
+- **Economic calendar:**
+  - 8:30 AM ET: Philadelphia Fed Non-Manufacturing Survey (minor)
+  - 10:00 AM ET: Richmond Fed Manufacturing Activity (minor)
+  - This week: 10+ Fed speakers scheduled; NO binary macro events (light data week)
+  - No CPI/PPI/NFP/FOMC this week — clean macro tape except Fed speakers
+- **Sector momentum (30-day leading):** XLE, XLI, XLB, XLP (stable) | XLK improving today on AI rally | XLC, XLY, XLF lagging
+- **Iran/Supply:**  Saudi East-West pipeline still offline; Hormuz restricted; Bessent sanctions tightening Iran oil exports; Yanbu suspended; STRUCTURAL supply disruption ongoing despite oil price dip on summit hopes
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — WATCH ONLY (not actionable)**
+   - Catalyst: Iranian airline sanctions + Saudi/Hormuz dual shutdown intact; Brent $101 floor; XLE #1 YTD
+   - Gate status:
+     - (a) Fed posture: ✗ (hawkish dot plot + Goolsbee + Bessent "Economic D-Day" posture; no pivot signal)
+     - (b) Brent > $97: ✓ ($101.39 — holding for now; WTI $93.18 approaching gate-threat level)
+     - (c) 10Y yield < 4.82%: ✗ (~4.97% — ~15bps above gate; no relief materializing)
+     - (d) S&P flat-to-positive: ✓ (futures mixed but Dow/S&P positive)
+   - XOM at ~$158 (fell from $169 high last week; energy underperformance streak 8+ sessions); late entry risk
+   - **REJECT today** — 2 gates fail; XOM actively declining into tech rotation; Trump-Xi summit 2 days away adds oil uncertainty
+
+2. **RTX (Raytheon Technologies) — Elevated watch (conditional post-summit)**
+   - Catalyst: Iran escalation escalating (airline shutdown = tightening pressure on Iranian regime); US military escort operations in Hormuz ongoing; defense supplemental spending; XLI in leading sector; less rate-sensitive than energy names
+   - Gate (post-summit trigger, Sep 24+): (a) No ceasefire/major diplomatic de-escalation at summit, (b) US-Iran conflict continues, (c) S&P flat-to-positive, (d) RTX 30-min consolidation above prior close
+   - Entry: ~$110–115 at 30-min consolidation; stop: −8%; target: +16%; R:R ~2:1
+   - **CONDITIONAL:** Pre-summit (today + Sep 23) = watch only. Post-summit clarity = potential activation
+
+3. **Full HOLD (default)**
+   - Trump-Xi summit Sep 24 creates 2-day uncertainty window on oil/geopolitics/Iran
+   - Energy stocks underperforming for 8+ sessions — pattern not yet broken
+   - 10Y yield ~15bps above gate; no imminent catalyst for 15bp same-day move
+
+### Risk Factors
+- **Trump-Xi summit Sep 24:** If trade truce extended + Iran de-escalation discussed = oil bearish; Brent could slide below $97 gate; energy and defense thesis both undermined temporarily
+- **WTI approaching $93:** Gate (b) requires Brent > $97; WTI $93 means the spread is narrow; any Iran diplomatic breakthrough = WTI through $90, Brent below $97
+- **XOM at multi-week lows (~$158):** Energy stock declining despite $101+ crude = structural rate/rotation headwind; entering at or near lows into a potential summit surprise adds late-entry risk
+- **Tech rotation accelerating:** Intel +12%, AMD +10%; capital rotating from energy → tech; XOM could underperform further near-term
+- **Fed speakers this week (10+):** Any hawkish surprise from any Fed speaker = yields spike, gate (c) fails further
+- **Iranian airline sanctions:** While bullish for oil structurally, could trigger retaliatory Iranian escalation (shipping strikes, Strait closure attempt) = risk-off event that would spike oil but crush equities broadly
+- **Gate (c) structural headwind:** 15bps still above 4.82%; FOMC next hike not priced out; terminal rate projections not declining
+
+### Decision
+**HOLD** — No trades today or Sep 23. Trump-Xi summit Sep 24 is a 2-day binary event for oil, Iran, and geopolitics — entering any position now means taking full summit surprise risk. XOM is actively declining (−3.2% last session, now ~$158) while tech is surging; energy underperformance streak at 8+ sessions. 10Y still failing gate by 15bps.
+
+**Post-summit (Sep 25+) playbook:**
+- **Outcome A (de-escalation):** Summit produces Iran ceasefire framework or Chinese pressure on Tehran → Brent slides below $97, gate (b) fails → PIVOT: RTX/defense becomes primary idea; XOM watchlist deactivated
+- **Outcome B (no deal / Iran conflict continues):** Brent holds $97+, US-Iran pressure maintained → XOM gate check resumes; RTX activated as concurrent watch; look for 10Y yield any relief below 4.82%
+- Week of Sep 22: 0/5 trades. Patience maintained. No positions at risk. No urgent action required.
+ (pre-market research 2026-09-22)
