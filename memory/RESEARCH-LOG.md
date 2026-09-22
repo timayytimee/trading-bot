@@ -1275,3 +1275,23 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **Outcome B (no deal / Iran conflict continues):** Brent holds $97+, US-Iran pressure maintained → XOM gate check resumes; RTX activated as concurrent watch; look for 10Y yield any relief below 4.82%
 - Week of Sep 22: 0/5 trades. Patience maintained. No positions at risk. No urgent action required.
  (pre-market research 2026-09-22)
+
+### Midday Addendum (Sep 22 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Brent crude**: ~$99/bbl (dropped BELOW $100 psychological level from $101.39 pre-market; 4th consecutive declining session driven by diplomatic de-escalation pricing). Gate (b) threshold is $97 — Brent now only $2 above. Trend is bearish.
+- **Hormuz transit**: Reached 6-MONTH HIGH — supply restriction easing faster than modeled; Saudi East-West pipeline restoration underway. Both of these directly undercut the "dual supply disruption" thesis that has been the core XOM catalyst.
+- **Iran diplomacy accelerating**: Trump said Iran war will "end soon"; Trump open to meeting Iranian president at UNGA; Saudi Arabia asking Beijing to pressure Tehran on Houthis; China privately urging Tehran to rein in Houthis. De-escalation materializing ahead of Sep 24 Trump-Xi summit.
+- **S&P 500**: Little changed to slightly positive (most companies advancing); chipmakers up 6th consecutive day; big banks −1.8%. Gate (d) ✓ marginally.
+- **10Y Treasury yield**: ~5.0% (Fed officials repeated more rate hikes on table; no yield relief). Gate (c) ✗ — fails by ~18bps.
+- **XOM**: ~$162–163 (−0.67%); declining further as oil slides.
+- **Gate re-eval (Sep 22 midday)**:
+  - (a) Fed posture: ✗ (Fed officials signaling more hikes; hawkish stance unchanged)
+  - (b) Brent > $97: ✓ but DETERIORATING ($99 and declining; $97 gate at risk within 1–2 sessions)
+  - (c) 10Y yield < 4.82%: ✗ (~5.0%)
+  - (d) S&P flat-to-positive: ✓ (marginally)
+- **No action taken** — 2 gates fail; no positions to cut; no stops to tighten.
+- **⚠️ THESIS PIVOT SIGNAL**: The energy/XOM thesis is materially weaker now vs. pre-market. Hormuz 6-month transit high + Saudi pipeline repair + Trump "war ending soon" = the structural supply disruption underpinning XOM is unwinding in real time. If Brent falls below $97 before or after the Sep 24 summit, gate (b) fails and XOM watchlist should be deactivated.
+- **Post-summit (Sep 25+) revised playbook**:
+  - **Outcome A (de-escalation confirmed)**: Brent < $97 confirmed → DEACTIVATE XOM; ACTIVATE RTX/defense watch; energy sector rotation to safety/defense underway
+  - **Outcome B (no deal, conflict resumes)**: Brent bounces back above $100 + 10Y yields show any relief → XOM conditional entry reverts; oil thesis partially restored
+- **HOLD confirmed**: No trades. No notification (no action taken). Week of Sep 22: 0/5 trades.
