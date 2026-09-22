@@ -188,3 +188,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — third full week opens with equity flat at $772.02 (Day 14 since inception, 0 trades in 14 sessions). Confirmed via midday scan: WTI ~$97.56/bbl (−2.73%), Brent ~$101–105/bbl; 10Y yield ~4.94% (gate c ✗ — still ~12bps above 4.82% threshold); S&P +0.7–0.95% (gate d ✓); Goolsbee (Chicago Fed) gave hawkish speech at 10:30 AM ET — "path to 2% inflation unlikely to be painless," faster rate hikes possible — reinforcing Sep 16 hawkish dot plot. 3 of 4 entry gates failed (a: Fed posture hawkish ✗, c: 10Y too high ✗; b: Brent ✓ but WTI approaching $97 floor; d: S&P ✓). New risk: Trump-Xi summit scheduled Sep 24 — geopolitical de-escalation is being priced in, with oil declining on the news (WTI −2.73%). If Brent falls below $97 pre-summit, gate (b) also fails. Saudi Yanbu depletion window (~Sep 19–21) reached today but insufficient to move yield gate. HOLD was correct. Week of Sep 21: 0/5 trades. Watch: if oil continues declining toward $97 + 10Y holds above 4.82%, watchlist pivots toward RTX/defense post-Sep 24 summit for geopolitical clarity.
+
+---
+
+### Sep 22 — EOD Snapshot (Day 15, Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 15th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02, no positions, no open orders. Entry gates remain blocked: 10Y yield was ~4.94% at yesterday's close (gate c ✗ — needs < 4.82%); Fed posture hawkish post-Sep 16 dot plot (gate a ✗); WTI declining toward $97 floor puts gate (b) at risk ahead of Trump-Xi summit Sep 24. S&P directional gate (d) is the only consistent pass. Key inflection point: Trump-Xi summit on Sep 24 — if geopolitical tensions ease further, WTI could break below $97 and invalidate the energy thesis entirely, forcing a sector pivot. Post-summit, watchlist shifts toward RTX/defense (if summit is inconclusive/hawkish) or broader growth sectors (if yields finally pull back from 5%). HOLD remains correct. Week of Sep 21: 0/5 trades (cap: 5/5).
