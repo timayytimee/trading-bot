@@ -1295,3 +1295,65 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
   - **Outcome A (de-escalation confirmed)**: Brent < $97 confirmed → DEACTIVATE XOM; ACTIVATE RTX/defense watch; energy sector rotation to safety/defense underway
   - **Outcome B (no deal, conflict resumes)**: Brent bounces back above $100 + 10Y yields show any relief → XOM conditional entry reverts; oil thesis partially restored
 - **HOLD confirmed**: No trades. No notification (no action taken). Week of Sep 22: 0/5 trades.
+
+---
+
+## 2026-09-23 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 22:** 0/5 trades used
+
+### Market Context
+- **WTI:** ~$93–95/bbl (sharply declining from $97.56 Monday; oil down 3–5% over 2 sessions on Iran diplomacy pricing); **Brent:** ~$98/bbl (−1.87% Sep 22; retreating from $101 range; now only ~$1 above the $97 gate threshold)
+- **S&P 500 futures:** +0.11% premarket; 62% probability of higher open; mixed: S&P/Dow rising, Nasdaq 100/Russell 2000 declining; Asian stocks higher on chipmaker rally (Nasdaq 100 hit first record since June)
+- **VIX:** 14.21 (−4.44% today; lowest level since early September; fear subdued; below prior 14.87 close)
+- **10Y Treasury yield:** ~4.96% (Sep 21 close; essentially flat from Sep 18 5.00%; gate (c) still fails by ~14bps above 4.82% threshold)
+- **Trump UNGA (Sep 22–23):** Trump addressed UNGA threatening to "annihilate" Iran if negotiations fail; said he thinks a deal will happen after midterm elections. Iranian President Pezeshkian addresses UNGA today (Sep 23) — live market-moving risk. US and Iran officials met on sidelines at UN. Diplomacy accelerating, but no ceasefire confirmed.
+- **Trump-Xi Summit (Sep 24 — TOMORROW):** Xi Jinping arriving at Joint Base Andrews today; 2-day summit begins tomorrow. Core agenda: Iran/oil, trade, AI, Taiwan. China using Iranian leverage as bargaining chip vs. US tariffs/tech controls. Low expectations for immediate breakthrough, but oil declining on de-escalation premium. Key binary event for energy thesis.
+- **AI/Tech rally:** Chipmakers surging — Nasdaq 100 hit record on Sep 22 (6th consecutive chipmaker rally day); Intel +12%, AMD +10% (AMD crosses $1T market cap). Capital rotating from energy → tech. XLK improving for first time in months.
+- **Earnings before open:** CTAS (Cintas) Q1 FY27, GIS (General Mills) Q1 FY27 — not relevant to watchlist
+- **Economic calendar:** Light data week — no binary macro events (no CPI/PPI/NFP/FOMC); 10+ Fed speakers scheduled all week; Fed still signaling 16/19 members project ≥1 more 2026 hike; terminal rate projections risen to 4.1% EOY
+- **Sector momentum (30-day):** XLE, XLI, XLB, XLP leading | XLK improving (AI rally) | XLC, XLY, XLF lagging | XLRE/XLU neutral
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — WATCH ONLY / AT DEACTIVATION THRESHOLD**
+   - Brent $98 is $1 above gate (b) threshold ($97) and in a declining trend (4 straight down sessions)
+   - Trump-Xi summit TOMORROW is a binary de-escalation risk for oil
+   - Gates: (a) ✗ Fed hawkish (16/19 FOMC members project more hikes), (b) ✓ PRECARIOUS ($98, 1% margin), (c) ✗ (~4.96% — 14bps above 4.82%), (d) ✓ (S&P +0.11% futures)
+   - **No entry today or Sep 24** — summit binary risk + Brent one session away from gate failure
+   - Post-summit trigger (Sep 25+): If Brent holds above $97 AND 10Y begins declining → reassess; If Brent < $97 → DEACTIVATE XOM entirely
+
+2. **RTX (Raytheon) — ELEVATED WATCH (post-summit activation candidate)**
+   - US-Iran conflict continuing despite diplomacy; US military Hormuz escort operations ongoing; defense supplemental spending intact; XLI in leading sector; less rate-sensitive than energy
+   - Pre-summit (today + Sep 24) = WATCH ONLY; entry gate only activates post-summit on Outcome A (energy thesis deactivated, conflict continues)
+   - Post-summit trigger: No ceasefire/major de-escalation + S&P flat-to-positive + RTX 30-min consolidation above prior close
+   - Entry: ~$110–115; stop: −8% (~$101–106); target: +16% (~$128–133); R:R ~2:1
+   - Catalyst: Iran war / Hormuz crisis ongoing + US defense supplemental + XLI sector leadership
+
+3. **Tech/AI play — WATCH ONLY**
+   - Nasdaq 100 at record; AMD +10%, Intel +12%; XLK finally improving
+   - XLK has been lagging sector all year — rotation signals mixed; not entering a lagging sector on late breakout without 2 sessions of confirmation
+   - Watch: if XLK holds above 50-day MA for 2 consecutive sessions post-summit, semiconductor name (NVDA/AMD) enters watchlist; not today
+
+### Risk Factors
+- **Trump-Xi summit tomorrow (Sep 24):** If de-escalation / Iran ceasefire framework announced → Brent drops below $97 → energy thesis fully deactivated; XOM watchlist retired
+- **Iranian President UNGA speech today (Sep 23):** Any escalatory language = oil spike + equities pressure; conciliatory = Brent drops further toward $95
+- **Brent gate failure risk:** $98 = 1% above $97 gate; one negative session deactivates energy thesis
+- **10Y structural headwind:** 4.96% with 16/19 FOMC members projecting more hikes; 14bps improvement needed before gate (c) ever clears; terminal rate rising to 4.1%
+- **Tech rotation accelerating:** Capital leaving energy for AI/tech; XOM declining even as sector fundamentals (Hormuz, Saudi) remain disrupted — structural rotation headwind ongoing
+- **XOM at 2-week lows (~$158–162):** Each passing session makes the entry-point risk worse; energy underperformance now 9+ consecutive sessions
+- **PDT:** 0/3 day trades used; any entry would require overnight hold (swing trade)
+- **October VIX seasonality:** VIX at 14.21 (low); historical October spike to ~17–19 possible
+
+### Decision
+**HOLD** — No trades today or tomorrow (Sep 24). Trump-Xi summit is a binary event that could deactivate the energy thesis entirely by Thursday open. Brent at $98 is one bad session from gate failure. 10Y at 4.96% continues to block gate (c) with no near-term catalyst for 14bp relief. VIX at 14.21 suggests no urgency to act.
+
+**Post-summit (Sep 25+) decision tree:**
+- **Outcome A (de-escalation / ceasefire signal):** Brent confirms < $97 → DEACTIVATE XOM watchlist permanently; ACTIVATE RTX at 30-min consolidation with standard gates
+- **Outcome B (stalemate / Iran conflict continues):** Brent holds $97+ + any yield relief → XOM conditional entry reverts with standard 4-gate check; RTX concurrent secondary watch
+- **Outcome C (escalation):** New US-Iran strikes / Strait closure → Brent spikes above $100; all gates except (a) and (c) pass; still no entry without yield relief; oil spike + risk-off = energy stocks underperform again (established pattern)
+
+No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience maintained.
