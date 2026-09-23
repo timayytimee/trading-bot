@@ -1357,3 +1357,21 @@ HOLD — Default and correct. PPI at 8:30 AM ET is the day's binary event; back-
 - **Outcome C (escalation):** New US-Iran strikes / Strait closure → Brent spikes above $100; all gates except (a) and (c) pass; still no entry without yield relief; oil spike + risk-off = energy stocks underperform again (established pattern)
 
 No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience maintained.
+
+### Midday Addendum (Sep 23 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Brent crude**: $101.61 (+2.37%) — bounced from 5-session decline; gate (b) ✓ comfortable today. Driver: US-Iran UNGA talks described as "very productive" by Trump; Iranian President Pezeshkian rejected nuclear restrictions but left diplomatic door open.
+- **WTI**: ~$98/bbl — sitting just above the adjacent watch level.
+- **⚠️ CRITICAL NEW DEVELOPMENT — Saudi East-West Pipeline Restart Imminent**: Saudi Arabia is preparing to restart East-West pipeline exports "in coming days," which would allow it to bypass the Strait of Hormuz entirely. This is the SINGLE LARGEST THREAT to the energy/XOM thesis since inception — the dual supply disruption (Yanbu + Hormuz) has been the core structural oil catalyst; pipeline restart removes the Yanbu leg.
+- **Trump-Xi Summit (Sep 24 — tomorrow)**: Low expectations for Iran breakthrough. China buys 80%+ of Iran's seaborne oil and is unlikely to pressure Tehran. Analysts expect "quiet sanctions talk, not a breakthrough." Oil declined ~2.1–2.2% in summit anticipation; Brent bounced today on UNGA talk optimism.
+- **US-Iran UNGA talks**: Described as "very productive" per Trump; further talks planned. De-escalation trajectory accelerating; diplomatic channels now open for first time since conflict began.
+- **Gate re-eval (Sep 23 midday)**:
+  - (a) Fed posture: ✗ (hawkish; 16/19 FOMC members project more hikes; unchanged)
+  - (b) Brent > $97: ✓ ($101.61) — comfortable today but Saudi pipeline restart threatens structural oil floor within days
+  - (c) 10Y yield < 4.82%: ✗ (~4.96% estimated; no catalyst for yield relief today)
+  - (d) S&P flat-to-positive: ✓ (estimated; chipmaker rally continuing)
+- **No action taken** — no positions to cut, no stops to tighten; pre-market HOLD decision confirmed.
+- **HOLD confirmed**: No trades today per pre-market plan (summit binary risk + 10Y failing + Saudi pipeline risk). 2 of 4 gates continue to fail.
+- **Energy thesis status**: DETERIORATING. Saudi pipeline restart + US-Iran productive UNGA talks = structural supply disruption narrative is unwinding. If pipeline restarts and Brent slides below $97 post-summit, XOM watchlist deactivates and RTX becomes primary idea.
+- **Post-summit (Sep 25+) playbook remains unchanged** per pre-market research: Outcome A (de-escalation confirmed) = Deactivate XOM, Activate RTX; Outcome B (stalemate) = XOM conditional; Outcome C (escalation) = still no entry without 10Y relief.
+- Week of Sep 22: 0/5 trades. No Telegram notification (no action taken).
