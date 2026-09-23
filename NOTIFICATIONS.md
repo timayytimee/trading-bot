@@ -72,3 +72,13 @@ Trades today: none
 Open positions: none
 Week of Sep 15: 0/5 trades (2nd consecutive 0-trade week)
 Tomorrow: Weekend — Mon Sep 21 XOM entry if 10Y < 4.82% + SPY flat/pos + Brent >$97 + no Iran ceasefire. Yanbu depletion ~Sep 19-21 is key catalyst watch.
+
+---
+## 2026-09-23 20:12 UTC (Telegram 403 fallback)
+EOD 2026-09-23
+Portfolio: $772.02 (+0.0% day, +0.0% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+Week of Sep 21: 0/5 trades
+Tomorrow: Trump-Xi summit (Sep 24) — watch WTI $97 floor; if breaks, pivot to RTX/defense

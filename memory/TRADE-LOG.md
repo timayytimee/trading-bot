@@ -199,3 +199,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 15th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02, no positions, no open orders. Entry gates remain blocked: 10Y yield was ~4.94% at yesterday's close (gate c ✗ — needs < 4.82%); Fed posture hawkish post-Sep 16 dot plot (gate a ✗); WTI declining toward $97 floor puts gate (b) at risk ahead of Trump-Xi summit Sep 24. S&P directional gate (d) is the only consistent pass. Key inflection point: Trump-Xi summit on Sep 24 — if geopolitical tensions ease further, WTI could break below $97 and invalidate the energy thesis entirely, forcing a sector pivot. Post-summit, watchlist shifts toward RTX/defense (if summit is inconclusive/hawkish) or broader growth sectors (if yields finally pull back from 5%). HOLD remains correct. Week of Sep 21: 0/5 trades (cap: 5/5).
+
+---
+
+### Sep 23 — EOD Snapshot (Day 16, Wednesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 16th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02, no positions, no open orders. Entry gates remain blocked: 10Y yield ~4.94% (gate c ✗ — needs < 4.82%); Fed posture hawkish post-Sep 16 dot plot (gate a ✗); WTI declining toward $97 floor with gate (b) now at risk. S&P gate (d) is the only consistent pass. Trump-Xi summit tomorrow (Sep 24) is the key inflection point — geopolitical de-escalation could send WTI below $97 and fully invalidate the energy thesis, forcing a sector pivot. If summit is inconclusive/hawkish and WTI holds above $97, XOM entry remains contingent on 10Y pulling below 4.82%. Post-summit pivot candidates: RTX/defense (if geopolitical tensions persist) or growth sectors (if yields finally retreat from 5%). Week of Sep 21: 0/5 trades.
