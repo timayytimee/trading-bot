@@ -1468,3 +1468,25 @@ No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience m
 - **⚠️ Energy thesis update**: Saudi East-West pipeline restarting removes primary structural XOM catalyst. XOM deactivation risk now highest since inception.
 - **Post-summit (Sep 25+) revised**: With Saudi pipeline restarting, Outcome A probability elevated. If Brent < $97 post-summit → DEACTIVATE XOM; ACTIVATE RTX. If Brent holds $97+ AND 10Y shows genuine relief → XOM conditional remains.
 - No trades placed. No Telegram notification. Week of Sep 22: 0/5 trades.
+
+### Midday Addendum (Sep 24 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Brent crude**: ~$96.84/bbl (−4.7%) — **BELOW $97 gate (b) threshold**. Driver: Saudi East-West pipeline restarted Sep 22 at partial capacity (~40%; full restart 6–8 weeks). This removes the Yanbu-leg of the dual supply disruption thesis. Gate (b) ✗ FAILS.
+- **10Y Treasury yield**: ~5.12–5.13% — near 2026 highs. Gate (c) ✗ fails by ~30bps (needs < 4.82%).
+- **S&P 500**: ~7,685–7,699 (−0.09–0.30%); second consecutive down session. Gate (d) ✗ fails.
+- **XOM**: ~$164.30 (+1.9% from prior close) — diverging from crude (stock up while crude down); outperforming on record output/LNG story and Joliet refinery outage (minor negative). Relative strength noted but does NOT overcome deactivation trigger.
+- **Trump-Xi Summit**: No Iran breakthrough; US-China trade truce extended to Jan 10 (status quo). Xi did not commit to cutting Chinese Iran oil purchases. No near-term crude-bearish catalyst from summit → Iran supply disruption remains structural but oil floor weakened by pipeline restart.
+- **⚠️ OUTCOME A CONFIRMED**: Brent $96.84 < $97 → **XOM WATCHLIST DEACTIVATED** per documented playbook (see Sep 22, Sep 23, Sep 24 pre-market entries). The dual supply disruption thesis (Hormuz + Yanbu) has lost its Yanbu leg; energy thesis no longer meets structural entry criteria.
+- **RTX activation status**: Post-summit Outcome A trigger activated for watchlist. RTX gates: (a) US-Iran conflict continues (no ceasefire) ✓, (b) S&P flat-to-positive ✗ (negative today), (c) RTX 30-min consolidation — not yet confirmed. RTX entry does NOT trigger today (S&P gate fails). Elevated watch for Sep 25+.
+- **Gate re-eval (Sep 24 midday)**:
+  - (a) Fed posture: ✗ (hawkish; 5.12% 10Y)
+  - (b) Brent > $97: ✗ ($96.84 — DEACTIVATED)
+  - (c) 10Y yield < 4.82%: ✗ (~5.12%)
+  - (d) S&P flat-to-positive: ✗ (negative)
+- **No action taken** — 4 of 4 gates fail; no positions to cut; no stops to tighten.
+- **HOLD confirmed**: No trades. No Telegram notification (no action taken).
+- **Post-summit (Sep 25+) playbook — UPDATED**:
+  - XOM: DEACTIVATED — Brent gate confirmed below $97 midday. Do not re-activate unless Brent sustainably reclaims $100+ on new supply disruption event.
+  - RTX: PRIMARY WATCHLIST — activate Sep 25 if: S&P flat-to-positive AND RTX 30-min consolidation above prior close AND US-Iran conflict not ceasefire-resolved AND 10Y < 4.82%.
+  - Tech/AI (NVDA/AMD): Secondary watchlist — XLK improving 2+ sessions; Nasdaq 100 at record; watch for 2-session confirmation above 50-day MA before entry.
+- Week of Sep 22: 0/5 trades. Week ends 0/0 since inception.
