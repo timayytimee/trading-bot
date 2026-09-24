@@ -210,3 +210,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 16th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02, no positions, no open orders. Entry gates remain blocked: 10Y yield ~4.94% (gate c ✗ — needs < 4.82%); Fed posture hawkish post-Sep 16 dot plot (gate a ✗); WTI declining toward $97 floor with gate (b) now at risk. S&P gate (d) is the only consistent pass. Trump-Xi summit tomorrow (Sep 24) is the key inflection point — geopolitical de-escalation could send WTI below $97 and fully invalidate the energy thesis, forcing a sector pivot. If summit is inconclusive/hawkish and WTI holds above $97, XOM entry remains contingent on 10Y pulling below 4.82%. Post-summit pivot candidates: RTX/defense (if geopolitical tensions persist) or growth sectors (if yields finally retreat from 5%). Week of Sep 21: 0/5 trades.
+
+---
+
+### Sep 24 — EOD Snapshot (Day 17, Thursday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Energy thesis officially invalidated — WTI crude fell to ~$91.74/bbl (broke decisively below the $97 gate-b floor), driven by improving Strait of Hormuz traffic and US-Iran diplomatic progress. The Trump-Xi summit today produced a US-China trade truce extension of 2 months, a broadly de-escalatory outcome that further compressed the geopolitical risk premium in oil. Brent dropped to ~$102.41, well off the $107–109 recent range. The sell-off reflects both the China optimism and easing Hormuz supply anxiety — both structural pillars of the energy thesis are now gone. Separately, 10Y yield surged to ~5.166% (highest since July 2007), the worst bond market session in weeks, driven by strong economic data, a weak Treasury auction, and persistent inflation concerns. S&P 500 fell ~0.75% on Wednesday with US futures steadying Thursday morning (gate d remains tenuous). All 4 XOM entry gates failed: (a) Fed hawkish ✗, (b) WTI below $97 ✗, (c) 10Y 5.166% ✗, (d) S&P declining ✗. No positions placed, no orders submitted. Week of Sep 21: 0/5 trades. Sector pivot required: energy thesis is dead. New candidate for research: financials/banks (XLF, JPM, GS) benefit from high rates and a steepening yield curve; need 10Y to stabilize and S&P to recover before any entry. Friday Sep 25: sector pivot research day — map financials setup and assess any remaining defense thesis after summit de-escalation.
