@@ -1449,3 +1449,22 @@ No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience m
 - **Outcome C (escalation):** US-Iran new strikes / Strait closure → oil spike, risk-off; energy stocks underperform (established pattern); still no entry without gates clearing
 
 No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience maintained.
+
+### Market-Open Addendum (Sep 24 — 9:30–10:00 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | Buying Power $772.02 | balance_asof 2026-09-23
+- **XOM quote**: Bid $163.80 / Ask $164.59 — liquid; last trade $163.845; day range $162.08–$163.98 (up from $161.28 prior close +1.6%)
+- **RTX quote**: Bid $191.61 / Ask $191.88 — liquid; last trade $191.74 (down from $192.245 prior close −0.27%)
+- **⚠️ 10Y Treasury yield**: ~5.12% (pre-market research cited 4.79% — stale/incorrect data; live yield is ~30bps ABOVE gate (c) threshold; tentative gate (c) clear INVALIDATED)
+- **Brent crude**: ~$102/bbl (+2.4%) — gate (b) ✓ for now; but Saudi East-West pipeline RESTARTED Sep 22 at low capacity (~40% in 2 days; full restart 6–8 weeks) — removes Yanbu leg of dual supply disruption thesis
+- **S&P 500**: ~7,699, −0.09% today (futures were −0.6% pre-market); gate (d) ✗
+- **Trump-Xi Summit**: Underway at White House (Sep 23–25); no concrete outcomes announced; focus on trade, AI, Iran; no breakthrough yet
+- **Gate re-eval (live data)**:
+  - (a) Fed posture non-hawkish: ✗ (hawkish; 5.12% 10Y confirms; no pivot)
+  - (b) Brent > $97: ✓ ($102) — structurally weakening with Saudi pipeline restart
+  - (c) 10Y yield < 4.82%: ✗ (5.12% — fails by ~30bps; pre-market 4.79% was stale)
+  - (d) S&P flat-to-positive: ✗ (−0.09%)
+- **HOLD confirmed**: 3 of 4 gates fail. Pre-market tentative gate (c) clear was based on stale data.
+- **⚠️ Energy thesis update**: Saudi East-West pipeline restarting removes primary structural XOM catalyst. XOM deactivation risk now highest since inception.
+- **Post-summit (Sep 25+) revised**: With Saudi pipeline restarting, Outcome A probability elevated. If Brent < $97 post-summit → DEACTIVATE XOM; ACTIVATE RTX. If Brent holds $97+ AND 10Y shows genuine relief → XOM conditional remains.
+- No trades placed. No Telegram notification. Week of Sep 22: 0/5 trades.
