@@ -1375,3 +1375,77 @@ No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience m
 - **Energy thesis status**: DETERIORATING. Saudi pipeline restart + US-Iran productive UNGA talks = structural supply disruption narrative is unwinding. If pipeline restarts and Brent slides below $97 post-summit, XOM watchlist deactivates and RTX becomes primary idea.
 - **Post-summit (Sep 25+) playbook remains unchanged** per pre-market research: Outcome A (de-escalation confirmed) = Deactivate XOM, Activate RTX; Outcome B (stalemate) = XOM conditional; Outcome C (escalation) = still no entry without 10Y relief.
 - Week of Sep 22: 0/5 trades. No Telegram notification (no action taken).
+
+---
+
+## 2026-09-24 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 22:** 0/5 trades used (cap: 5/5)
+
+### Market Context
+- **WTI:** ~$88.72–$90.50/bbl (down from $92.71 yesterday; oil sliding on summit de-escalation pricing); **Brent:** ~$97.93–$98.60/bbl (CRITICAL: barely $0.93 above the $97 gate threshold — declining trend)
+- **S&P 500 futures:** +0.12% (recovering after 3 consecutive down sessions; Nasdaq 100 was −1.13% yesterday)
+- **VIX:** ~15.18 (+0.97 pts / +6.83% on the day; modest uptick on summit uncertainty)
+- **10Y Treasury yield:** ~4.79% (⚠️ DOWN ~1bp from yesterday's ~4.96%; if confirmed, THIS IS THE FIRST TIME gate (c) would clear since account inception — needs verification intraday)
+- **Trump-Xi Summit (TODAY at White House):** Xi arrived; top Chinese business executives in tow; Agenda: trade/tariffs, AI, Iran war resolution, Taiwan; Iran is the oil wildcard — China buys 80%+ of Iran seaborne exports; Soufan Center: "summit raises hopes for Iran war settlement — imminent possibility"; LOW expectations for breakthrough; outcome unknown at research time
+- **Saudi East-West pipeline:** "Restart in coming days" — confirmed imminent; this REMOVES the Yanbu-leg of the dual supply disruption thesis (the #1 structural XOM catalyst risk)
+- **US-Iran UNGA talks:** Trump described as "very productive"; further talks planned; diplomatic de-escalation trajectory accelerating
+- **Earnings before open:** COST (Costco Q4 FY26), DRI (Darden Restaurants Q1 FY27); ~13 total reports
+- **Economic calendar:**
+  - 8:30 AM ET: Initial Jobless Claims — labor market health check
+  - 10:00 AM ET: New Residential Sales
+  - Fed speakers: Williams, Barkin, Hammack, Paulson (hawkish backdrop; 10+ Fed appearances this week; any hawkish signal could reverse the 4.79% yield level)
+- **Sector momentum (30-day leading):** XLE, XLI, XLB, XLP still leading | XLK improving (AI rally) | XLC, XLY, XLF lagging
+
+### Gate Status (XOM — as of pre-market)
+- **(a) Fed posture non-hawkish:** ✗ — Hawkish; Fed hiked Sep 16; 16/19 FOMC members project ≥1 more hike; Williams/Barkin speaking today
+- **(b) Brent > $97:** ✓ PRECARIOUS ($97.93–$98.60, ~$1 above gate; Saudi pipeline restart imminent = severe near-term threat)
+- **(c) 10Y yield < 4.82%:** ✓ TENTATIVE (4.79% reported — FIRST time gate potentially clears; must confirm intraday; 4 Fed speakers today could reverse)
+- **(d) S&P flat-to-positive:** ✓ (+0.12% futures)
+
+**Gate summary:** 3 of 4 gates potentially pass today (b marginally, c tentatively, d cleanly). Gate (a) still fails. Gate (c) clearing for first time is significant, but Trump-Xi summit binary risk and imminent Saudi pipeline restart make TODAY the WRONG day to act.
+
+### Trade Ideas
+1. **XOM (ExxonMobil) — CONDITIONAL WATCH (post-summit, Sep 25+)**
+   - 10Y yield at 4.79% = first genuine gate (c) clear; if it holds, the rate headwind may be easing
+   - BUT: Summit TODAY is binary; Saudi pipeline restart imminent = gate (b) threatened within 1–2 sessions
+   - Gate (a) still failing (hawkish Fed posture + 4 speakers today could spike yields back above 4.82%)
+   - **No entry today** — wait for summit outcome; if Brent holds above $97 post-summit AND 4 Fed speakers don't reverse yield to 4.82%+ → Sep 25 pre-market check for XOM
+   - Entry (post-summit, if all 4 gates clear): ~$158–163; 10% trailing stop GTC (1 whole share); target: +15% (~$182–188); R:R ~1.5:1
+   - Catalyst: Dual supply disruption structural (Hormuz + partial Yanbu) + XLE #1 sector YTD
+
+2. **RTX (Raytheon) — ELEVATED WATCH (summit Outcome A trigger)**
+   - US-Iran conflict ongoing; US military Hormuz escort ops; defense supplemental; XLI leading sector
+   - Post-summit trigger (Outcome A): Summit produces no ceasefire → conflict continues → RTX activation
+   - Entry: ~$110–115; 30-min consolidation; stop: −8% (~$101–106); target: +16% (~$128–133); R:R 2:1
+   - Catalyst: Iran war continuation + US defense supplemental + XLI sector leadership
+   - Less rate-sensitive than energy — gate (a) less of a blocker for RTX
+
+3. **Full HOLD (default today)**
+   - Trump-Xi summit binary event = highest oil/geopolitical uncertainty of the week
+   - Saudi pipeline restart within days = gate (b) threatened for XOM
+   - 4 Fed speakers today = gate (c) reversal risk
+
+### Risk Factors
+- **Trump-Xi summit outcome (TODAY):** De-escalation / Iran ceasefire framework → Brent drops below $97 → XOM watchlist DEACTIVATED; pivot to RTX (Outcome A). No deal → XOM thesis partially restored with new yield tailwind (gate c clearing). Escalation → oil spike + risk-off → energy stocks underperform again (established pattern)
+- **Saudi East-West pipeline restart imminent:** Removes Yanbu leg of dual supply disruption; Brent could slide toward $95 even without summit breakthrough — gate (b) at extreme risk within 1–2 sessions
+- **4 Fed speakers today (Williams, Barkin, Hammack, Paulson):** Any hawkish comment could spike 10Y back above 4.82% and reverse the tentative gate (c) clear — most important intraday risk
+- **Brent $97.93 = 1% from gate failure:** Declining trend (4 sessions); WTI $88–90 confirms broad oil weakness; one negative session deactivates energy thesis
+- **XOM 9+ consecutive sessions of underperforming crude:** Rate/rotation headwind structural; even if oil floor holds, equity upside limited near-term
+- **Initial Jobless Claims 8:30 AM ET:** Strong print = more rate hike fuel → gate (a) worsens and gate (c) threatened
+- **COST/DRI earnings:** COST beat/miss could move consumer discretionary/staples sentiment broadly
+- **PDT:** 0/3 day trades used; any entry must be swing trade held overnight
+
+### Decision
+**HOLD** — No trades today. Trump-Xi summit is the binary event dominating oil and geopolitics. The 10Y at 4.79% is the FIRST potential gate (c) clear since account inception and is a MAJOR change from yesterday (4.96%), but 4 Fed speakers today create reversal risk. Saudi pipeline restart is imminent and threatens gate (b). Brent at $97.93 is one bad headline from gate failure.
+
+**Post-summit (Sep 25+) playbook:**
+- **Outcome A (de-escalation / Iran ceasefire framework):** Brent confirms < $97 → DEACTIVATE XOM; ACTIVATE RTX at 30-min consolidation if: no ceasefire confirmation AND S&P flat-to-positive AND 10Y < 4.82%
+- **Outcome B (stalemate / no deal):** Brent holds $97+ → Sep 25 XOM check with all 4 gates; IF 10Y remains below 4.82% AND Brent above $97 → this is the first genuine XOM entry window since inception; execute with 1 whole share, 10% trailing stop GTC
+- **Outcome C (escalation):** US-Iran new strikes / Strait closure → oil spike, risk-off; energy stocks underperform (established pattern); still no entry without gates clearing
+
+No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience maintained.
