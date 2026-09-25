@@ -1574,3 +1574,18 @@ No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience m
 **Sector pivot complete:** Energy thesis deactivated; RTX/defense is primary; Tech/AI is secondary (1 more session confirmation needed).
 
 Week of Sep 25: 0/5 trades. 28th consecutive session without a trade.
+
+### Market-Open Addendum (Sep 25 — 9:41 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | balance_asof 2026-09-24
+- **RTX quote (live)**: Bid $188.61 / Ask $189.01 — liquid; spread $0.40 ✓
+- **RTX vs. prior close**: ~$188.61–189.01 vs. Sep 24 close ~$191–192 — stock is DOWN; gate (d) ✗
+- **10Y Treasury yield**: ~5.12% (unchanged from Sep 24; gate (c) fails by ~30bps)
+- **S&P 500**: +0.49% futures pre-market; market open confirmed (clock 9:41 AM ET)
+- **Gate re-eval (live data)**:
+  - (a) US-Iran conflict not ceasefire-resolved: ✓ (no ceasefire confirmed)
+  - (b) S&P flat-to-positive: ✓ (futures +0.49%)
+  - (c) 10Y yield < 4.82%: ✗ (~5.12%)
+  - (d) RTX 30-min consolidation above prior close: ✗ ($188.61 < ~$191-192 Sep 24 close)
+- **HOLD confirmed**: Both binding gates fail. 10Y structural headwind intact; RTX declining from Sep 24 close — entering a declining name on a failed consolidation violates rules. No trades placed. No Telegram notification.
+- **Next catalyst**: PCE inflation data Wed Sep 30 (Fed's preferred measure) — first potential yield relief catalyst.
