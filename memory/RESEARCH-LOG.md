@@ -1490,3 +1490,87 @@ No positions to cut. No stops to tighten. Week of Sep 22: 0/5 trades. Patience m
   - RTX: PRIMARY WATCHLIST — activate Sep 25 if: S&P flat-to-positive AND RTX 30-min consolidation above prior close AND US-Iran conflict not ceasefire-resolved AND 10Y < 4.82%.
   - Tech/AI (NVDA/AMD): Secondary watchlist — XLK improving 2+ sessions; Nasdaq 100 at record; watch for 2-session confirmation above 50-day MA before entry.
 - Week of Sep 22: 0/5 trades. Week ends 0/0 since inception.
+
+---
+
+## 2026-09-25 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 25:** 0/5 trades used (new week)
+- balance_asof: 2026-09-24 | daytrade_count: 0
+
+### Market Context
+- **WTI:** ~$94.76/bbl (Sep 24 close, +2.82%); **Brent:** ~$107/bbl (Sep 24 late session — spiked to $108+ on Houthi missile attacks on Saudi cities, then trimmed on US-Iran deal talks). *Note: Brent was $96.84 at Sep 24 midday; recovered sharply in afternoon session.*
+- **S&P 500 futures:** +0.49% (~7,756); stock index futures recovering as crude oil retreat knocks bond yields lower; S&P above 50-DMA (7,629) and 200-DMA (7,196) — positive technical positioning
+- **VIX:** 15.67 (Sep 24 close, +3.23% on day); moderate; below September seasonal norm of ~17–19
+- **10Y Treasury yield:** ~5.12% (near 2026 highs; down slightly today on oil retreat, but gate (c) requires < 4.82% — fails by ~30bps)
+- **Today's catalysts:**
+  - **Trump-Xi Summit (ongoing — Sep 23–25):** No Iran breakthrough yet; US-China trade truce extended to Jan 10 (status quo); Xi did not commit to cutting Chinese Iran oil purchases. Summit effectively concluded without major oil-market breakthrough.
+  - **US-Iran deal signals:** Reports that US and Iranian negotiators exploring deal to restore Persian Gulf exports; drove Brent from $108 down to $107; this is the first credible US-Iran de-escalation signal beyond diplomacy. **Bearish for oil long-term if confirmed.**
+  - **Houthi/Yemen escalation:** Houthi militants fired missiles at Saudi cities — drove Brent spike to $108+ before trimming on deal-talk headlines.
+  - **Oil price whipsaw:** Brent $96.84 midday → $108+ spike → ~$107 close; extreme intraday volatility; structural supply disruption thesis mixed.
+  - **Yields retreating slightly** on oil pullback from highs; not enough for gate (c) relief.
+  - **Tech/AI rally continues:** Nasdaq 100 at record; AI semiconductor demand; XLK improving for 2nd consecutive week; AMD $1T market cap.
+- **Earnings before open today:** Light — ~7 reports scheduled; no major named catalyst relevant to watchlist
+- **Economic calendar:**
+  - Today Sep 25: University of Michigan Consumer Sentiment (minor)
+  - **Wed Sep 30: PCE inflation** — next major macro event; Fed's preferred inflation gauge
+  - Next week: light data until PCE Sep 30 and ISM/jobs data week of Oct 6
+- **Sector momentum (30-day):**
+  - **Leading:** XLE, XLI, XLB, XLP (stable)
+  - **Improving:** XLK (AI rally, 2+ sessions of leadership); XLF (steeper yield curve + NII tailwind)
+  - **Lagging:** XLC, XLY
+  - **Neutral:** XLRE, XLU
+- **RTX-specific news (Sep 22–25):**
+  - $105.6M US Air Force contract modification awarded Sep 22
+  - Lyntris qualified hardware for SPY-6 radar family (Raytheon)
+  - Pratt & Whitney first GTF Advantage aircraft delivery
+  - Bernstein analyst Douglas Harned lowered PT to $223 from $232; maintains Market Perform
+  - RTX down ~11% over trailing 30 days ($226 peak Aug → ~$198 mid-Sep); potential support level entry
+
+### Trade Ideas
+1. **RTX (Raytheon Technologies) — CONDITIONAL (primary, Outcome A activation)**
+   - Per documented Outcome A playbook (energy deactivated; conflict continues): RTX is the primary watchlist name
+   - Catalyst: Iran war ongoing despite diplomacy; US military Hormuz escort operations; $105.6M USAF contract; XLI in leading sector; defense supplemental spending; less rate-sensitive than energy
+   - Gate check (pre-market):
+     - (a) US-Iran conflict not ceasefire-resolved: ✓ (deal talks, but no ceasefire confirmed)
+     - (b) S&P flat-to-positive: ✓ (+0.49% futures)
+     - (c) 10Y yield < 4.82%: ✗ (~5.12% — fails by ~30bps)
+     - (d) RTX 30-min consolidation above prior close: TBD at open (~$191–192 from Sep 24)
+   - **CONDITIONAL entry today**: gate (c) fails at pre-market; ONLY enter if 10Y shows meaningful intraday relief toward 4.82% AND RTX establishes 30-min consolidation above prior close. RTX at ~$198 with $105.6M fresh USAF contract and SPY-6 qualification is constructive; Bernstein cut PT but Market Perform (not downgrade). Stop: −8% (~$182); target: +16% (~$230); R:R ~2:1. Size: 1 share (~$198, under $193 max — need to verify exact price at open; may need to reduce or use notional).
+   - **REJECT today if:** 10Y remains ≥5.00% + no intraday yield relief → full HOLD
+
+2. **Tech/AI (NVDA/AMD) — SECONDARY WATCH (not actionable yet)**
+   - XLK improving 2 consecutive sessions; Nasdaq 100 at record; AMD $1T market cap; AI capex demand intact
+   - Need 1 more session confirmation above 50-DMA + XLK maintaining lead sector status before activation
+   - Watch Sep 28+ if XLK continues; entry ~NVDA or AMD at 30-min consolidation on a clean macro day
+
+3. **XOM/Energy — DEACTIVATED**
+   - Brent confirmed <$97 at Sep 24 midday ($96.84); XOM watchlist retired per documented Outcome A trigger
+   - *Caveat: Brent recovered to ~$107 late Sep 24 on Houthi attacks + US-Iran deal talks; however, deal signals are structurally bearish for oil. Do not re-activate XOM on a one-session spike driven by headlines that simultaneously signal Iran supply restoration.*
+   - Re-activation threshold: Brent sustainably reclaims $100+ on new structural supply disruption event (not a one-day headline bounce) AND 10Y yield relief
+
+### Risk Factors
+- **10Y yield ~5.12%:** Structural headwind for all rate-sensitive names; gate (c) fails by ~30bps; no catalyst for 30bp same-day relief; PCE Sep 30 is next potential yield catalyst
+- **US-Iran deal signals:** If US-Iran export deal confirmed → Brent could crater below $90; energy thesis fully dead; RTX could face "peace premium" unwind risk too (defense spending narrative weakens on ceasefire)
+- **Houthi missile strikes on Saudi:** Escalatory event but "sell the news" risk — Brent spiked $4 then retraced; market learning to fade oil spike headlines
+- **Oil price whipsaw:** $96 → $108 → $107 in one session = extreme volatility; avoid any energy exposure
+- **RTX trailing 30-day decline (−11%):** Entering a declining trend requires confirmed 30-min consolidation, not just a bounce; Bernstein PT cut is a caution signal
+- **Trump-Xi summit concluding today (Sep 25):** Summit wrap-up comments could move oil/defense names; no-breakthrough is base case; any positive Iran language = risk-off for RTX
+- **Week of Sep 25 = Week 5 since inception (0 trades all month):** Strategy says patience > activity, but also 75–85% deployed; we remain 0% deployed at Day 17+ — legitimate to look for quality entry if gates clear
+- **UMich Consumer Sentiment today:** Minor event; weak print could pressure consumer discretionary but minimal watchlist impact
+- **PDT:** 0/3 day trades used; any entry must be swing trade held overnight
+
+### Decision
+**HOLD** — Default. 10Y yield at ~5.12% fails gate (c) by ~30bps, which blocks RTX activation per the documented Sep 24 playbook gate. S&P futures are positive (+0.49%) and US-Iran conflict continues without ceasefire, so 3 of 4 RTX gates pass — but yield is the binding constraint. Today is also the summit wrap-up session (Sep 23–25), meaning final communiqués could still surprise on Iran.
+
+**CONDITIONAL upgrade to RTX entry (Sep 25 intraday only):**
+- If 10Y pulls back toward 4.90% or below (yield relief driven by oil retreat or weak UMich) AND RTX establishes 30-min consolidation above prior close (~$191–192) → 1 whole share RTX, 10% trailing stop GTC, hold as swing trade.
+- If 10Y holds ≥5.00%: FULL HOLD through PCE (Sep 30).
+
+**Sector pivot complete:** Energy thesis deactivated; RTX/defense is primary; Tech/AI is secondary (1 more session confirmation needed).
+
+Week of Sep 25: 0/5 trades. 28th consecutive session without a trade.
