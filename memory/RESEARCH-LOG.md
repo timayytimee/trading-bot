@@ -1589,3 +1589,18 @@ Week of Sep 25: 0/5 trades. 28th consecutive session without a trade.
   - (d) RTX 30-min consolidation above prior close: ✗ ($188.61 < ~$191-192 Sep 24 close)
 - **HOLD confirmed**: Both binding gates fail. 10Y structural headwind intact; RTX declining from Sep 24 close — entering a declining name on a failed consolidation violates rules. No trades placed. No Telegram notification.
 - **Next catalyst**: PCE inflation data Wed Sep 30 (Fed's preferred measure) — first potential yield relief catalyst.
+
+### Midday Addendum (Sep 25 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **10Y Treasury yield**: ~5.21–5.22% (UP from 5.12% this morning; highest since 2008 GFC) — gate (c) ✗ fails by ~39bps; getting worse, not better
+- **RTX**: ~$192 (roughly flat vs. Sep 24 close ~$191–192); open was ~$188.61 (down), recovered mid-session — no clean 30-min consolidation above prior close established at open
+- **S&P 500**: ~7,704, +0.00–0.02% (essentially flat); gate (b) ✓ barely
+- **US-Iran**: No ceasefire confirmed; conflict ongoing — gate (a) ✓; oil slightly lower today (mildly positive for equities)
+- **Gate re-eval (midday)**:
+  - (a) US-Iran conflict not ceasefire-resolved: ✓
+  - (b) S&P flat-to-positive: ✓ (barely)
+  - (c) 10Y yield < 4.82%: ✗ (5.21–5.22% — fails decisively; worsening)
+  - (d) RTX 30-min consolidation above prior close: ✗ (opened down, recovered mid-session; no clean setup)
+- **No action taken** — binding gate (c) fails hard; yield headwind persisting/intensifying.
+- **HOLD confirmed**: No cuts, no stop tightening (no positions). No Telegram notification.
+- **Next catalyst**: PCE inflation Wed Sep 30 — first potential yield relief. No RTX entry viable until 10Y shows genuine relief toward 4.82%.
