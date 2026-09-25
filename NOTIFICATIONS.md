@@ -93,3 +93,16 @@ Open positions: none
 Week of Sep 21 final: 0/5 trades (3 weeks, 0 trades since inception)
 Sector pivot: Energy thesis dead (WTI <$97, Hormuz easing, US-China truce). Pivoting to Financials (XLF/JPM/GS).
 Tomorrow: Research XLF/JPM entry setup; map financials gates for week of Sep 28.
+
+---
+## 2026-09-25 21:16 UTC (fallback — bot blocked by user)
+Week ending 2026-09-25
+Portfolio: $772.02 (0.00% week, 0.00% phase)
+vs S&P 500: +2.47% week / +0.16% phase ⚠️ cash now underperforming
+Trades: 0 (W:0 / L:0 / open:0)
+Best: N/A  Worst: N/A
+Energy thesis invalidated Sep 24 (WTI <$97, Hormuz recovering, US-Iran diplomatic progress)
+S&P ripped +2.47% on de-escalation — worst missed alpha of the phase
+Pivot: Financials (XLF/JPM) + Defense (RTX/LMT) as primaries for week of Sep 28
+Hard deadline: 1 trade by Sep 30 or phase grade = F
+Grade: D

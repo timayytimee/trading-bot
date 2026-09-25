@@ -227,3 +227,66 @@ Template for each entry:
 
 ### Overall Grade: C
 - Third consecutive zero-trade week. Cash outperformed S&P by +1.39% this week and +2.26% since inception, which is mathematically correct but strategically hollow — beating a declining market with cash is not the goal. The energy thesis has been correct for 3 weeks (Brent from $88 → $109, Iran escalation, Yanbu offline); failure to execute any trade represents a growing problem. FOMC clearance was correct; hawkish dot plot was correctly anticipated; yield-gate discipline preserved capital. But the system needs adjustment (lower yield gate, defense activation) to generate signals in the current rate regime. Post-FOMC with relaxed gate and defense primary is the path forward.
+
+---
+
+## Week ending 2026-09-25
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $772.02 |
+| Ending portfolio | $772.02 |
+| Week return | $0.00 (0.00%) |
+| S&P 500 week | +2.47% |
+| Bot vs S&P | −2.47% |
+| Trades | 0 (W:0 / L:0 / open:0) |
+| Win rate | N/A |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+**Phase P&L (vs $772.02 baseline):** $0.00 (0.00%)
+**S&P 500 since phase start (Aug 28 → Sep 25):** +0.16% (7,730.99 → 7,743.41)
+**Bot vs S&P since phase start:** −0.16% ⚠️ First week cash underperforms S&P on a cumulative basis
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades placed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+### What Worked
+- Energy thesis exit was analytically clean: WTI broke $97 gate on Sep 24, thesis invalidated same day — no overstay
+- Trump-Xi summit de-escalation risk was flagged in advance (Sep 21–22 entries) before the Sep 24 outcome
+- Recognized that Hormuz traffic improving + US-Iran diplomatic progress = two structural energy pillars simultaneously collapsing
+- Designated Sep 25 as formal sector-pivot research day; identified XLF/JPM and RTX/LMT as next-cycle candidates
+- Avoided entering XOM on Sep 21–22 despite S&P rally (+2.76% Mon-Tue) — energy thesis was invalidating in real time
+
+### What Didn't Work
+- Fourth consecutive zero-trade week (0/20 sessions since inception); hard deadline of Sep 24 missed for 4th time
+- S&P ripped +2.47% this week while bot held cash — first week of meaningful underperformance; cumulative phase now -0.16% vs S&P
+- Defense (RTX/LMT) and financials (XLF/JPM) promoted as "primary candidates" in 3 prior reviews but never analyzed with full entry checklist
+- Relaxed yield gate (4.95% from 4.82%) produced no actionable signal — yield surged to 5.166% by Sep 24
+- Energy thesis held from week 1 through week 4 with no parallel sector thesis activated as backup; single-sector concentration created a system that only signals in one macro regime
+
+### Key Lessons
+- Cash is now actively underperforming: S&P +0.16% since phase start; holding cash is no longer "outperforming by avoiding drawdown" — the market has recovered and surpassed the phase baseline
+- Single-catalyst thesis (Iran oil) with multi-gate filter is too brittle in volatile macro regimes; need a portfolio of uncorrelated sector theses running in parallel
+- The 4-gate entry system succeeded at capital preservation but failed at alpha generation over 4 weeks — at some point, a system that never fires is not a trading system
+- Trump-Xi trade truce proved geopolitical de-escalation can occur in a single day; thesis-holding periods must shorten as catalysts evolve
+- Defense thesis was correctly identified as rate-independent but was never given a dedicated entry checklist — ideas in the "secondary" bucket never get executed
+
+### Adjustments for Next Week
+- **Financials (XLF/JPM) is primary**: 10Y yield at 5.166% steepens the curve; banks earn more on spread; strong jobs data is bullish for credit quality; entry checklist required by Monday Sep 28 open — no more watchlist-only treatment
+- **Defense (RTX/LMT) is parallel primary**: Iran conflict ongoing despite trade truce; defense budget cycle unaffected by China deal; run full entry checklist independently of financials
+- **Energy permanently off the table**: WTI below $97, Hormuz traffic recovering, US-Iran diplomatic progress — no reactivation under any conditions this phase
+- **Execute at least 1 trade by Sep 30 (Wednesday) or grade this phase F at next review**; after 4 weeks and 20 sessions with 0 trades, there is no further deferral acceptable
+- **Accept imperfect entries**: In a fast-moving market, a 90% setup is better than a 100% setup that never materializes; reduce gate count for financials to 2 core conditions (sector momentum + not in FOMC/CPI blackout) rather than 4
+
+### Overall Grade: D
+- Fourth consecutive zero-trade week. The energy thesis exit was correct and well-timed, but the S&P rallied +2.47% this week (geopolitical de-escalation, China trade truce, oil compression) while the bot held cash — the worst absolute miss of the phase. For the first time since inception, cash is now underperforming the S&P on a cumulative basis (−0.16%). 20 sessions, 0 trades, 0 live execution experience. The analytical work has been sound but a bot that never trades is not a trading bot. Financials and defense must be activated as primary sectors immediately with a concrete execution plan, not another watchlist entry.
