@@ -82,3 +82,14 @@ Trades today: none
 Open positions: none
 Week of Sep 21: 0/5 trades
 Tomorrow: Trump-Xi summit (Sep 24) — watch WTI $97 floor; if breaks, pivot to RTX/defense
+
+---
+## 2026-09-25 EOD (fallback — Telegram 403 error)
+EOD 2026-09-25
+Portfolio: $772.02 (0.00% day, 0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+Week of Sep 21 final: 0/5 trades (3 weeks, 0 trades since inception)
+Sector pivot: Energy thesis dead (WTI <$97, Hormuz easing, US-China truce). Pivoting to Financials (XLF/JPM/GS).
+Tomorrow: Research XLF/JPM entry setup; map financials gates for week of Sep 28.
