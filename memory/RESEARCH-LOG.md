@@ -1684,3 +1684,18 @@ Week of Sep 25: 0/5 trades. 28th consecutive session without a trade.
 **Energy re-activation watch:** If Brent holds above $100 for 2+ sessions (confirmed Mon + Tue) and energy stocks show positive price action vs. crude, XOM re-enters watchlist for post-PCE entry.
 
 Week of Sep 28: 0/5 trades. 29th consecutive session without a trade since inception.
+
+### Market-Open Addendum (Sep 28 — 9:41 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | Buying Power $772.02 | balance_asof 2026-09-25
+- **RTX quote (live)**: Bid $187.50 / Ask $195.04 — spread $7.54 (~3.9%); condition "R" (restricted/non-standard); **SKIP — wide spread per strategy rules**
+- **XOM quote (live)**: Bid $161.00 / Ask $171.48 — spread $10.48 (~6.1%); condition "R"; **SKIP — wide spread**
+- **Market clock**: Open ✓ (close 4:00 PM ET)
+- **Gate re-eval (live data)**:
+  - (a) US-Iran conflict not ceasefire-resolved: ✓ (Trump rejected Iran deal confirmed)
+  - (b) S&P flat-to-positive: ✓ (futures +0.47–0.50%)
+  - (c) 10Y yield < 4.82%: ✗ (~5.18% — fails by ~36bps; binding constraint)
+  - (d) RTX 30-min consolidation: ✗ (quotes show wide spread condition "R"; no clean setup confirmed)
+- **HOLD confirmed**: Gate (c) fails decisively. Both watchlist names showing wide spread/restricted quotes. No clean entry setup. No trades placed. No Telegram notification.
+- **Next catalyst**: PCE inflation Wed Sep 30 (Fed's preferred gauge) — first credible yield relief event. Watch for 10Y to pull toward 4.82% if PCE soft. NFP Fri Oct 2 is the binary event end of week.
+- **Energy re-watch**: Brent $106.89 (+2.46%) on Trump rejecting Iran deal — 2nd session check needed before XOM re-activation (need Mon+Tue confirmation Brent sustainably above $100).
