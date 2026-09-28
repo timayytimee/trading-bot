@@ -232,3 +232,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** End of week 3 of live trading (Week of Sep 21 final: 0/5 trades; all weeks since inception: 0/0 trades in 18 sessions). Portfolio flat at $772.02 cash (100%). No positions placed, no orders submitted. Today was the designated sector pivot research day following the energy thesis invalidation on Sep 24. The macro backdrop remains hostile to new entries: 10Y yield at multi-decade highs (~5.166%+), Fed in hawkish stance (post-Sep 16 dot plot), and the US-China trade truce compressed risk premiums broadly. Energy thesis is permanently off the table (WTI below $97, Hormuz traffic recovering, US-Iran diplomatic progress). New sector pivot candidates: (1) Financials/banks (XLF, JPM, GS) — high-rate beneficiaries with steepening yield curve thesis; require 10Y stabilization + S&P recovery before entry; (2) Defense (RTX, LMT) — US-Iran conflict ongoing despite geopolitical de-escalation at summit level; assess if defense spending narrative holds post-truce. Weekend plan: research XLF/JPM setup, map entry gates for financials sector, assess whether 10Y yield plateau or further move creates tradeable setup for week of Sep 28.
+
+---
+
+### Sep 28 — EOD Snapshot (Day 19, Monday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 19th consecutive session with equity flat at $772.02 (0 trades since inception). Week of Sep 28 opens at 0/5 trades. Alpaca confirms equity $772.02, no positions, no open orders. The session opens Week 4 of live trading post the energy thesis invalidation. The designated sector pivot (financials: XLF, JPM, GS) requires 10Y yield stabilization and S&P recovery before entry is valid; last confirmed 10Y was ~5.166%+ (multi-decade high) — yield gate remains the primary blocker. The US-China 2-month trade truce and improving Hormuz traffic have broadly compressed geopolitical risk premiums, leaving the macro backdrop dominated by rate headwinds. No qualifying setup met today; cash preservation correct. Week of Sep 28: 0/5 trades. Tuesday plan: run morning research scan on XLF/JPM/GS setup, check 10Y yield movement over weekend and Monday session, and assess whether financials entry gates are closer to alignment.
