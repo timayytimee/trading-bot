@@ -1699,3 +1699,24 @@ Week of Sep 28: 0/5 trades. 29th consecutive session without a trade since incep
 - **HOLD confirmed**: Gate (c) fails decisively. Both watchlist names showing wide spread/restricted quotes. No clean entry setup. No trades placed. No Telegram notification.
 - **Next catalyst**: PCE inflation Wed Sep 30 (Fed's preferred gauge) — first credible yield relief event. Watch for 10Y to pull toward 4.82% if PCE soft. NFP Fri Oct 2 is the binary event end of week.
 - **Energy re-watch**: Brent $106.89 (+2.46%) on Trump rejecting Iran deal — 2nd session check needed before XOM re-activation (need Mon+Tue confirmation Brent sustainably above $100).
+
+### Midday Addendum (Sep 28 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **10Y Treasury yield**: ~5.21% (UP from 5.18% at open; gate (c) ✗ fails by ~39bps — worsening, not improving)
+- **S&P 500**: ~7,711, −0.4% to −0.8%; gate (d) ✗ FAILS (risk-off; yields + oil dragging equities lower)
+- **VIX**: 16.17 (+8.75% from prior close); moderate fear, not panic
+- **RTX**: ~$189.09 (intraday range $187.03–$189.47 vs. prior close ~$191–192); gate (d) ✗ (below prior close; no consolidation setup)
+- **XOM**: Intraday range $152.14–$156.16 vs. prior close $156.97; slightly lower — energy stocks still showing mild weakness despite Brent bid
+- **Brent crude**: ~$106.73–$106.89 (+2.3–2.5%); Day 1 of 2-session XOM re-activation check (Mon = Day 1 ✓; need Tue confirmation Brent holds $100+)
+- **US-Iran**: Trump rejected Iranian Strait of Hormuz peace proposal; conflict day ~209; war-of-attrition phase continuing; WSJ: Trump expects to resume bombing post-November midterms — gate (a) ✓ for RTX/defense intact
+- **TD Cowen note (Sep 28)**: Raised XOM PT to $180 (from $168), Buy rating — bullish signal for energy re-activation thesis; does not change today's entry logic
+- **Gate re-eval (midday)**:
+  - (a) US-Iran conflict not ceasefire-resolved: ✓ (Trump rejected deal; war continues)
+  - (b) S&P flat-to-positive: ✗ (−0.4% to −0.8%)
+  - (c) 10Y yield < 4.82%: ✗ (~5.21% — worsening)
+  - (d) RTX 30-min consolidation above prior close: ✗ (below prior close; wide spread normalized but no setup)
+- **No action taken** — 3 of 4 gates fail; no positions to cut; no stops to tighten.
+- **HOLD confirmed**: Identical outcome to open. Yield headwind intensifying. S&P declining. No entry on any watchlist name today.
+- **XOM re-activation progress**: Day 1 of 2-session Brent >$100 check complete (✓). Need Brent to hold $100+ tomorrow (Tue Sep 29) for re-activation to proceed. Even if Day 2 confirms, entry still blocked by 10Y until PCE Wed Sep 30.
+- **Next catalysts**: PCE + GDP Final Wed Sep 30 (yield relief potential), MU earnings Tue AC (tech catalyst), NFP Fri Oct 2 (binary event).
+- No Telegram notification (no action taken).
