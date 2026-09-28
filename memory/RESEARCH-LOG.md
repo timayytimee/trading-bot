@@ -1604,3 +1604,83 @@ Week of Sep 25: 0/5 trades. 28th consecutive session without a trade.
 - **No action taken** — binding gate (c) fails hard; yield headwind persisting/intensifying.
 - **HOLD confirmed**: No cuts, no stop tightening (no positions). No Telegram notification.
 - **Next catalyst**: PCE inflation Wed Sep 30 — first potential yield relief. No RTX entry viable until 10Y shows genuine relief toward 4.82%.
+
+---
+
+## 2026-09-28 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 28:** 0/5 trades used (new week)
+- balance_asof: 2026-09-25 | daytrade_count: 0
+
+### Market Context
+- **WTI:** ~$94.10/bbl (+1.83%); **Brent:** ~$106.89/bbl (+2.46%) — spiked on Trump rejecting Iranian Hormuz peace proposal; WTI Nov futures hit $96.16 (+4%)
+- **S&P 500 futures:** +0.47–0.50% (ES); Dow +0.86%; Nasdaq +0.40%; Russell 2000 −0.55% (small caps lagging)
+- **VIX:** ~16.17 (+8.75%); elevated vs. prior close 15.18; risk-off geopolitical tone
+- **10Y Treasury yield:** ~5.18% — near 2026 highs; gate (c) fails by ~36bps
+- **Today's catalysts:**
+  - **Trump rejects Iran deal:** Trump rejected Iranian peace proposal to end Middle East conflict and reopen Strait of Hormuz → oil spiked sharply; conflict continues; RTX/defense narrative reinforced
+  - **Fed Gov. Bowman speaking 8:15 AM ET:** Watch for hawkish signals; Fed in watching-the-data mode
+  - **US-China tariff details:** Full disclosure of tariff reduction agreement today
+  - **Dallas Fed Manufacturing Index** (today, minor)
+  - **OpenAI Developer Day:** Tuesday Sep 29 — potential AI/tech catalyst tomorrow (not today)
+- **Earnings before open today:** CCL (Carnival Corp, Q3) — not on watchlist; minor
+- **Earnings this week:** MU (Micron) Tue after close — major AI/semiconductor bellwether
+- **Economic calendar this week:**
+  - Today Sep 28: Dallas Fed Manufacturing Index
+  - Tue Sep 29: JOLTs Job Openings; OpenAI Developer Day
+  - **Wed Sep 30: GDP Final + Core PCE inflation** (Fed's preferred gauge) — KEY catalyst for potential yield relief
+  - Fri Oct 2: NFP September Jobs Report — major binary event
+- **Sector momentum (30-day):**
+  - **Leading:** XLE (+22% YTD, +6.9% last week), XLI, XLB, XLP
+  - **Lagging:** XLK, XLC, XLY, XLF
+  - **Improving:** XLRE, XLU
+- **No held positions** — no ticker-specific stop management needed
+
+### Trade Ideas
+1. **RTX (Raytheon Technologies) — CONDITIONAL (primary)**
+   - Catalyst: Trump rejected Iran deal → US-Iran conflict explicitly continues; $289B backlog; US Hormuz escort operations ongoing; $105.6M USAF contract (Sep 22); XLI leading sector; defense spending narrative reinforced by latest headline
+   - Gate check (pre-market Sep 28):
+     - (a) US-Iran conflict not ceasefire-resolved: ✓ (Trump REJECTED Iranian peace proposal — conflict confirmed ongoing)
+     - (b) S&P flat-to-positive: ✓ (+0.47–0.50% futures)
+     - (c) 10Y yield < 4.82%: ✗ (~5.18% — fails by ~36bps; binding gate)
+     - (d) RTX 30-min consolidation above prior close (~$198 area): TBD at open
+   - Gate (c) blocks pre-market. CONDITIONAL: Only enter if 10Y shows meaningful intraday relief (below 5.00%) AND RTX establishes 30-min consolidation above prior close. Bowman at 8:15 AM could move yields.
+   - Entry: ~$198–200 (1 whole share), 10% trailing stop GTC; stop ~$178–180; target ~$230 (+15%); R:R ~2:1
+   - REJECT if 10Y holds ≥5.10% all session → HOLD through PCE Wed Sep 30
+
+2. **NVDA/AMD (Tech/AI) — NOT actionable today**
+   - Both down premarket on risk-off/yield pressure today
+   - AMD crossed $1T market cap Sep 21; AMD PT raised +16% Sep 25; fundamentals strong
+   - MU earnings Tue AC — if blowout beat, could catalyze tech sector entry Wed Sep 30+
+   - Watch: 2+ sessions of XLK leadership after MU earnings before any tech entry viable
+
+3. **XOM/Energy — WATCH for re-activation**
+   - Trump rejecting Iran deal + Brent back to $106.89 — energy thesis potentially re-activating after Sep 24 deactivation
+   - Critical test: Is this a structural Brent recovery above $100+, or a one-day Hormuz headline spike?
+   - Re-activation requires: Brent sustainably above $100 for 2+ sessions AND 10Y yield relief AND XOM stock confirming positive vs. crude (the 4-day underperformance pattern must break)
+   - Do NOT enter today — single-day oil spike does not restart thesis; require 2-session confirmation
+
+### Risk Factors
+- **10Y yield ~5.18%:** Structural headwind; gate (c) fails for all watchlist names; PCE Wed Sep 30 is the only near-term catalyst for relief
+- **NFP Oct 2:** Another major binary event end-of-week; entering any position today = overnight NFP exposure in 4 days
+- **Trump/Hormuz rejection:** While bullish for oil/defense short-term, it could trigger market risk-off rotation; VIX already +8.75% today
+- **Oil spike = inflation fear:** Rising crude → higher CPI expectations → more hawkish Fed → yields stay elevated; equities could re-rate lower
+- **RTX -11% past 30 days:** Entering a downtrend requires confirmed 30-min consolidation, not just a bounce; Bernstein PT cut still overhead
+- **MU earnings Tue AC:** Moving into tech (NVDA/AMD) before MU result is premature; wait for catalyst clarity
+- **PDT:** 0/3 day trades used; any entry must hold overnight (swing trade only)
+- **Small account:** $772, max $193/position (1 whole share RTX ~$198 is slightly over — may need exact price check at open or use notional)
+
+### Decision
+**HOLD** — Default and correct. 10Y yield at ~5.18% fails gate (c) by ~36bps — the binding constraint for all three watchlist candidates (RTX, tech, energy re-activation). The Trump rejection of Iran deal is constructive for RTX (gate a ✓ confirmed) and potentially re-starts the Brent>$100 energy thesis, but both require yield relief that is not present today. PCE inflation on Wed Sep 30 is the first credible catalyst for yield movement.
+
+**CONDITIONAL upgrade to RTX entry today:**
+- If Bowman (8:15 AM ET) is NOT incrementally hawkish AND 10Y shows intraday relief toward 5.00% or below AND RTX establishes clean 30-min consolidation above prior close (~$198) → 1 whole share RTX, 10% trailing stop GTC, swing trade
+- If 10Y holds ≥5.10% through session: FULL HOLD through PCE Wed Sep 30
+
+**Energy re-activation watch:** If Brent holds above $100 for 2+ sessions (confirmed Mon + Tue) and energy stocks show positive price action vs. crude, XOM re-enters watchlist for post-PCE entry.
+
+Week of Sep 28: 0/5 trades. 29th consecutive session without a trade since inception.
