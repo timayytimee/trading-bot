@@ -1822,3 +1822,21 @@ Week of Sep 28: 0/5 trades used (30th consecutive session without a trade since 
 - **HOLD confirmed**: Gates (b) and (c) fail; both watchlist names showing wide condition-R spreads. No trades placed. No Telegram notification.
 - **Next catalyst**: Core PCE Wed Sep 30 (8:30 AM ET) — Fed's preferred inflation gauge; first credible yield relief catalyst. MU earnings Wed Sep 30 AC. NFP Fri Oct 2 binary event.
 - **XOM re-activation status**: Day 2 of Brent >$100 confirmed ✓. Re-activation price criterion fully met. Entry still blocked by 10Y yield and S&P gate. Watch PCE Sep 30 for yield relief to potentially open XOM and RTX simultaneously.
+
+### Midday Addendum (Sep 29 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **S&P 500**: ~7,680, −0.2% (Dow −0.7% / −347 pts; Nasdaq −0.9%); gate (d) ✗ FAILS
+- **10Y Treasury yield**: 5.24% (−1bp on day; still fails gate (c) by ~42bps)
+- **JOLTS (August, 10 AM ET)**: 7.079M (miss vs 7.228M est; below July 7.335M) — labor market cooling; dovish signal but market reaction muted; yields barely moved
+- **Consumer Confidence (Conference Board, 10 AM ET)**: 81.9 (miss; fell 6.7 pts from 88.6; lowest since April 2014) — consumers citing energy prices, Iran war, high yields; stagflationary narrative reinforced
+- **Brent crude**: ~$104–$105/bbl; Day 2 of XOM re-activation Brent >$100 check ✓ (confirmed Mon + Tue + today = 3 sessions; re-activation price criterion fully met; entry still blocked by 10Y)
+- **OpenAI DevDay 2026 (1 PM ET keynote)**: 20+ product launches; GPT-6 Cyber model confirmed; GPT-6.1 Astra withheld for safety — Nasdaq −0.9% heading into event; XLK lagging sector; no tech entry catalyst today
+- **Gate re-eval (midday Sep 29)**:
+  - (a) US-Iran not ceasefire-resolved: ✓ (ongoing; oil floor intact)
+  - (b) S&P flat-to-positive: ✗ (−0.2% to −0.9%)
+  - (c) 10Y yield < 4.82%: ✗ (5.24%; JOLTS miss barely moved yields)
+  - (d) Consolidation setup: N/A (no qualifying price action given gates b+c fail)
+- **No action taken** — all gates fail; no positions to cut or tighten; no Telegram notification.
+- **Thesis check**: No positions held; no thesis to invalidate.
+- **HOLD confirmed**: JOLTS miss and Consumer Confidence cratering are dovish/stagflationary but insufficient to unlock entry; 10Y gate blocks everything until PCE Sep 30.
+- **Next catalysts**: Core PCE + GDP Final 3rd (Wed Sep 30 8:30 AM ET) — yield relief pivot point; MU earnings Sep 30 AC; NFP Fri Oct 2 binary event.
