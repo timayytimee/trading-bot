@@ -1720,3 +1720,90 @@ Week of Sep 28: 0/5 trades. 29th consecutive session without a trade since incep
 - **XOM re-activation progress**: Day 1 of 2-session Brent >$100 check complete (✓). Need Brent to hold $100+ tomorrow (Tue Sep 29) for re-activation to proceed. Even if Day 2 confirms, entry still blocked by 10Y until PCE Wed Sep 30.
 - **Next catalysts**: PCE + GDP Final Wed Sep 30 (yield relief potential), MU earnings Tue AC (tech catalyst), NFP Fri Oct 2 (binary event).
 - No Telegram notification (no action taken).
+
+---
+
+## 2026-09-29 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Day P&L:** $0.00 | **Phase P&L:** $0.00 (+0.00% vs $772.02 baseline)
+- **Positions:** 0 | **Open Orders:** 0 | **Day trades used:** 0/3
+- **Week of Sep 28:** 0/5 trades used
+- balance_asof: 2026-09-28 | daytrade_count: 0
+
+### Market Context
+- **WTI:** ~$92.60/bbl (Sep 28 settlement after hitting $96.54 intraday); **Brent:** ~$105.31/bbl (+0.03%) — Day 2 of XOM re-activation Brent >$100 check (✓ Day 1 Mon, ✓ Day 2 Tue confirmed)
+- **S&P 500 futures:** ES −0.26%; Dow −0.24%; Nasdaq −0.44%; Russell −0.41% — bearish lean; prediction markets 40% chance of higher open
+- **VIX:** ~16.07–16.17 (+8.07%) — elevated and rising on geopolitical uncertainty + rate pressure
+- **10Y Treasury yield:** ~5.24% — eased fractionally (−0.01pp) from Sep 28 high; still fails gate (c) by ~42bps; near 2026 highs (highest in ~19 years per CNBC)
+- **Iran/Hormuz:** Trump dismissed Iran "sanction relief as hoax" premarket today — confirms no ceasefire; US-Iran conflict explicitly ongoing; gate (a) ✓ for RTX/defense
+- **OpenAI DevDay 2026 (TODAY, 10 AM PT / 1 PM ET):** Sam Altman keynote at Fort Mason, SF; rumors of new "O" always-on agent, $500 enterprise tier, AI hardware, 12+ product announcements; potential AI/semiconductor momentum catalyst for NVDA/AMD post-event
+- **MU (Micron) earnings:** Scheduled Sep 30 (tomorrow) after close, NOT today — prior log had wrong date; Q4 consensus ~$50.8B revenue, ~$31.5 EPS; Wall St. looking for another huge AI memory beat
+- **Earnings before open today:** Carnival (CCL, minor; already reported Sep 28); no major actionable catalysts pre-open
+- **Economic calendar today (Sep 29):**
+  - 10:00 AM ET: JOLTS Job Openings (August) — labor market signal
+  - 10:00 AM ET: Consumer Confidence (Conference Board)
+- **Key economic calendar this week:**
+  - Wed Sep 30: GDP Final 3rd release + Core PCE (8:30 AM ET) — Fed's preferred inflation gauge; YIELD RELIEF CATALYST
+  - Wed Sep 30 AC: MU earnings — AI memory bellwether
+  - Fri Oct 2: NFP September Jobs Report — major binary event
+- **Sector momentum (30-day):**
+  - **Leading:** XLE, XLI, XLB, XLP
+  - **Lagging:** XLK, XLC, XLY, XLF
+  - **Weakening:** XLV
+  - **Improving:** XLRE, XLU
+  - Only 25.2% of S&P 500 constituents trading above 50-day MA (10th percentile) — breadth extremely weak
+
+### Trade Ideas
+
+1. **RTX (Raytheon Technologies) — CONDITIONAL (blocked by yield)**
+   - Catalyst: Trump explicitly rejected Iran deal + dismissed "sanction relief as hoax" today → gate (a) confirmed strongest yet; US-Iran war continuing; defense spending narrative fully intact; $289B backlog; XLI leading sector
+   - Gate check (pre-market Sep 29):
+     - (a) US-Iran conflict not ceasefire-resolved: ✓ (Trump "sanction relief is a hoax" — confirmed no deal)
+     - (b) S&P flat-to-positive: ✗ (futures −0.26%; 40% higher-open probability — bearish lean)
+     - (c) 10Y yield < 4.82%: ✗ (~5.24% — fails by ~42bps; structural headwind worsening)
+     - (d) RTX 30-min consolidation above prior close: TBD at open
+   - Gates (b) and (c) block entry. **CONDITIONAL:** Only viable if JOLTS/Consumer Confidence at 10 AM ET are soft AND 10Y pulls meaningfully intraday toward 5.00%. Full HOLD otherwise through PCE Sep 30.
+   - Entry (if gates clear): ~$190–195 (1 whole share), 10% trailing stop GTC; stop ~$171–175; target ~$218–224 (+15%); R:R ~2:1
+
+2. **XOM Energy re-activation — CONDITIONAL (blocked by yield + S&P negative)**
+   - Brent $105.31 — Day 2 of 2-session re-activation check ✓ (Brent has now held >$100 Mon + Tue consecutively); Trump Iran rejection extends structural oil floor; TD Cowen raised XOM PT to $180 (Buy)
+   - Re-activation criteria progress:
+     - Brent >$100 for 2 sessions: ✓ (Day 2 confirmed today)
+     - Energy stocks showing positive price action vs. crude: UNKNOWN (need to check intraday — underperformance pattern may persist)
+     - 10Y yield relief: ✗ (5.24% — entry still blocked until PCE Sep 30)
+     - S&P flat-to-positive: ✗ (futures −0.26%)
+   - Do NOT enter today. Watch for post-PCE Sep 30 energy entry if core PCE soft + S&P recovers + 10Y pulls below 5.00%.
+   - Entry (if all gates clear post-PCE): ~$155–165 (1 share); 10% trailing stop GTC; target +15%; R:R ~1.5:1
+
+3. **NVDA/AMD (OpenAI DevDay catalyst) — WATCH only**
+   - OpenAI DevDay today (1 PM ET) with potential 12+ product announcements including new "O" agent and AI hardware; could catalyze semiconductor/AI stocks
+   - XLK is lagging sector — major structural headwind; NVDA and AMD are within XLK
+   - Futures: Nasdaq −0.44% pre-market; no positive momentum entering DevDay
+   - **No entry today** — wait for post-DevDay reaction; if tech shows 2+ sessions of XLK leadership after DevDay + MU earnings beat (Sep 30 AC), reassess tech entry for week of Oct 5
+   - Require XLK to shift from Lagging to Improving on RRG before any tech entry
+
+### Risk Factors
+- **10Y yield at 5.24%:** Structural headwind for all watchlist names; near 19-year high; gate (c) fails by 42bps; PCE Sep 30 is the only near-term relief catalyst
+- **S&P futures negative:** Gate (b) fails; market bearish lean today; geopolitical + rate pressure ongoing
+- **NFP Fri Oct 2:** Major binary event in 3 days; entering any position today = overnight NFP exposure
+- **OpenAI DevDay "sell the news" risk:** Even with 12+ product announcements, XLK lagging sector + Nasdaq futures negative = risk of "sell the news" on tech; don't front-run AI hype
+- **Broad market breadth extremely weak:** Only 25.2% of S&P 500 above 50-day MA (10th percentile) — thin momentum, concentrated in large-cap growth
+- **MU earnings Sep 30 AC:** Entering any position before MU result increases overnight risk; MU is the AI memory bellwether — a miss would hit semiconductor sentiment broadly
+- **RTX -11% past 30 days:** Downtrend requires confirmed reversal, not just a bounce; gate gates required
+- **PDT:** 0/3 day trades used; any entry must hold overnight (swing trade only)
+- **Small account:** $772 total; max $193/position; 1 whole share RTX (~$190–195) is at the limit
+
+### Decision
+**HOLD** — Default and correct. 10Y yield at 5.24% and S&P futures negative block all watchlist names (RTX, XOM, NVDA/AMD). No position meets the buy-side gate.
+
+**XOM energy re-activation**: Day 2 of Brent >$100 check confirmed ✓. Re-activation technically complete on the price criterion. However, 10Y yield (5.24%) and S&P (negative) still block entry. Thesis is alive and building — entry window opens on PCE Sep 30 if core PCE soft + yields pull toward 5.00% + S&P recovers.
+
+**RTX**: Gate (a) strongest yet (Trump explicitly called Iran deal "hoax"). Gate (c) remains binding. Watch for any intraday JOLTS/Confidence-driven yield relief.
+
+**Tech (NVDA/AMD)**: Assess post-DevDay sector reaction. No action before MU earnings (Sep 30 AC).
+
+**PCE Sep 30 is the key inflection point for the week.** If core PCE soft → 10Y yield pulls toward 5.00%–4.90% → re-evaluate XOM and RTX simultaneously. If PCE hot → HOLD through NFP Oct 2.
+
+Week of Sep 28: 0/5 trades used (30th consecutive session without a trade since inception).
