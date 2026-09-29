@@ -116,3 +116,13 @@ Trades today: none
 Open positions: none
 Week of Sep 28: 0/5 trades
 Tomorrow: morning scan on XLF/JPM/GS financials setup; 10Y yield needs <4.82% before entry valid
+
+---
+## 2026-09-29 EOD (fallback — api.telegram.org blocked by proxy)
+EOD 2026-09-29
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+Week of Sep 28: 0/5 trades
+Tomorrow: morning research scan XLF/JPM/GS; watch PCE data as yield catalyst; financials entry blocked until 10Y shows plateau from 5.16%+

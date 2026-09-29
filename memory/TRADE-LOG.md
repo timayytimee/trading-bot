@@ -243,3 +243,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 19th consecutive session with equity flat at $772.02 (0 trades since inception). Week of Sep 28 opens at 0/5 trades. Alpaca confirms equity $772.02, no positions, no open orders. The session opens Week 4 of live trading post the energy thesis invalidation. The designated sector pivot (financials: XLF, JPM, GS) requires 10Y yield stabilization and S&P recovery before entry is valid; last confirmed 10Y was ~5.166%+ (multi-decade high) — yield gate remains the primary blocker. The US-China 2-month trade truce and improving Hormuz traffic have broadly compressed geopolitical risk premiums, leaving the macro backdrop dominated by rate headwinds. No qualifying setup met today; cash preservation correct. Week of Sep 28: 0/5 trades. Tuesday plan: run morning research scan on XLF/JPM/GS setup, check 10Y yield movement over weekend and Monday session, and assess whether financials entry gates are closer to alignment.
+
+---
+
+### Sep 29 — EOD Snapshot (Day 20, Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 20th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02, no positions, no open orders (balance_asof 2026-09-28, unchanged intraday). Week of Sep 28: 0/5 trades. The macro backdrop continues to be dominated by rate headwinds — 10Y yield last confirmed at ~5.166%+ (multi-decade highs), well above the financials entry gate requiring stabilization and a clear plateau signal. Energy thesis remains invalidated (WTI below $97 since Sep 24). The financials/banks sector pivot (XLF, JPM, GS) is the designated next opportunity but requires: (a) 10Y yield showing a plateau or reversal, (b) S&P flat-to-positive, (c) no incremental Fed hawkish surprise before the next FOMC. Cash preservation is correct until yield signal clears. Week of Sep 28: 0/5 trades (cap: 5/5). Tomorrow plan: morning research scan on XLF/JPM/GS setups; check PCE data (due this week) as potential yield catalyst; assess financials entry gates at open.
