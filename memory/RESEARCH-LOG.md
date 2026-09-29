@@ -1807,3 +1807,18 @@ Week of Sep 28: 0/5 trades. 29th consecutive session without a trade since incep
 **PCE Sep 30 is the key inflection point for the week.** If core PCE soft → 10Y yield pulls toward 5.00%–4.90% → re-evaluate XOM and RTX simultaneously. If PCE hot → HOLD through NFP Oct 2.
 
 Week of Sep 28: 0/5 trades used (30th consecutive session without a trade since inception).
+
+### Market-Open Addendum (Sep 29 — 9:41 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | Buying Power $772.02 | balance_asof 2026-09-28 | daytrade_count: 0
+- **Market clock**: Open ✓ (close 4:00 PM ET)
+- **RTX quote (live)**: Bid $188.20 / Ask $193.41 — spread $5.21 (~2.7%); condition "R" (restricted); **SKIP — wide spread**
+- **XOM quote (live)**: Bid $157.31 / Ask $168.35 — spread $11.04 (~6.6%); condition "R"; **SKIP — very wide spread**
+- **Gate re-eval (live data)**:
+  - (a) US-Iran conflict not ceasefire-resolved: ✓ (Trump dismissed Iran deal as "hoax")
+  - (b) S&P flat-to-positive: ✗ (futures −0.26% pre-market)
+  - (c) 10Y yield < 4.82%: ✗ (~5.24% — fails by ~42bps)
+  - (d) RTX/XOM 30-min consolidation: N/A — wide spreads skip both names
+- **HOLD confirmed**: Gates (b) and (c) fail; both watchlist names showing wide condition-R spreads. No trades placed. No Telegram notification.
+- **Next catalyst**: Core PCE Wed Sep 30 (8:30 AM ET) — Fed's preferred inflation gauge; first credible yield relief catalyst. MU earnings Wed Sep 30 AC. NFP Fri Oct 2 binary event.
+- **XOM re-activation status**: Day 2 of Brent >$100 confirmed ✓. Re-activation price criterion fully met. Entry still blocked by 10Y yield and S&P gate. Watch PCE Sep 30 for yield relief to potentially open XOM and RTX simultaneously.
