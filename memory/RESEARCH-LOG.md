@@ -1937,3 +1937,22 @@ Week of Sep 28: 0/5 trades (31st consecutive session without a trade since incep
 - **XOM**: Gate (c) fails; gate (b-oil) fails; wide spread — SKIP on all counts
 - **HOLD confirmed**: No qualifying setup. No trades placed. No Telegram notification.
 - **Next catalysts**: NFP October 2 (8:30 AM ET Fri) — binary yield/hike event; MU Q4 earnings tonight AC (tech sector catalyst watch Thu open); Oct FOMC Oct 27–28
+
+### Midday Addendum (Sep 30 — midday scan, ~16:10 UTC / 12:10 PM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **S&P 500**: +0.29% midday (Dow +0.13%, Nasdaq +0.34%) — gate (d) ✓
+- **10Y Treasury yield**: ~5.23–5.27% (eased ~2bp from Sep 29; brief post-PCE dip then recovery) — gate (c) ✗ FAILS (~41–45bps above 4.82% threshold)
+- **Brent crude**: ~$102.56 at open (recovered from Sep 29 close ~$97.09 on Iran conflict continuation) — gate (b) ✓
+- **Iran/Strait**: Conflict ongoing; no ceasefire — gate (a) ✓
+- **PCE August 2026 final (8:30 AM ET)**: Headline PCE +0.3% MoM / +3.4% YoY (slightly above pre-market est of +3.3% YoY but broadly inline); no dovish surprise; higher-for-longer narrative intact
+- **ADP September**: +90K (vs ~68–72K est Aug — note: this is September payrolls); slightly stronger than expected; no labor market softness
+- **Gate re-eval (midday Sep 30)**:
+  - (a) Iran not resolved: ✓
+  - (b) Brent > $97: ✓ (~$102.56 — recovered; XOM oil gate passes)
+  - (c) 10Y yield < 4.82%: ✗ (~5.23–5.27%; binding block)
+  - (d) S&P flat-to-positive: ✓ (+0.29%)
+- **Steps 3–5**: N/A — no positions held; nothing to cut, tighten, or thesis-check
+- **HOLD confirmed**: Gate (c) 10Y yield remains the sole blocking constraint. No action taken.
+- **No Telegram notification** — no trades or position changes to report.
+- **Month-end summary**: September 2026 closes at 0/0 trades since inception (32nd consecutive session without a trade). Equity $772.02 (100% cash). Portfolio flat at phase-start baseline.
+- **Outlook**: NFP Oct 2 (8:30 AM ET Fri) is next binary event. Soft NFP (<100K) → potential 10Y pullback toward 5.00% → RTX/XOM entry gate narrowing for week of Oct 5. MU Q4 earnings tonight AC — watch Thu open for tech sector catalyst. Oct FOMC Oct 27–28 is the next structural yield inflection point.
