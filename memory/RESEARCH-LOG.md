@@ -1921,3 +1921,19 @@ Week of Sep 28: 0/5 trades used (30th consecutive session without a trade since 
 **NFP Oct 2 is the next major inflection point.** A weak NFP (<100K) would soften yield expectations → potential 10Y pullback toward 5.00% → RTX entry gate narrowing for week of Oct 5. Strong NFP → HOLD through Oct FOMC.
 
 Week of Sep 28: 0/5 trades (31st consecutive session without a trade since inception). Cash preservation correct through PCE. No urgent alerts — no positions held, no stops threatened.
+
+### Market-Open Addendum (Sep 30 — 9:41 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | Buying Power $772.02 | balance_asof 2026-09-29 | daytrade_count: 0
+- **RTX quote (live)**: Bid $184.29 / Ask $186.40 — spread $2.11 (~1.1%); condition "R" — acceptable spread
+- **XOM quote (live)**: Bid $157.31 / Ask $170.59 — spread $13.28 (~7.8%); condition "R" — **SKIP — very wide spread**
+- **Gate re-eval (live data)**:
+  - (a) Iran not resolved: ✓ (ongoing per pre-market research; ceasefire collapsed July 2026)
+  - (b) S&P flat-to-positive: Pre-market +0.01% — borderline; month-end rebalancing expected
+  - (b-oil) WTI > $97 (XOM): ✗ (~$89 as of Sep 29; below floor — energy thesis weakening)
+  - (c) 10Y yield < 4.82%: ✗ (~5.25% — fails by ~43bps; PCE inline removed yield catalyst)
+  - (d) 30-min consolidation setup: N/A — gate (c) blocking all entries before price action observed
+- **RTX**: Gate (c) binding block; spread acceptable but yield gate prevents entry
+- **XOM**: Gate (c) fails; gate (b-oil) fails; wide spread — SKIP on all counts
+- **HOLD confirmed**: No qualifying setup. No trades placed. No Telegram notification.
+- **Next catalysts**: NFP October 2 (8:30 AM ET Fri) — binary yield/hike event; MU Q4 earnings tonight AC (tech sector catalyst watch Thu open); Oct FOMC Oct 27–28
