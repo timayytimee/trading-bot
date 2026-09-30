@@ -1840,3 +1840,84 @@ Week of Sep 28: 0/5 trades used (30th consecutive session without a trade since 
 - **Thesis check**: No positions held; no thesis to invalidate.
 - **HOLD confirmed**: JOLTS miss and Consumer Confidence cratering are dovish/stagflationary but insufficient to unlock entry; 10Y gate blocks everything until PCE Sep 30.
 - **Next catalysts**: Core PCE + GDP Final 3rd (Wed Sep 30 8:30 AM ET) — yield relief pivot point; MU earnings Sep 30 AC; NFP Fri Oct 2 binary event.
+
+---
+
+## 2026-09-30 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Sep 28: 0/5 trades used (31st consecutive session without a trade since inception)
+
+### Market Context
+- **WTI**: ~$89.09/bbl (−3.79% Sep 29); **Brent**: $97.09/bbl (+0.97%) — critically near XOM gate floor of $97; WTI below it
+- **S&P 500 futures**: +0.01% (~7,747.50 pre-market); "yields ease heading into inflation report" per Yahoo/USNews; slightly positive tone
+- **VIX**: 16.30 (+1.43%); range 15.73–16.19 today; modestly elevated
+- **Core PCE August 2026 (8:30 AM ET — RELEASED)**: +0.3% MoM (inline); +3.3% YoY (inline with 3.3% forecast); held flat for second consecutive month — "sticky" per consensus; no dovish surprise; Fed hike narrative persists
+- **ADP September 2026 (8:15 AM ET — RELEASED)**: +72K private jobs (inline with ~68–72K estimate); no meaningful labor market softness
+- **10Y Treasury yield**: ~5.25% as of Sep 29 EOD; post-PCE inline print → no meaningful relief; yield "easing" pre-market was minor (<5bp); gate (c) remains blocked by ~40bps
+- **Iran/Strait of Hormuz**: Conflict ongoing (started Feb 2026; ceasefire collapsed July 2026); Iran attacking commercial shipping in Strait; structural oil floor intact. Gate (a) ✓
+- **Earnings today AC**: **MU (Micron) Q4 FY2026** — Q4 rev guide $50B (+/− $1B); consensus $50.86B (349% YoY growth); EPS consensus $31.45 (938% YoY growth); major overnight risk
+- **Economic calendar (next)**:
+  - **Fri Oct 2**: NFP September Jobs Report 8:30 AM ET — high-impact binary event
+- **Sector momentum (30-day)**:
+  - Leading: XLE (+38.9% YTD), XLI (+20% YTD), XLB, XLP
+  - Lagging: XLK, XLC, XLY, XLF (Financials fell 0.3% Sep 29)
+  - Weakening: XLV
+
+### Trade Ideas
+
+1. **RTX (Raytheon Technologies) — CONDITIONAL (gate c still blocked)**
+   - Catalyst: Iran war ongoing; ceasefire collapsed July 2026; structural US-Iran conflict + Hormuz control disputes = defense spending narrative fully intact; $289B backlog; XLI in leading sector
+   - RTX trading $186.52–$189.58 range Sep 30 (below $190–195 target entry zone)
+   - Gate check:
+     - (a) Iran not resolved: ✓ (conflict ongoing; ceasefire collapsed; no deal)
+     - (b) S&P flat-to-positive: ✓ (+0.01% pre-market; easing yields tone)
+     - (c) 10Y yield < 4.82%: ✗ (~5.25% — fails by ~43bps; PCE inline, no relief)
+     - (d) 30-min consolidation above prior close: TBD at open
+   - **Gate (c) binding block**. Entry not valid today.
+   - Entry (if gate clears): ~$190–195 (1 whole share), 10% trailing stop GTC; stop ~$171–175; target ~$218–224 (+15%); R:R ~2:1
+   - Next yield relief window: Oct FOMC (Oct 27–28, ~66% hike probability per CME FedWatch); any weak NFP Oct 2 surprise could soften yield expectations near-term
+
+2. **XOM (ExxonMobil) — WATCH only (oil floor weakening)**
+   - WTI at $89 — below the $97 gate (b) floor; Brent $97.09 barely above floor; oil decline accelerating (WTI −3.79% Sep 29 on easing Hormuz concerns and demand fears)
+   - 10Y yield gate (c) still fails (~5.25%)
+   - Re-activation price criterion (Brent >$100 for 2+ sessions) is now unwinding — Brent has fallen from $105 to $97 in 2 sessions
+   - **Watch: if WTI closes below $89 or Brent breaks $97, energy thesis requires full re-evaluation**
+   - Do not enter today; energy thesis weakening
+
+3. **MU post-earnings play (Thursday only, conditional)**
+   - MU Q4 earnings tonight (consensus 349% revenue growth, $50.86B rev, $31.45 EPS)
+   - If MU beats significantly and AI memory narrative strengthens → potential tech sector rotation Thursday
+   - XLK still lagging sector — MAJOR structural headwind; requires XLK to confirm sector shift before any tech entry
+   - Watch Thursday pre-market: if MU +5%+ on beat + XLK futures outperforming → assess 30-min consolidation in NVDA/AMD/MU
+   - **No entry today** — cannot front-run overnight binary event
+
+### Risk Factors
+- **Core PCE +3.3% inline**: No yield relief catalyst materialized; 10Y gate fails by ~43bps; higher-for-longer confirmed
+- **ADP 72K inline**: No labor market softness; NFP Oct 2 still a significant binary risk
+- **Oil weakening**: Brent $97.09 near floor; WTI $89 below floor; if oil continues declining, energy thesis invalidated permanently
+- **MU earnings overnight risk**: Beat + guidance raise = tech sector catalyst Thursday; miss = broad semiconductor drag
+- **NFP Oct 2**: Two days away; entering any position today = overnight NFP exposure
+- **10Y at ~5.25%**: Gate (c) fails across all watchlist names (RTX, XOM, NVDA); structural headwind persists
+- **Month-end positioning**: Final trading day of September; institutional rebalancing can cause intraday volatility; do not read too much into price action
+- **PDT**: 0/3 day trades used; any entry must hold overnight (swing trade only)
+- **Small account**: $772 total; $193 max/position; 1 whole share RTX (~$187–190) is at or below limit
+
+### Decision
+**HOLD** — PCE +3.3% inline (not soft) removes the yield relief catalyst that was the sole entry gate. 10Y yield at ~5.25% still fails gate (c) by ~43bps for both RTX and XOM. ADP 72K inline — no labor market softness. Oil weakening with Brent near $97 floor and WTI at $89.
+
+**RTX**: Gates (a) ✓ and (b) ✓ today. Gate (c) blocking. Watch NFP Oct 2 for any yield pullback; if soft NFP → dovish repricing → 10Y toward 5.00% range → re-evaluate RTX entry week of Oct 5.
+
+**XOM**: Oil floor thesis weakening sharply (WTI below $97, Brent barely above). Energy sector re-activation criteria unwinding. Monitor for any stabilization above $100 Brent; if Brent breaks below $97, energy thesis needs full sector reset.
+
+**MU/Tech**: Watch tonight's earnings; if beat + guidance raise + XLK confirms sector shift Thursday → assess NVDA/AMD/MU 30-min consolidation Thu open. No entry today.
+
+**NFP Oct 2 is the next major inflection point.** A weak NFP (<100K) would soften yield expectations → potential 10Y pullback toward 5.00% → RTX entry gate narrowing for week of Oct 5. Strong NFP → HOLD through Oct FOMC.
+
+Week of Sep 28: 0/5 trades (31st consecutive session without a trade since inception). Cash preservation correct through PCE. No urgent alerts — no positions held, no stops threatened.
