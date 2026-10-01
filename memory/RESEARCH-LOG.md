@@ -2014,3 +2014,23 @@ HOLD — NFP tomorrow (Oct 2, 8:30 AM ET) is the dominant binary event. Do NOT e
 - If NFP hot (>200K): HOLD through FOMC Oct 27–28
 - ORCL/MU tech ideas have merit but require NFP to clear before entry; do not chase pre-NFP gap
 Week of Sep 28: 0/5 trades. Week of Oct 5 opens fresh 0/5.
+
+### Midday Addendum (Oct 01 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **S&P 500**: +0.58% (~7,696) — gate (d) ✓; tech leading
+- **10Y Treasury yield**: 5.28–5.34% (briefly 5.34% — **highest since 2002; worst bond quarter this century**) — gate (c) ✗ FAILS (~46–52bps above 4.82% threshold)
+- **Brent crude**: ~$97–$104/bbl volatile (Chinese refiners halted Oct fuel exports, spiked prices intraday); WTI ~$89–$92/bbl — oil gate borderline; WTI still below $97 floor
+- **Iran/Strait**: Ongoing conflict; gate (a) ✓
+- **Initial Jobless Claims (8:30 AM ET)**: 197K (beat 200K est; lowest since mid-July) — labor market tight; no yield relief catalyst
+- **ISM Manufacturing PMI (10 AM ET)**: 54.5 (slight miss vs. 55 est; 9th consecutive expansion month). ⚠️ **Prices Paid: 77.9** (surged from 71.1) — steel/aluminum tariffs + oil; highly inflationary signal; reinforces higher-for-longer rate narrative
+- **MU (Micron)**: ~$1,069, +0.37% — barely moved despite Q4 beat (EPS $33.42 vs $31.61 est; rev $54.23B vs $51.07B est); stock flat on profit-taking after ~500% annual gain; AI memory demand confirmed but no gap-and-hold setup
+- **ORCL (Oracle)**: ~$139, +0.99% — muted follow-through on Tencent AI deal; no 30-min consolidation breakout catalyst
+- **Gate re-eval (midday Oct 1)**:
+  - (a) Iran not resolved: ✓
+  - (b) Brent > $97: borderline (volatile $97–$104); WTI below $97 floor ✗ for XOM
+  - (c) 10Y yield < 4.82%: ✗ (5.28–5.34% — 24-year high; binding block on all names)
+  - (d) S&P flat-to-positive: ✓ (+0.58%)
+- **Steps 3–5**: N/A — no positions held; nothing to cut, tighten, or thesis-check
+- **HOLD confirmed**: Gate (c) remains the sole binding constraint. ISM Prices Paid surge to 77.9 is a new inflationary data point that further entrenches higher-for-longer. No action taken.
+- **No Telegram notification** — no trades or position changes to report.
+- **Outlook**: NFP Oct 2 (8:30 AM ET Fri) remains tomorrow's dominant binary event. With Jobless Claims tight (197K) and ISM Prices Paid spiking, a hot NFP is now more likely — prepare for HOLD through FOMC Oct 27–28 if NFP >200K. Soft NFP (<100K) still the gate for re-evaluating JPM/RTX entry week of Oct 5, but probability has decreased given today's labor/inflation data. MU/ORCL tech plays still require NFP clearance. Week of Sep 28: 0/5 trades (33rd consecutive session without a trade since inception).
