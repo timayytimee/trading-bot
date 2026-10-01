@@ -265,3 +265,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 21st consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-09-29), no positions, no open orders. Week of Sep 28: 0/5 trades. Today marks end-of-Q3 (Sep 30), which often brings quarter-end rebalancing flows and window-dressing by institutional players — an additional reason for elevated volatility and false signals. PCE data (August) was due this week as a potential yield catalyst for the financials pivot thesis; 10Y yield last confirmed at ~5.166%+ (multi-decade highs) remains the primary blocker for any entry. Energy thesis invalidated since Sep 24 (WTI below $97, Hormuz traffic recovering, US-Iran diplomatic progress). The designated sector pivot to financials (XLF/JPM/GS) still requires (a) 10Y yield plateau or reversal signal, (b) S&P flat-to-positive, (c) no hawkish Fed surprise before next FOMC. Cash preservation correct — no qualifying setup materialized today. Week of Sep 28 final: 0/5 trades. Portfolio has been in full cash for all 21 sessions since inception (Aug 29). Week of Oct 5 opens fresh (0/5 trades); Q4 begins Thursday Oct 1 — seasonally the strongest quarter; watch for October yield relief as potential entry catalyst for financials.
+
+---
+
+### Oct 01 — EOD Snapshot (Day 22, Thursday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 22nd consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-09-30), no positions, no open orders. Today is the first trading day of Q4 2026 — historically the strongest quarter seasonally. Week of Sep 28: 0/5 trades (final). Week of Oct 6 begins Monday with a fresh 0/5 trade cap. The macro environment heading into Q4: 10Y yield last confirmed at ~5.166%+ (multi-decade highs, near 2007 levels), Fed in hawkish posture post-Sep 16 dot plot, energy thesis invalidated since Sep 24 (WTI below $97). The designated sector pivot to financials (XLF, JPM, GS) remains the primary opportunity but requires (a) 10Y yield plateau or clear reversal signal, (b) S&P flat-to-positive, (c) no new hawkish Fed surprise. Q4 seasonality and any October yield-relief trade could be the catalyst that finally clears the rate gate. Next key watch: ISM Manufacturing and any Fed speakers in early October for yield direction; FOMC is Nov 4–5 (next decision). Cash preservation correct for Day 22. Portfolio has never traded since inception Aug 29.
