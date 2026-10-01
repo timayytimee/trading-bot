@@ -1956,3 +1956,61 @@ Week of Sep 28: 0/5 trades (31st consecutive session without a trade since incep
 - **No Telegram notification** — no trades or position changes to report.
 - **Month-end summary**: September 2026 closes at 0/0 trades since inception (32nd consecutive session without a trade). Equity $772.02 (100% cash). Portfolio flat at phase-start baseline.
 - **Outlook**: NFP Oct 2 (8:30 AM ET Fri) is next binary event. Soft NFP (<100K) → potential 10Y pullback toward 5.00% → RTX/XOM entry gate narrowing for week of Oct 5. MU Q4 earnings tonight AC — watch Thu open for tech sector catalyst. Oct FOMC Oct 27–28 is the next structural yield inflection point.
+
+---
+
+## 2026-10-01 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+- balance_asof: 2026-09-30 (22nd day of operation; 0 trades since inception)
+
+### Market Context
+- **WTI**: ~$89.6/bbl (−0.9% today) — below $97 floor; energy thesis remains invalidated
+- **Brent**: ~$97.3/bbl (−0.7%) — fell on US-Iran peace talks + recovering Gulf exports; Brent rose ~14% in September (strongest monthly gain since July), but now reversing
+- **S&P 500 futures**: +0.18–0.48% premarket; Q4 opens constructively; S&P gained ~0.58% on Oct 1 session (7,696 level)
+- **VIX**: ~16.34–16.59 (slightly elevated; modest uptick as yields climb)
+- **10Y yield**: ~5.20–5.27% (multi-decade highs; gate c ✗ — still >4.82%)
+- **PCE August (released late Sep)**: Core PCE +0.2% MoM (smaller than expected) — reduces Oct 27–28 FOMC hike probability; modestly bullish signal
+- **Today's catalysts (Oct 1)**:
+  - **Initial Jobless Claims (8:30 AM ET)** — labor market read ahead of NFP
+  - **ISM Manufacturing PMI (10 AM ET)** — Q4 opening manufacturing read
+  - **S&P Global US Manufacturing PMI** — additional manufacturing gauge
+  - **Nike, McCormick, Acuity Brands** earnings today
+  - **Micron (MU)**: Reported solid Q4 AC last night; AI memory demand positive but warned of narrowing profit margins — mixed tech signal
+  - **Oracle (ORCL)**: +1.6% pre-market on Tencent $7B, 5-year AI chip lease deal (100K chips across SE Asia data centers) — AI infrastructure demand theme re-igniting
+- **Tomorrow Oct 2**: **NFP September jobs report (8:30 AM ET)** — dominant binary event; HIGH IMPACT
+- **Next FOMC**: Oct 27–28 (Fed decision day)
+- **Sector momentum**:
+  - Leading YTD: Energy (+38.9%) — thesis invalidated; WTI below $97 gate
+  - Lagging YTD: Financials/XLF (−8.11%); Consumer Discretionary (−8.7%)
+  - XLF: Down ~7% from September high; in "Lagging" quadrant
+  - Q4 seasonal tailwind for XLF: avg +5% Oct–Dec historically, up ~70% of the time
+  - Tech (XLK): Micron + Oracle providing pockets of strength on AI demand narrative
+  - No sector clearly in momentum "leading" quadrant after energy thesis died
+
+### Trade Ideas
+1. **JPM (JP Morgan Chase) — post-NFP setup** — Q4 seasonal tailwind for XLF; JPM kicks off bank earnings Oct 13 (catalyst); oversold −7% from Sep high; JPM dividend ex-date Oct 6 ($1.65). Entry: ONLY after NFP Oct 2 benign outcome (in-line or soft), on 30-min pullback; stop: −8% from entry; target: +16%; R:R 2:1. Catalyst: Q4 seasonality + bank earnings Oct 13 + PCE soft print reducing Oct hike odds.
+2. **ORCL (Oracle) — AI chip demand play** — Tencent $7B deal confirms AI infrastructure spending cycle is intact; +1.6% pre-market; tech data center narrative. Entry: 30-min consolidation breakout from open today; stop: −8%; target: +16%; R:R 2:1. Catalyst: AI chip demand + Tencent partnership confirmation.
+3. **MU (Micron) — earnings gap hold** — Solid Q4 beat on AI memory demand AC Sep 30; BUT margin warning could limit upside. Entry: 30-min consolidation if gap holds with volume; stop: −7%; target: +14%; R:R 2:1. REJECT if gap >+8% at open. Catalyst: AI data center memory demand.
+
+### Risk Factors
+- **NFP Oct 2 binary event** — hot jobs = more Fed hike fuel + yield spike; cold jobs = recession fear; either tail is risky for pre-NFP longs
+- **10Y yield at 5.2%+** — primary systemic blocker; bank NIM compressed by flat/inverted curve at high yields
+- **XLF technically weak** — −8.11% YTD, −7% from Sep high; lagging quadrant; no technical momentum yet
+- **Micron margin warning** — may cap tech rally; AI chip optimism partially offset
+- **US-Iran talks / Gulf supply recovery** — oil declining on de-escalation; energy sector offered no help; broader risk sentiment uncertain
+- **Oct FOMC Oct 27–28** — macro uncertainty caps upside until Fed provides clearer guidance
+- **PDT rule** — 0 of 3 day trades used; swing trades preferred; any entry today must be intended as overnight hold
+
+### Decision
+HOLD — NFP tomorrow (Oct 2, 8:30 AM ET) is the dominant binary event. Do NOT enter any position ahead of the jobs report. PCE soft print is the first genuinely bullish macro signal since inception (reduces Oct FOMC hike probability), but 10Y at 5.2%+ remains the primary blocker. Post-NFP assessment on Oct 2:
+- If NFP benign (≤150K, inline): 10Y may pull back → re-evaluate JPM/XLF entry for week of Oct 5
+- If NFP hot (>200K): HOLD through FOMC Oct 27–28
+- ORCL/MU tech ideas have merit but require NFP to clear before entry; do not chase pre-NFP gap
+Week of Sep 28: 0/5 trades. Week of Oct 5 opens fresh 0/5.
