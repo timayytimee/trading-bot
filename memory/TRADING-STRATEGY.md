@@ -65,6 +65,38 @@ Beat the S&P 500. Stocks only — no options, ever.
 {"symbol":"XOM","qty":"10","side":"sell","type":"stop","stop_price":"140.00","time_in_force":"gtc"}
 ```
 
+## Current Sector Status (updated 2026-10-02)
+Proven over 5+ weeks of daily market analysis:
+
+**ACTIVE — Primary:**
+- Financials (XLF/JPM): Q4 seasonal tailwind (+5% avg Oct–Dec, 70% win rate); JPM earnings Oct 13;
+  oversold −7%+ from Sep high; yield plateau/easing = NIM expansion thesis.
+  Yield gate: 10Y showing plateau or downtrend from 5.2% (relaxed from 4.82% — see below).
+
+**ACTIVE — Secondary:**
+- Defense (RTX/LMT): Iran war ongoing; Hormuz commercial traffic recovering but US-Iran conflict
+  unresolved; US military escort ops active; $289B RTX backlog; earnings Oct 21.
+  Rate-independent thesis: defense spending driven by geopolitics, not rate direction.
+
+**DEACTIVATED — Do Not Trade:**
+- Energy (XOM/CVX/MPC): Permanently off. WTI below $97 since Sep 24; Hormuz tanker volumes
+  near pre-war levels (Oct 1); Saudi East-West pipeline restarted. Re-activation requires
+  Brent sustainably above $100 for 3+ sessions AND new structural supply event AND 10Y easing.
+
+## Yield Gate Adjustment (updated 2026-10-02)
+5 weeks of evidence: 10Y has not traded below 4.82% since account inception. The original
+4.82% gate blocks all entries in the current rate regime (10Y 5.0–5.34%). Effective immediately:
+
+- **JPM/Financials entry gate**: 10Y yield ≤ 5.10% (relaxed from 4.82%)
+  AND S&P flat-to-positive AND JPM 30-min consolidation above prior close
+- **RTX/Defense entry gate**: 10Y yield ≤ 5.20% (less rate-sensitive sector)
+  AND S&P flat-to-positive AND RTX 30-min consolidation above prior close
+- Original 4.82% gate: archived; may return if rate regime shifts
+
+## Entry Checklist Addendum (added 2026-10-02)
+- Verify bid-ask spread at open: skip any name with spread > 0.5% or condition "R" wide spread
+- Wide condition-R spreads (XOM 6–11%, RTX 2–7% intraday) have blocked every otherwise-qualifying entry
+
 ## Alpaca Notes
 - trail_percent and qty are STRINGS in JSON ("10", not 10)
 - Quote endpoint: data.alpaca.markets (not api.alpaca.markets)
