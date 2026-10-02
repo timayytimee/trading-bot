@@ -2107,3 +2107,19 @@ Week of Sep 28: 0/5 trades. Week of Oct 5 opens fresh 0/5.
 
 Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since inception). Week of Oct 5 opens 0/5. No urgent alerts — no positions held, no stops threatened.
 
+### Market-Open Addendum (Oct 02 — post-NFP)
+- **NFP September 2026 (released 8:30 AM ET)**: +29K (vs. 84–90K est; prior Aug: +162K) — massive miss; largest undershoot since early 2024; "bad news is good news" risk-on
+- **Unemployment rate**: 4.2% (vs. 4.1% est) — rising as forecast
+- **S&P 500**: +0.9% post-open; Nasdaq +1.2%; risk-on across the board
+- **10Y Treasury yield**: ~5.205% (−3–4bps from prior 5.24%; bond rally on NFP miss)
+- **Market reaction**: Classic "bad news = good news" — soft jobs → reduced Oct FOMC hike odds → stocks rally, yields ease modestly
+- **Gate re-eval (JPM, RTX)**:
+  - (a) NFP ≤150K: ✓ (+29K — very soft)
+  - (b) S&P flat-to-positive: ✓ (+0.9%)
+  - (c) 10Y yield < 4.82%: ✗ — 5.205% (still 38bps above gate; consistent with pre-market forecast "even a soft print cannot move yields 40bps in one day")
+  - (d) No hawkish Fed surprise: ✓
+- **Portfolio**: $772.02 cash (100%), 0 positions, 0 orders; Alpaca equity confirmed live.
+- **HOLD confirmed** — Gate (c) binding today; no trades executed.
+- **No Telegram notification** — no trades placed.
+- **Outlook for week of Oct 5**: NFP +29K soft print shifts trajectory favorably. 10Y at 5.205% now needs to drift toward 5.0–5.1% during the week for JPM/RTX entry gates to approach alignment. Pre-market Oct 5 assessment will re-evaluate 10Y trajectory, JPM/RTX technical setups, and any Fed commentary over the weekend. If 10Y continues easing below 5.0% by end of next week, 4.82% gate entry could be realistically in view for the week of Oct 12 (JPM earnings Oct 13 is the primary catalyst). This is the first genuine sign of rate-environment improvement since inception. Week of Sep 28 final: 0/5 trades. 35th consecutive session without a trade.
+
