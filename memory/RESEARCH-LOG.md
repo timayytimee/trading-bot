@@ -1957,6 +1957,8 @@ Week of Sep 28: 0/5 trades (31st consecutive session without a trade since incep
 - **Month-end summary**: September 2026 closes at 0/0 trades since inception (32nd consecutive session without a trade). Equity $772.02 (100% cash). Portfolio flat at phase-start baseline.
 - **Outlook**: NFP Oct 2 (8:30 AM ET Fri) is next binary event. Soft NFP (<100K) → potential 10Y pullback toward 5.00% → RTX/XOM entry gate narrowing for week of Oct 5. MU Q4 earnings tonight AC — watch Thu open for tech sector catalyst. Oct FOMC Oct 27–28 is the next structural yield inflection point.
 
+
+
 ---
 
 ## 2026-10-01 — Pre-market Research
@@ -2034,3 +2036,74 @@ Week of Sep 28: 0/5 trades. Week of Oct 5 opens fresh 0/5.
 - **HOLD confirmed**: Gate (c) remains the sole binding constraint. ISM Prices Paid surge to 77.9 is a new inflationary data point that further entrenches higher-for-longer. No action taken.
 - **No Telegram notification** — no trades or position changes to report.
 - **Outlook**: NFP Oct 2 (8:30 AM ET Fri) remains tomorrow's dominant binary event. With Jobless Claims tight (197K) and ISM Prices Paid spiking, a hot NFP is now more likely — prepare for HOLD through FOMC Oct 27–28 if NFP >200K. Soft NFP (<100K) still the gate for re-evaluating JPM/RTX entry week of Oct 5, but probability has decreased given today's labor/inflation data. MU/ORCL tech plays still require NFP clearance. Week of Sep 28: 0/5 trades (33rd consecutive session without a trade since inception).
+
+---
+
+## 2026-10-02 — Pre-market Research (NFP Friday)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772)
+- Open positions: none | Open orders: none
+- balance_asof: 2026-10-01 (34th consecutive session, 0 trades since inception)
+- Week of Sep 28: 0/5 trades (final); Week of Oct 5 opens fresh Monday
+
+### Market Context
+- **WTI**: ~$92.63/bbl (−0.26%) — below $97 floor; energy thesis invalidated
+- **Brent**: ~$102.15/bbl (−0.3%) — declining from recent highs; ⚠️ Hormuz supply recovering near pre-war levels (Foreign Policy Oct 1: "Oil Is Leaving the Strait of Hormuz Again") — structural oil floor thesis eroding further
+- **S&P 500 futures**: +0.5% (S&P +0.5%, Dow +0.5%, Nasdaq +0.8%) — positive pre-NFP positioning; S&P session close Oct 1: 7,696 (+0.34%)
+- **VIX**: ~15.97–16.39 (slight easing from 16.59 peak; still modestly elevated; term structure in contango; front-month VIX futures 18.00)
+- **10Y yield**: ~5.20–5.24% (eased ~4bps from Oct 1 peak of 5.34%; briefly hit 24-year high; still 38–42bps above 4.82% gate)
+- **NFP September 2026 (8:30 AM ET TODAY)** — dominant binary event:
+  - Forecast: ~84–100K jobs (Bloomberg median ~85K; MUFG 90K)
+  - ADP September: +90K (slightly above estimate)
+  - Unemployment: 4.2% est (vs 4.1% prior)
+  - Avg hourly earnings: +0.3% MoM est
+  - Prior (August): +162K (massive beat that triggered HOLD Sep 4)
+  - **Actual result NOT YET RELEASED at time of pre-market research**
+- **Earnings before open**: No major reports (Nike reported after close Oct 1; Accenture reported Oct 1 beat +15.8%)
+- **Economic calendar**: NFP Sep jobs (8:30 AM ET) only high-impact event today; next: Oct FOMC Oct 27–28
+- **Key catalysts**:
+  - **NFP** — sole event driving risk on/off today
+  - **Nvidia buyback**: Announced largest share buyback in company history — AI infrastructure conviction signal
+  - **Oracle**: +0.99% Oct 1 on Tencent AI chip deal ($7B, 100K chips) — AI demand narrative intact
+  - **Iran/Hormuz**: Volumes near pre-war levels (tanker convoys resuming); refined products (gas/diesel) still disrupted; US blockade on Iranian ports limits Iranian exports; conflict ongoing but supply picture improving materially
+  - **Q3 earnings season**: Starts week of Oct 5; hyperscalers (AMZN/GOOGL/MSFT) in focus late Oct
+- **Sector momentum (updated Oct 2)**:
+  - Leading YTD: Energy (XLE) +38.9% — but thesis invalidated (WTI <$97)
+  - Technology (XLK) +35.1% YTD — recovering; NVDA/ORCL AI theme; XLK in lagging rotational quadrant but improving
+  - Financials (XLF) −8.11% YTD — Q4 seasonal tailwind (+5% avg Oct–Dec); JPM earnings Oct 13
+  - Leading quadrant: XLP, XLI, XLB; Lagging quadrant: XLK, XLC, XLY, XLF
+
+### Trade Ideas
+1. **JPM (JP Morgan Chase) — post-NFP week-of-Oct-5 setup** — Q4 XLF seasonal tailwind (+5% avg, 70% win rate Oct–Dec); JPM kicks off bank earnings Oct 13 (catalyst); oversold −7%+ from Sep high; dividend ex-date Oct 6 ($1.65/share). Gate: (a) NFP today benign ≤150K, (b) S&P flat-to-positive, (c) 10Y yield shows plateau or pullback, (d) no new hawkish Fed surprise. Entry ONLY after NFP clears and 10Y shows evidence of stabilization; look for 30-min pullback setup week of Oct 5. Stop: −8% from entry; target: +16%; R:R 2:1. Size: ~$193 max (1 share). Catalyst: Q4 seasonality + bank earnings catalyst Oct 13.
+
+2. **RTX (Raytheon Technologies) — defense, week of Oct 5** — Iran war ongoing despite Hormuz supply partial recovery; US military escort operations, active Strait deployments, defense budget expansion narrative; XLI leading sector; Q3 earnings expected Oct 21. Gate: same as JPM + RTX last traded ~$184–186; 1 whole share fits under $193 limit. Stop: −8%; target: +16%; R:R 2:1. Catalyst: Iran conflict escalation + defense spending + earnings catalyst Oct 21.
+
+3. **NVDA (Nvidia) — AI tech play, longer horizon** — Largest buyback ever announced + Tencent/Oracle AI demand confirming; XLK +35.1% YTD and improving; Q3 earnings not until Nov. Requires: XLK rotation to leading quadrant + 10Y yield pullback + NFP clearance. High price (~$1,000+), fractional entry if needed. Hold off until sector rotation visible and 10Y shows sustained retreat from 5.2%.
+
+### Risk Factors
+- **NFP binary event 8:30 AM ET** — hot print (>150K) = Fed hike Oct 27–28 repriced → yields spike → HOLD through FOMC; soft print (<84K) = recession fear tail risk
+- **10Y at ~5.24%** — 38–42bps above 4.82% JPM/RTX entry gate; even a soft NFP unlikely to pull yield down 40bps in one session; gate (c) almost certainly fails today regardless of NFP
+- **Hormuz supply recovering** — if oil volumes continue rising to full pre-war levels, Brent could continue sliding; energy sector dead; broader commodity deflation could follow, reducing sector rotation interest in XLE
+- **Jobless Claims 197K + ISM Prices Paid 77.9** (Oct 1) — tight labor market + inflationary inputs reduce probability of soft NFP; consensus shifted toward in-line or mildly hot
+- **XLF technically weak** — −8.11% YTD, lagging quadrant; no visible technical breakout yet; Q4 seasonal thesis requires breakout confirmation
+- **Oct FOMC Oct 27–28** — rate decision overhead caps new long risk for 3.5 weeks; market may not sustain new longs until Fed provides clearer guidance
+- **PDT rule** — 0/3 day trades used; any entry must hold overnight (swing trades only)
+- **Small account** — $772 total; $193 max/position; 1 whole share limit on most names
+
+### Decision
+**HOLD** — NFP at 8:30 AM ET is the dominant binary event. 10Y yield at ~5.24% fails gate (c) by ~40bps regardless of NFP outcome — even a soft print cannot move yields 40bps in one day. HOLD today is correct.
+
+**Post-NFP framework for week of Oct 5:**
+- If NFP soft (≤100K): Interpret as labor market cooling → dovish repricing → 10Y may drift toward 5.0–5.1%; re-evaluate JPM/RTX gates Monday; still not at 4.82% but trajectory improving
+- If NFP in-line (100–150K): Yields likely flat; hold through FOMC Oct 27–28; check JPM/RTX daily but no entry until yield plateau signals
+- If NFP hot (>150K): Full HOLD through Oct FOMC; Fed hike Oct 27–28 priced in; yield spike to 5.4%+ possible; no entries until post-FOMC
+
+**Priority watchlist for week of Oct 5:** JPM (earnings Oct 13 catalyst), RTX (earnings Oct 21 catalyst), NVDA (AI demand confirmed). All require 10Y easing before entry viable.
+
+Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since inception). Week of Oct 5 opens 0/5. No urgent alerts — no positions held, no stops threatened.
+
