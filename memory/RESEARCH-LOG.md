@@ -2123,3 +2123,18 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **No Telegram notification** — no trades placed.
 - **Outlook for week of Oct 5**: NFP +29K soft print shifts trajectory favorably. 10Y at 5.205% now needs to drift toward 5.0–5.1% during the week for JPM/RTX entry gates to approach alignment. Pre-market Oct 5 assessment will re-evaluate 10Y trajectory, JPM/RTX technical setups, and any Fed commentary over the weekend. If 10Y continues easing below 5.0% by end of next week, 4.82% gate entry could be realistically in view for the week of Oct 12 (JPM earnings Oct 13 is the primary catalyst). This is the first genuine sign of rate-environment improvement since inception. Week of Sep 28 final: 0/5 trades. 35th consecutive session without a trade.
 
+### Midday Addendum (Oct 02 — midday scan, ~12:10 PM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **S&P 500**: ~+0.34% (7,692 midday) — modest positive; initial +0.9% post-NFP pop faded
+- **10Y Treasury yield**: ~5.20–5.34% range intraday (intraday high 5.342% reprises Oct 1 peak; still 38–52bps above 4.82% entry gate; no sustained yield relief despite soft NFP)
+- **JPM**: ~$331–336 range; watchlist only; gate (c) binding — no entry
+- **RTX**: Watchlist only; gate (c) binding — no entry
+- **Gate re-eval (midday)**:
+  - (a) NFP ≤150K: ✓ (+29K)
+  - (b) S&P flat-to-positive: ✓ (+0.34%)
+  - (c) 10Y yield < 4.82%: ✗ (~5.2%+ — binding; 10Y intraday range 5.20–5.34%)
+  - (d) No hawkish Fed surprise: ✓
+- **HOLD confirmed** — gate (c) is the sole binding constraint; no trades executed midday
+- **No Telegram notification** — no trades or position changes; no action taken
+- **Week of Oct 5 priority**: JPM pre-earnings setup (earnings Oct 13); RTX (earnings Oct 21); watch 10Y for any drift below 5.0% as the first signal that the 4.82% gate is becoming reachable
