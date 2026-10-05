@@ -2201,3 +2201,21 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **Monitor ISM Services at 10 AM ET**: soft print → yields ease → RTX gate could clear intraday. If 10Y drops to ≤5.20% AND RTX shows 30-min consolidation above prior close AND S&P holds flat-to-positive → execute 1 share RTX, 10% trailing stop GTC.
 - **JPM**: Dividend ex-date tomorrow (Oct 6) creates a minor tactical consideration but gate (c) fails by too wide a margin. Watch post-FOMC minutes Wed.
 - Default: HOLD until gate (c) clears. Patience > activity. Week of Oct 5: 0/5 trades.
+
+### Market-Open Addendum (Oct 05 — 9:38–9:41 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | Buying Power $772.02 | balance_asof 2026-10-02 | daytrade_count: 0
+- **Market clock**: Open ✓ (9:38 AM ET confirmed via trade timestamps)
+- **RTX (live)**: Last trade $182.89 (9:38 AM ET); bid $184.26 / ask $185.30 — spread $1.04 (~0.56%); borderline wide; condition "R"
+- **JPM (live)**: Last trade $331.04 (9:41 AM ET) — exceeds $193/position limit; fractional would block trailing stop; SKIP
+- **10Y Treasury yield**: ~5.26–5.273% (eased ~3bps from Friday; still fails RTX gate by ~6bps; JPM gate by ~16bps)
+- **S&P 500 futures**: +0.15% (~7,789) — gate (b) ✓
+- **ISM Services PMI (10:00 AM ET)**: Not yet released — key intraday catalyst
+- **Gate re-eval (live data)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing per research; ceasefire collapsed July 2026)
+  - (b) S&P flat-to-positive: ✓ (+0.15% futures)
+  - (c) 10Y yield ≤ 5.20% (RTX): ✗ (~5.26% — fails by ~6bps)
+  - (d) RTX 30-min consolidation: N/A — gate (c) blocking before 30-min window closes
+- **HOLD confirmed**: Gate (c) is the sole binding constraint for RTX. JPM fails by ~16bps and exceeds position size limit. No trades placed. No Telegram notification.
+- **ISM Services watch (10:00 AM ET)**: Soft print (<55.1) → yields may ease → RTX gate could clear intraday. If 10Y drops to ≤5.20% AND RTX consolidates above prior close AND spread normalizes → execute 1 share RTX, 10% trailing stop GTC. Routine will not re-run; ISM result will be captured in midday scan.
+- **Week of Oct 5: 0/5 trades used** (36th consecutive session without a trade since inception).
