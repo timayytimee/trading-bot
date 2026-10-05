@@ -2219,3 +2219,20 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **HOLD confirmed**: Gate (c) is the sole binding constraint for RTX. JPM fails by ~16bps and exceeds position size limit. No trades placed. No Telegram notification.
 - **ISM Services watch (10:00 AM ET)**: Soft print (<55.1) → yields may ease → RTX gate could clear intraday. If 10Y drops to ≤5.20% AND RTX consolidates above prior close AND spread normalizes → execute 1 share RTX, 10% trailing stop GTC. Routine will not re-run; ISM result will be captured in midday scan.
 - **Week of Oct 5: 0/5 trades used** (36th consecutive session without a trade since inception).
+
+### Midday Addendum (Oct 05 — midday scan, ~12:10 PM ET / 16:10 UTC)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | Buying Power $772.02 | balance_asof 2026-10-02 | daytrade_count: 0
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **ISM Services PMI (10:00 AM ET result)**: 54.9% (vs. 55.1 est, prior 55.4) — 27th consecutive expansion month; mildly soft relative to consensus but not a significant dovish catalyst
+- **S&P 500 midday**: ~7,637 (−0.19%) — slipped into the red post-ISM; gate (b) ✗ FAILS
+- **10Y Treasury yield**: ~5.26% (−0.03% from Friday; still 6bps above RTX gate of 5.20%) — gate (c) ✗ FAILS
+- **RTX price**: ~$184–185 (flat vs. Oct 2 close of $184.68); watchlist only; gates (b) and (c) blocking
+- **JPM**: ~$331–332; exceeds $193 position limit; gate (c) fails by 16bps — SKIP
+- **Gate re-eval (midday Oct 5)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing)
+  - (b) S&P flat-to-positive: ✗ (−0.19% — slipped into red after early morning +0.15%)
+  - (c) 10Y yield ≤ 5.20% (RTX): ✗ (~5.26% — 6bps above gate)
+  - (d) 30-min consolidation: N/A — gates (b) and (c) blocking
+- **HOLD confirmed**: Both gates (b) and (c) fail at midday. ISM Services 54.9% slightly below consensus but insufficient to drive meaningful yield relief. No trades placed. No Telegram notification.
+- **Outlook**: RTX entry still nearest since account inception; needs 10Y to ease additional 6bps to ≤5.20% AND S&P to recover. FOMC Sep minutes (Wed Oct 7) remain the next potential catalyst for yield direction. JPM earnings Oct 13 is the next hard catalyst. Week of Oct 5: 0/5 trades (36th consecutive session without a trade).
