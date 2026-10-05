@@ -2138,3 +2138,66 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **HOLD confirmed** — gate (c) is the sole binding constraint; no trades executed midday
 - **No Telegram notification** — no trades or position changes; no action taken
 - **Week of Oct 5 priority**: JPM pre-earnings setup (earnings Oct 13); RTX (earnings Oct 21); watch 10Y for any drift below 5.0% as the first signal that the 4.82% gate is becoming reachable
+
+---
+
+## 2026-10-05 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- balance_asof: 2026-10-02 (35th consecutive session, 0 trades since inception)
+- Week of Oct 5: 0/5 trades used (fresh cap)
+
+### Market Context
+- **WTI**: ~$91.11/bbl (−0.5%) — below $97 floor; energy thesis permanently invalidated
+- **Brent**: ~$102.72/bbl (+0.07%) — Middle East supply above pre-war levels; geopolitical risk premium residual only
+- **S&P 500 futures**: ~7,783–7,789 (+0.15–0.77%) — positive open; Friday (Oct 2) S&P close ~7,777; VIX 15.31 (−6.59%) — low fear, risk appetite elevated
+- **10Y Treasury yield**: ~5.254% (−3bps from prior) — easing on soft NFP; still above both gates (JPM: 5.10%, RTX: 5.20%)
+- **Today's catalysts**:
+  - **ISM Services PMI 10:00 AM ET** — consensus 55.1 vs. prior 55.4; key read for Oct rate path; soft = yields ease further
+  - **NFP Sept legacy**: +29K vs. 84–90K est. = massive miss; Oct FOMC hike odds collapsed to ~18-20% (CME FedWatch); "bad news = good news" rally ongoing
+  - **TSMC +3%** on reported Terafab/Musk collaboration; SMH +2.07%; NVDA +1.34% — AI infrastructure demand narrative intact
+  - **RTX massive defense contracts**: $24.4B multi-year SM-6 interceptor contract + $20.7B AMRAAM production contract + $511.5M AN/SPY-6(V) radar modification announced early Oct — ~$45B+ new backlog additions; enormous fundamental catalyst
+  - **JPM dividend ex-date: Oct 6 (TOMORROW)** — $1.65/share; must own by end of today to receive; stock typically drops ~0.5% on ex-date
+- **Earnings before open today**: No major reports (light Monday; earnings season ramps mid-week)
+- **Earnings this week**: PEP (Pepsi) Thu Oct 8 BMO; JPM earnings Oct 13 (next week)
+- **Economic calendar**:
+  - Today Oct 5: ISM Services PMI 10:00 AM ET
+  - Wed Oct 7: FOMC September meeting minutes released (key for Oct 27–28 rate decision)
+  - Fri Oct 9: UMich Consumer Sentiment (prelim)
+  - Oct 14: CPI
+  - Oct 27–28: FOMC rate decision
+- **Sector momentum**:
+  - Leading YTD: Energy (XLE) ~+39% — thesis invalidated (WTI <$97); Industrials (XLI), Materials (XLB), Consumer Staples (XLP) in leading quadrant
+  - Lagging: XLK (tech), XLC, XLY, XLF — all in lagging rotation quadrant; Financials −8.11% YTD but Q4 seasonal tailwind active
+  - Improving: Tech/semis strong today (AI narrative) but not yet in leading quadrant
+
+### Trade Ideas
+
+1. **RTX (Raytheon Technologies) — NEAR-TRIGGER** — Gate (c) now only 5.4bps away from clearing (10Y 5.254% vs. 5.20% RTX gate). Catalyst stack: (a) Iran conflict ongoing — US military escort ops, Hormuz partially disrupted; (b) Massive new contracts: $24.4B SM-6 + $20.7B AMRAAM + $511.5M radar = ~$45B+ new backlog; RTX $289B existing backlog; (c) Q3 earnings Oct 20 — strong contract wins = EPS beat setup; (d) rate-independent thesis (defense spending driven by geopolitics). Stock ~$184.68. If ISM Services at 10 AM is soft/inline and yields dip another 5–10bps: gate (c) clears. Entry ONLY if all gates pass at 30-min post-open consolidation: (a) S&P flat-to-positive ✓; (b) 10Y ≤ 5.20% (TBD — watch at open and post-ISM); (c) RTX 30-min consolidation above prior close; (d) no new hawkish Fed surprise ✓. Stop: −10% trailing GTC (1 whole share ~$185, under $193 limit). Target: +16% (~$214). R:R ~1.6:1. This is the closest any entry gate has been to clearing since account inception.
+
+2. **JPM (JP Morgan Chase) — WATCH, NOT YET** — Q4 XLF seasonal tailwind (+5% avg Oct–Dec); earnings Oct 13 = imminent catalyst; oversold ~6% below 30-day high. Stock ~$332. Gate (c): 10Y needs ≤ 5.10% — currently 5.254%, fails by 14.4bps. Dividend ex-date Oct 6 (tomorrow) creates ~$1.65/share gap-down on open Thursday — buying today captures the dividend but gate (c) still fails. Do NOT enter ahead of gate failure even for the dividend. Watch 10Y post-FOMC minutes (Wed Oct 7) for any yield easing that brings this into range by end of week.
+
+3. **NVDA (Nvidia) — HOLD OFF** — AI demand confirmed; buybacks; TSMC +3% today = sector tailwind. High price and XLK still in lagging rotation quadrant. No earnings until Nov. Requires: XLK rotation to leading quadrant + 10Y below 4.82%. Too early.
+
+### Risk Factors
+- **10Y yield** — at 5.254%; RTX gate only 5.4bps from clearing; any ISM Services beat today could spike yields briefly, moving further from gate
+- **FOMC minutes (Wed Oct 7)** — could signal hawkish or dovish October, binary impact on yield trajectory
+- **ISM Services** — if hot (>55.4): yields spike, gates move further away; if soft (<55): yields ease, RTX gate could clear
+- **JPM ex-dividend Oct 6** — stock opens ~$1.65 lower Thursday; creates a short-term noise event in financials
+- **Energy permanently deactivated** — WTI $91 well below $97 gate; no re-entry signal
+- **PDT rule** — 0/3 day trades used; any entry must hold overnight (swing trade only)
+- **Small account** — $772, max $193/position; 1 whole share RTX (~$185) or JPM (~$332 exceeds limit without fractional)
+
+### Decision
+**HOLD** — Both gates fail as of pre-market (10Y 5.254%: RTX gate misses by 5.4bps, JPM gate misses by 14.4bps). However:
+
+- **RTX is the closest entry has been to triggering since account inception.** Only 5.4bps separates the current 10Y from the RTX entry gate.
+- **Monitor ISM Services at 10 AM ET**: soft print → yields ease → RTX gate could clear intraday. If 10Y drops to ≤5.20% AND RTX shows 30-min consolidation above prior close AND S&P holds flat-to-positive → execute 1 share RTX, 10% trailing stop GTC.
+- **JPM**: Dividend ex-date tomorrow (Oct 6) creates a minor tactical consideration but gate (c) fails by too wide a margin. Watch post-FOMC minutes Wed.
+- Default: HOLD until gate (c) clears. Patience > activity. Week of Oct 5: 0/5 trades.
