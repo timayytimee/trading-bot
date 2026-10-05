@@ -136,3 +136,18 @@ Trades today: none
 Open positions: none
 Week of Sep 28 final: 0/5 trades
 Tomorrow: Q4 opens (Oct 1); watch 10Y yield for plateau signal; reassess financials gate (XLF/JPM/GS) at AM open
+
+---
+## 2026-10-05 20:07 UTC (fallback — api.telegram.org blocked by egress policy)
+EOD 2026-10-05
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+Week of Oct 5: 0/5 trades
+
+Gates check:
+  S&P +0.6% ✓
+  10Y yield 5.26% — financials gate (≤5.10%) ✗, defense gate (≤5.20%) ✗
+
+Tomorrow: watch 10Y for pull-back toward 5.10%; JPM earnings Oct 13 is next key catalyst
