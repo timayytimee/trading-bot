@@ -2326,3 +2326,22 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
   - (d) 30-min consolidation: N/A — yield gate blocking; spreads condition "R" on both
 - **HOLD confirmed**: No trades placed. 38th consecutive session without a trade since inception.
 - **Next catalyst**: FOMC September minutes Wed Oct 7, 2:00 PM ET — dovish read could ease yields toward gates; hawkish = gates widen further. Week of Oct 5: 0/5 trades.
+
+### Midday Addendum (Oct 06 — midday scan, ~12:15 PM ET / 16:15 UTC)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | BP $772.02 | balance_asof: 2026-10-05 | daytrade_count: 0
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **10Y Treasury yield**: ~5.27% (eased ~5bps from Oct 5 high; still fails RTX gate by ~7bps, JPM gate by ~17bps)
+- **S&P 500**: Broadly higher (indices up from open; ~7,774+ level) — gate (b) ✓
+- **RTX (live)**: Bid $184.00 / Ask $184.35 — spread $0.35 (~0.19%), condition "R" — **NORMALIZED from morning's $9.64 spread; spread gate ✓ now passes**
+- **JPM (live)**: Bid $330.00 / Ask $332.00 — spread $2.00 (~0.60%), condition "R" — above 0.5% limit + exceeds $193 position size limit → SKIP
+- **Gate re-eval (midday Oct 6)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing; no ceasefire)
+  - (b) S&P flat-to-positive: ✓ (indices broadly higher)
+  - (c) 10Y yield ≤ 5.20% (RTX): ✗ (~5.27% — fails by ~7bps; binding block)
+  - (c) 10Y yield ≤ 5.10% (JPM): ✗ (~5.27% — fails by ~17bps)
+  - (d) RTX 30-min consolidation: N/A — gate (c) blocking
+- **Notable**: RTX spread has normalized dramatically (morning: $9.64 / 5.3% → midday: $0.35 / 0.19%). Spread is no longer a separate blocker for RTX. Only the yield gate remains. If 10Y drops to ≤5.20%, clean path to RTX entry exists.
+- **HOLD confirmed**: Gate (c) is the sole binding constraint. No action taken. No Telegram notification.
+- **Next catalyst**: FOMC September minutes Oct 7 (2:00 PM ET) — dovish tone (possible given +29K NFP miss) could ease yields toward 5.20%; hawkish = gates widen further. JPM earnings Oct 13 = next hard catalyst regardless.
+- **Week of Oct 5**: 0/5 trades. 38th consecutive session without a trade since inception.
