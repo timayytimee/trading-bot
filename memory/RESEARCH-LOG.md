@@ -2310,3 +2310,19 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - Oct 7 (2 PM ET): FOMC minutes → yield reaction → gate re-eval
 - Oct 13: JPM Q3 earnings → primary near-term catalyst (regardless of gate, this is the event to be positioned for IF gates clear)
 - 37th consecutive session without a trade since inception.
+
+### Market-Open Addendum (Oct 06 — live data, ~9:40–9:45 AM ET)
+- **Account (live)**: Equity $772.02 | Cash $772.02 | BP $772.02 | daytrade_count: 0 | balance_asof: 2026-10-05
+- **Positions**: 0 | **Orders**: 0
+- **10Y Treasury yield**: ~5.27% (eased from 5.33% 24-year high hit Oct 5; still fails both gates)
+- **S&P 500**: ~7,774 — broadly higher (+0.66% prior close; indices up today) ✓
+- **RTX (live)**: bid $180.00 / ask $189.64 — spread $9.64 (~5.3%), condition "R" → **SKIP (spread >>0.5% limit)**
+- **JPM (live)**: bid $330.00 / ask $332.62 — spread $2.62 (~0.79%), condition "R", ex-dividend today → **SKIP (exceeds $193 limit + spread + ex-div)**
+- **Gate re-eval (live data)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing)
+  - (b) S&P flat-to-positive: ✓ (~7,774, indices up)
+  - (c) 10Y yield ≤ 5.20% (RTX): ✗ (5.27% — fails by 7bps)
+  - (c) 10Y yield ≤ 5.10% (JPM): ✗ (5.27% — fails by 17bps)
+  - (d) 30-min consolidation: N/A — yield gate blocking; spreads condition "R" on both
+- **HOLD confirmed**: No trades placed. 38th consecutive session without a trade since inception.
+- **Next catalyst**: FOMC September minutes Wed Oct 7, 2:00 PM ET — dovish read could ease yields toward gates; hawkish = gates widen further. Week of Oct 5: 0/5 trades.
