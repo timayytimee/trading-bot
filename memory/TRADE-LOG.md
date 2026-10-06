@@ -298,3 +298,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 24th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-02), no positions, no open orders. Week of Oct 5: 0/5 trades (fresh cap). S&P 500 +0.6% today (gate d ✓) as tech rallied; 10Y yield 5.26% — above both the financials gate (≤5.10%) and defense gate (≤5.20%), blocking all entries. JPM −0.24% on the day, continuing to underperform the broad market. The Sep NFP from last Friday appears to have kept yield pressure elevated (10Y moved higher to 5.26% from ~5.166% prior). Despite the improving S&P tone, neither financials (JPM) nor defense (RTX) clears the yield gate — both require 10Y to pull back meaningfully before any entry is valid. No qualifying setup. Cash preservation correct. JPM earnings on Oct 13 is the next key catalyst for the financials thesis — a strong beat could catalyze a rate-decoupling move. Watch: 10Y trajectory this week; any yield relief below 5.10% opens the JPM/financials entry gate for the first time.
+
+---
+
+### Oct 06 — EOD Snapshot (Day 25, Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 25th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-05), no positions, no open orders. Week of Oct 5: 0/5 trades. Both active sector entries remain yield-gated: financials (JPM) requires 10Y ≤ 5.10%, defense (RTX) requires 10Y ≤ 5.20%; 10Y last at 5.26% blocks both. The week of Oct 6 is critical pre-earnings — JPM reports Oct 13, the single most important near-term catalyst. A JPM beat with forward NIM guidance could trigger a rate-decoupling move in financials even with 10Y elevated; watch for any yield softening mid-week. RTX/defense thesis intact (US-Iran conflict ongoing, $289B backlog, Oct 21 earnings) but same yield gate applies. Energy remains permanently deactivated (WTI below $97). Cash preservation correct; patience > activity. Week of Oct 5: 0/5 trades (2/5 remaining days this week). Tomorrow: morning yield check — if 10Y dips toward 5.10–5.15%, reassess JPM/financials entry gates at open.
