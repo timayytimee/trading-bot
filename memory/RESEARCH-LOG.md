@@ -2236,3 +2236,77 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
   - (d) 30-min consolidation: N/A — gates (b) and (c) blocking
 - **HOLD confirmed**: Both gates (b) and (c) fail at midday. ISM Services 54.9% slightly below consensus but insufficient to drive meaningful yield relief. No trades placed. No Telegram notification.
 - **Outlook**: RTX entry still nearest since account inception; needs 10Y to ease additional 6bps to ≤5.20% AND S&P to recover. FOMC Sep minutes (Wed Oct 7) remain the next potential catalyst for yield direction. JPM earnings Oct 13 is the next hard catalyst. Week of Oct 5: 0/5 trades (36th consecutive session without a trade).
+
+---
+
+## 2026-10-06 — Pre-market Research
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- balance_asof: 2026-10-05 (37th consecutive session, 0 trades since inception)
+- Week of Oct 5: 0/5 trades used
+
+### Market Context
+- **WTI**: ~$91/bbl (stable; below $97 energy gate; energy thesis permanently invalidated)
+- **Brent**: ~$101/bbl; Hormuz volumes near pre-war levels; no structural supply catalyst
+- **S&P 500**: Oct 5 close higher from midday lows (TheStreet: "S&P 500 moves higher after ISM data"); Nasdaq hit all-time high Oct 5; Oct 1 close was 7,666; premarket today quiet (no major data)
+- **VIX**: ~14–16 range (Nasdaq ATH = low fear; VIX Oct 5 open was 15.31)
+- **10Y Treasury yield**: ~5.31–5.35% (RISING; multi-decade high since 2002; up 3–8bps from Oct 2's 5.26%; WRONG direction for both entry gates)
+  - RTX gate: 10Y ≤ 5.20% → FAILS by ~11–15bps (worse than yesterday's 6bps)
+  - JPM gate: 10Y ≤ 5.10% → FAILS by ~21–25bps
+- **Today's catalysts**:
+  - **JPM ex-dividend: $1.65/share (TODAY, Oct 6)** — stock opens ~$1.65 lower from ~$331 → ~$329; not a buying opportunity (gate fails)
+  - **No major economic releases today** — quiet session; no CPI/PPI/FOMC data
+  - **Nasdaq ATH (Oct 5)**: NVDA/semis/AI theme driving tech; Nasdaq hit all-time high; risk appetite elevated despite yield pressure
+  - **Iran/Hormuz**: Conflict ongoing; Hormuz volumes near pre-war levels; refined products still disrupted; structural supply risk diminished
+- **Earnings before open today**: RPM International; Cal-Maine Foods; no major names
+- **Economic calendar upcoming**:
+  - **Wed Oct 7**: FOMC September meeting minutes, 2:00 PM ET — KEY binary event for yield direction; hawkish = yield spike; dovish (labor market concern given +29K NFP) = yield easing
+  - **Fri Oct 9**: UMich Consumer Sentiment (prelim)
+  - **Tue Oct 13**: JPM Q3 earnings (primary near-term catalyst)
+  - **Wed Oct 14**: CPI September 2026
+  - **Thu Oct 15**: PPI September 2026
+  - **Mon Oct 21**: RTX Q3 earnings (estimated)
+  - **Tue Oct 27–28**: FOMC rate decision
+- **Sector momentum**:
+  - Leading: XLK (Tech/semis — Nasdaq ATH, NVDA AI demand, SMH strong); XLP, XLI (rotating leadership)
+  - Improving: XLV (Healthcare)
+  - Lagging: XLF (Financials, −8%+ YTD), XLC, XLY, XLB, XLRE; Financials lagging despite Q4 seasonal thesis
+  - Energy (XLE): Permanently off strategy list
+
+### Trade Ideas
+
+1. **JPM (JP Morgan Chase) — WATCH ONLY, NOT ENTRY** — Ex-dividend today ($1.65/share gap-down). 10Y at 5.31–5.35% fails JPM gate (5.10%) by 21–25bps. Q3 earnings Oct 13 (7 days) is primary catalyst. FOMC minutes tomorrow (Oct 7) is the next potential yield inflection. Strategy: if FOMC minutes are dovish → 10Y dips toward 5.10% → JPM pre-earnings setup becomes viable mid-week. Entry zone: $325–335, 30-min consolidation above prior close. Stop: −8% from entry; target: +16% (~$380); R:R ~2:1. Catalyst: Q4 seasonal tailwind + earnings Oct 13 + beaten-down XLF recovering.
+
+2. **RTX (Raytheon Technologies) — WATCH ONLY, GATE WORSENING** — 10Y at 5.31–5.35% now fails RTX gate (5.20%) by 11–15bps — WORSE than Oct 5's 6bps gap. Yield is moving in the wrong direction. Catalyst stack intact: $45B+ new backlog (SM-6 $24.4B, AMRAAM $20.7B, Tomahawk $22.9B); Q3 earnings Oct 21; Iran conflict ongoing. Wait for FOMC minutes (Oct 7) for yield signal before re-evaluating. Entry: 1 share ~$185; stop: −10% trailing GTC; target: +16% (~$215); R:R ~1.6:1.
+
+3. **No tech entry (NVDA/semis)** — Nasdaq ATH signals rotation but XLK still in lagging rotation quadrant; no yield relief; high price + no near-term catalyst for NVDA until Nov earnings. Watchlist only.
+
+### Risk Factors
+- **10Y yield at 5.31–5.35%** — multi-decade high; trending UP (wrong direction); both gates fail more than yesterday
+- **FOMC minutes (Oct 7)** — binary; hawkish read → yield spike → both gates move further from reach; dovish → first genuine relief in 6 weeks
+- **Nasdaq at ATH** — complacency risk; rising yields + tech ATH = historically unstable combination; any risk-off event = sharp drawdown
+- **JPM ex-dividend today** — artificial gap-down; do not chase; confirms no entry today
+- **Trump/RTX headline risk** — earlier 2026 threats (Jan) market has priced; RTX up 65% from 52-week low; watch for any new administration commentary on defense contractor spending
+- **Oct earnings season**: JPM Oct 13 miss risk (XLF already lagging −8% YTD); any disappointment = financials selloff
+- **Energy permanently off** — WTI $91, well below $97; no re-entry signal
+- **Small account** — $772 total; 1 share RTX (~$185) or 2 shares JPM (~$660 fractional issue) is max viable position
+- **PDT rule** — 0/3 day trades used; any entry must hold overnight
+
+### Decision
+**HOLD** — Both gates fail decisively and yield is trending in the WRONG direction:
+- RTX gate (5.20%): 10Y at 5.31–5.35% — fails by 11–15bps (worse than yesterday's 6bps)
+- JPM gate (5.10%): 10Y at 5.31–5.35% — fails by 21–25bps
+- JPM ex-dividend today = do not initiate on artificial gap-down day
+
+**Next decision point**: FOMC September meeting minutes (Wed Oct 7, 2:00 PM ET). If minutes reflect Fed concern about deteriorating labor market (+29K NFP miss), yields may ease. If hawkish, yield could spike further above gates. The week of Oct 5 (with 0/5 trades) will likely close without a trade unless FOMC minutes provide a dovish yield catalyst tomorrow.
+
+**Priority watch this week**:
+- Oct 7 (2 PM ET): FOMC minutes → yield reaction → gate re-eval
+- Oct 13: JPM Q3 earnings → primary near-term catalyst (regardless of gate, this is the event to be positioned for IF gates clear)
+- 37th consecutive session without a trade since inception.
