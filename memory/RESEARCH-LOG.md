@@ -2416,3 +2416,28 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - If FOMC minutes are hawkish → gates widen again, HOLD through Oct 13 (JPM earnings)
 - Week of Oct 5: 0/5 trades, 3 days remaining (Wed–Fri)
 
+### Midday Addendum (Oct 07 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live)**: Equity $772.02 | Cash $772.02 | BP $772.02 | daytrade_count: 0
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **10Y Treasury yield**: ~5.307–5.35% intraday (testing 24-year highs per CNBC/FXStreet Oct 7 AM); WORSE than yesterday's 5.286% — gates widening in wrong direction
+  - RTX gate (≤5.20%): ✗ FAILS by ~10–15bps (was 8.6bps yesterday — widened)
+  - JPM gate (≤5.10%): ✗ FAILS by ~20–25bps
+- **FOMC September minutes**: Scheduled 2:00 PM ET (not yet released at midday scan time)
+  - Background: 12-0 vote to hike 25bps; Warsh hawkish; market now pricing Dec hike
+  - Pre-minutes tone: HAWKISH (yields testing new 24-year highs = market bracing for hawkish minutes, not dovish)
+  - Dovish lean from pre-market research was incorrect — intraday yield action suggests hawkish read
+- **⚠️ NEW CONSTRAINT — RTX position size**: RTX trading ~$198.12 today (+7% from prior $184–185 range)
+  - 1 share RTX ($198) > 25% equity limit ($193.01) → POSITION SIZE GATE FAILS
+  - Fractional (0.97 shares) would clear the price gate BUT Alpaca rejects trailing_stop on fractional → fixed-stop fallback only
+  - Fixed stop fallback acceptable per strategy: stop_price at −10% from entry (~$178.31)
+  - **Net effect**: Even if yield gate clears post-minutes, entry requires fractional buy + fixed stop (not ideal)
+- **Gate re-eval (midday Oct 7)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing; Hormuz volumes near pre-war but conflict not resolved)
+  - (b) S&P flat-to-positive: unknown exact; indices broadly positive trend Oct 5–6; FOMC minutes will set afternoon direction
+  - (c) 10Y yield ≤ 5.20% (RTX): ✗ (~5.31–5.35% — WORSE, gates widening)
+  - (d) 30-min consolidation: N/A — yield gate blocking
+- **HOLD confirmed**: All yield gates failing and moving in wrong direction. Pre-minutes bond market tone is hawkish (yields at 24-year highs). RTX price also now exceeds $193 position limit for whole-share buy.
+- **Outlook**: FOMC minutes at 2PM ET are the pivotal moment. If hawkish → 10Y spikes toward 5.40%+, both gates widen further; next hard entry window is JPM earnings Oct 13. If somehow dovish → yields could ease but need to drop 10–15bps quickly AND RTX hold-or-pull-back to ≤$193 for a clean entry. Low probability of entry today. HOLD through Oct 13 JPM earnings now base case.
+- **Week of Oct 5**: 0/5 trades. 39th consecutive session without a trade since inception.
+
