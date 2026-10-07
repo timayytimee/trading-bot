@@ -2345,3 +2345,74 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **HOLD confirmed**: Gate (c) is the sole binding constraint. No action taken. No Telegram notification.
 - **Next catalyst**: FOMC September minutes Oct 7 (2:00 PM ET) — dovish tone (possible given +29K NFP miss) could ease yields toward 5.20%; hawkish = gates widen further. JPM earnings Oct 13 = next hard catalyst regardless.
 - **Week of Oct 5**: 0/5 trades. 38th consecutive session without a trade since inception.
+
+---
+
+## 2026-10-07 — Pre-market Research
+
+### Account
+- Equity: $772.02 | Cash: $772.02 | BP: $772.02
+- Daytrade count: 0 | balance_asof: 2026-10-06
+- Open positions: 0 | Open orders: 0
+- Max position size: ~$193 (25% of $772.02)
+- Week of Oct 5: 0/5 trades used (3 days remaining)
+- 26th consecutive trading session at $772.02 (0 trades since inception Aug 29)
+
+### Market Context
+- **WTI**: ~$91/bbl (well below $97 energy gate; energy thesis permanently deactivated)
+- **Brent**: ~$101/bbl; Hormuz volumes near pre-war levels; no structural supply event
+- **S&P 500**: Broadly positive; indices grinding higher from Oct 5–6; Nasdaq ATH confirmed Oct 5
+- **VIX**: ~14–16 (low fear; consistent with Nasdaq ATH environment)
+- **10Y Treasury yield**: ~5.286% on Oct 6 (slid ~2–4bps from 5.31–5.34% multi-decade peak on Oct 5; still above both gates)
+  - RTX gate (≤5.20%): FAILS by ~8.6bps — closest gap in 2+ weeks
+  - JPM gate (≤5.10%): FAILS by ~18.6bps
+  - Direction: yields beginning to cool from multi-year highs (CNBC: "Treasury yields slide as surge to multiyear highs cools")
+- **Today's dominant catalyst — FOMC September meeting minutes (2:00 PM ET)**:
+  - Fed hiked 25bps to 3.75–4.00% in Sept, 12-0 vote
+  - ~80% chance of hold priced into futures as of Oct 5
+  - ALL major data since Sept meeting has come in softer than Fed expected (Sep NFP +29K vs. ~150K+ est.)
+  - Dovish lean probable → markets expect minutes to flag labor-market deterioration concern
+  - If dovish: yields ease toward 5.20% (RTX gate), potentially triggering first qualifying entry in 26 sessions
+  - If hawkish: yields spike further from 5.286%, both gates widen
+- **Earnings before open**: None. RGP (Resources Connection) reports after close — no market impact on our names.
+- **Economic calendar**:
+  - TODAY: FOMC Sept minutes 2:00 PM ET (key)
+  - Fri Oct 9: UMich Consumer Sentiment prelim
+  - Tue Oct 13: JPM Q3 earnings — primary financials catalyst
+  - Wed Oct 14: CPI September 2026
+  - Thu Oct 15: PPI September 2026
+  - Tue Oct 21: RTX Q3 earnings (est.)
+  - Oct 27–28: FOMC rate decision
+- **Sector momentum (latest)**:
+  - Leading: XLK (Tech/semis — Nasdaq ATH, +37% YTD); Energy (early Oct +1.7% transient)
+  - Lagging/negative: XLF (Financials — negative MTD; -8%+ YTD); Materials, XLRE, XLP
+  - Financials underperforming despite Q4 seasonal thesis — remains yield-gated
+- **Held ticker news (no positions; watchlist)**:
+  - **RTX**: $22.9B US Navy Tomahawk contract confirmed (7-year deal, 1,000+ missiles/yr). JPMorgan raised PT to $200 (Overweight). RTX raised 2026 revenue and profit guidance. RTX +20% YTD. Midday Oct 6 spread normalized to $0.35 / 0.19% — spread gate passes for first time. Q3 earnings Oct 21.
+  - **JPM**: Went ex-dividend Oct 6 ($1.65/share gap-down). Financials sector negative MTD. Q3 earnings Oct 13 is primary next catalyst. 10Y gate 18.6bps away — unlikely to clear pre-earnings without major dovish surprise.
+
+### Trade Ideas
+
+1. **RTX — Conditional WATCH (gate 8.6bps from clearing)** — FOMC minutes today (2PM ET) could bridge the gap if dovish. All post-Sept data softer than expected → dovish lean probable → 10Y could ease from 5.286% toward 5.20% gate intraday. If 10Y drops to ≤5.20% AND S&P remains flat-to-positive AND RTX consolidates above prior close after the minutes release → FIRST QUALIFYING ENTRY in 26 sessions. Entry: ~1 share ~$185 (fractional not preferred due to trailing stop restriction); stop: 10% trailing GTC ($166.50); target: +16% (~$215); R:R ~1.6:1. Catalyst: $22.9B Navy Tomahawk contract + Iran conflict ongoing + earnings Oct 21 + defense spending momentum. Spread: normalized (0.19% midday Oct 6). PDT: 0/3 used.
+
+2. **JPM — WATCH ONLY, monitor for post-minutes yield path** — Gate 18.6bps from clearing (18.6bps > 1 session likely move). Q3 earnings Oct 13 is the real entry catalyst. If FOMC minutes very dovish and 10Y dips below 5.20%, reassess JPM intraday. Entry zone: $325–335; stop: 8% fixed (fractional trailing restriction); target: +16% (~$380); R:R ~2:1. Not viable today without extraordinary yield move.
+
+3. **Tech/Semis (NVDA/SMH)** — Nasdaq ATH signals momentum but not in our active sectors. No entry gate or catalyst documented. Watchlist only.
+
+### Risk Factors
+- **FOMC minutes binary (2PM ET)**: Hawkish = yields spike above 5.30%+, both gates widen; dovish = yields ease toward 5.20%, RTX gate potentially clears. Single largest intraday binary event in several weeks.
+- **10Y trend**: Appears to have peaked at 5.34% (Oct 5) and is cooling — but 8.6bps is still a gap; one hot data print reverses the move.
+- **XLF negative MTD**: Financials underperforming despite seasonal thesis — JPM Oct 13 earnings miss risk is real. Any disappointment would validate XLF lagging and set thesis back further.
+- **RTX spread**: Normalized midday Oct 6 (0.19%) but open and morning spreads historically wide (5%+). Must re-verify spread at open before any RTX entry.
+- **Complacency**: Nasdaq ATH + VIX low + rising rates = historically unstable. Any risk-off = sharp drawdown.
+- **PDT**: 0/3 day trades. Any RTX entry must hold overnight.
+- **Energy permanently off**: WTI $91 — well below $97 gate; no trigger conditions visible.
+
+### Decision
+**HOLD** — Pre-market; both gates still fail (RTX: 5.286% vs. 5.20% gate). However this is the highest-stakes decision point in 26 sessions:
+- RTX gate gap has narrowed to 8.6bps (from 11–15bps on Oct 5–6) — smallest gap since the gate was established
+- FOMC minutes today at 2PM ET are the catalyst that could clear the RTX gate for the first time
+- **Actionable trigger**: If post-minutes 10Y ≤ 5.20% AND S&P flat-to-positive AND RTX bid-ask spread <0.5% → enter RTX (1 share, market buy, then 10% trailing stop GTC)
+- If FOMC minutes are hawkish → gates widen again, HOLD through Oct 13 (JPM earnings)
+- Week of Oct 5: 0/5 trades, 3 days remaining (Wed–Fri)
+
