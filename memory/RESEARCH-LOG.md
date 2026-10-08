@@ -2527,3 +2527,16 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 **Week of Oct 5**: 0/5 trades (1 day remaining Friday Oct 9 if gate clears today)
 **40th consecutive session without a trade since inception** (Aug 29, 2026)
 **Next hard catalyst**: JPM Q3 earnings Oct 13 — regardless of yield gates, this is the week's defining event
+
+### Midday Addendum (Oct 08 — midday scan)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **10Y Treasury yield**: ~5.299–5.30% (up from ~5.28% yesterday — gates WIDENING)
+  - RTX gate (≤5.20%): ✗ FAILS by ~10bps (worse than yesterday's ~8bps gap)
+  - JPM gate (≤5.10%): ✗ FAILS by ~20bps
+- **New hawkish catalyst**: Fed Governor Waller stated "more hikes needed" today (Oct 8) — CNBC headline; actively pressing yields higher and further from gates
+- **S&P 500**: ~7,790, −0.14% early (gate d marginal/failing); S&P slipped from recent ATH on rising yield pressure
+- **Jobless claims (8:30 AM ET)**: Specific print not confirmed via search; but yield action (rising) implies inline or strong data — no "very weak >400K" relief print materialized. Trigger condition for yield relief did not fire.
+- **HOLD confirmed**: All gates failing. Waller hawkish comments today actively widen RTX/JPM yield gates. No qualifying setup. Cash preserved.
+- **Week of Oct 5 final (effective)**: 0/5 trades. 27th consecutive session at $772.02 since inception.
+- **Next catalyst**: JPM Q3 earnings Oct 13 — primary near-term event regardless of yield gate status. CPI Sep 2026 due Oct 14. FOMC Oct 27–28.
