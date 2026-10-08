@@ -2441,3 +2441,89 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **Outlook**: FOMC minutes at 2PM ET are the pivotal moment. If hawkish → 10Y spikes toward 5.40%+, both gates widen further; next hard entry window is JPM earnings Oct 13. If somehow dovish → yields could ease but need to drop 10–15bps quickly AND RTX hold-or-pull-back to ≤$193 for a clean entry. Low probability of entry today. HOLD through Oct 13 JPM earnings now base case.
 - **Week of Oct 5**: 0/5 trades. 39th consecutive session without a trade since inception.
 
+
+---
+
+## 2026-10-08 — Pre-market Research
+
+### Account
+- Equity: $772.02 | Cash: $772.02 | BP: $772.02
+- Daytrade count: 0 | balance_asof: 2026-10-07
+- Open positions: 0 | Open orders: 0
+- Max position size: ~$193 (25% of $772.02)
+- Week of Oct 5: 0/5 trades used (Day 4 of week — Thursday, 1 day remaining)
+- 27th consecutive trading session at $772.02 (0 trades since inception Aug 29)
+
+### Market Context
+- **WTI**: ~$91/bbl (energy thesis permanently deactivated; below $97 gate; unchanged)
+- **Brent**: ~$101/bbl; Hormuz volumes near pre-war levels; no structural supply event
+- **S&P 500**: Broadly positive trend Oct 1–7; Nasdaq ATH confirmed Oct 5; market grinding higher despite rate pressure; premarket direction unconfirmed — jobless claims (8:30 AM ET) will set early tone
+- **VIX**: ~14–16 (low fear; consistent with Nasdaq ATH environment)
+- **10Y Treasury yield**: ~5.28–5.36% range post-FOMC minutes
+  - FOMC September minutes released Oct 7 at 2:00 PM ET: **HAWKISH**
+  - Minutes confirmed "most participants saw at least one more rate hike before year-end"; AI-demand inflation risk flagged; December hike probability elevated
+  - 10Y spiked to 5.36% (24-year high) during minutes, settled ~5.28% post-auction; still elevated
+  - RTX gate (≤5.20%): FAILS by ~8bps (improved from pre-minutes ~5.307–5.35%)
+  - JPM gate (≤5.10%): FAILS by ~18bps
+  - Direction: hawkish confirmed, yield plateauing near top but no reversal signal yet
+- **Today's dominant catalyst — Weekly Jobless Claims (8:30 AM ET)**:
+  - A very weak print (claims >400K) could nudge 10Y toward gates; consensus ~230K
+  - If inline/strong → no yield relief; HOLD through Oct 13 JPM earnings
+- **Earnings before open (no market-moving names)**: APOG (Apogee Enterprises, $797M cap), HELE (Helen of Troy, $656M cap) — not relevant to strategy
+- **Economic calendar**:
+  - TODAY 8:30 AM ET: Weekly jobless claims + continuing claims
+  - TODAY 10:00 AM ET: Wholesale inventories (Aug)
+  - Fri Oct 9: UMich Consumer Sentiment prelim
+  - Tue Oct 13: **JPM Q3 earnings (primary near-term catalyst)**
+  - Wed Oct 14: CPI September 2026 (key inflation data)
+  - Thu Oct 15: PPI September 2026
+  - Tue Oct 21: RTX Q3 earnings (est.)
+  - Oct 27–28: FOMC rate decision
+- **Sector momentum**:
+  - Leading: XLK (Tech/semis — +37% YTD, Nasdaq ATH); XLE (energy early Oct — permanently off our list)
+  - Lagging: XLF (Financials, negative MTD, −8%+ YTD); XLV (Healthcare); XLRE, XLB
+  - Financials continuing to underperform despite Q4 seasonal thesis — remains yield-gated
+- **Watchlist news**:
+  - **RTX**: Q3 earnings Oct 21. $22.9B Navy Tomahawk contract (Aug 17) intact. Sep 17 closing price ~$193.54 (down from Aug high $225); midday Oct 7 intraday ~$198. Analyst targets $220–230. Collins Aerospace supporting Army Chinook modernization. Spread normalized to ~0.19% midday Oct 6. HAWKISH minutes = negative for RTX yield gate; however defense thesis (Iran conflict unresolved, US military ops ongoing) intact.
+  - **JPM**: Went ex-dividend Oct 6 ($1.65/share gap-down). Q3 earnings Oct 13 (~5 days). Financials negative MTD. Pre-reports JPM record Q2 profits (Jul 15) — strong baseline. At ~$330, position size exceeds $193 limit (fractional = no trailing stop). JPM gate 18bps from clearing.
+
+### Trade Ideas
+
+1. **RTX — Closest gate, conditional watch (gate ~8bps from clearing)**
+   - 10Y yield needs ≤5.20%; currently ~5.28% — gap of ~8bps (smallest in 26+ sessions)
+   - **Wildcard**: if jobless claims print very weak today (>400K) → yields could ease ~5–10bps → RTX gate potentially clears
+   - RTX price: ~$193.54 (Sep 17 close) — need live price check at open; if ≤$193, 1 whole share passes size gate; if >$193, fractional only (fixed-stop fallback)
+   - **Actionable trigger**: 10Y ≤ 5.20% AND S&P flat-to-positive AND RTX spread <0.5% AND price ≤$193 → market buy 1 share, then trailing_stop 10% GTC
+   - Entry: ~$193 (1 share), Stop: ~$173.70 (10% trailing GTC), Target: +16% (~$224), R:R ~1.6:1
+   - Catalyst: $22.9B Navy contract + Iran conflict ongoing + Oct 21 earnings + defense sector resilience
+
+2. **JPM — Pre-earnings setup (5 days to Oct 13 earnings)**
+   - Gate 18bps away — unlikely to clear without extraordinary data surprise
+   - If claims very weak AND 10Y dips to ≤5.20%, reassess whether to enter fractional JPM with fixed stop
+   - At ~$330, fractional share only (fixed stop, no trailing stop)
+   - Watch only until Oct 13 earnings approach or yield clears gate
+   - Catalyst: Q3 earnings Oct 13 + Q4 seasonal financials tailwind + NIM expansion thesis
+
+3. **No additional ideas** — energy permanently off; tech/semis not in active sector list; patience > activity
+
+### Risk Factors
+- **10Y yield ~5.28%**: Hawkish FOMC minutes confirmed; yield at multi-decade highs; further easing not guaranteed
+- **FOMC hawkish stance**: "At least one more hike before year-end" = December hike probability rising; any hike confirmation widens gates further
+- **Weekly jobless claims (8:30 AM ET)**: Main intraday catalyst; if inline (consensus ~230K) = no yield relief = HOLD confirmed
+- **RTX price gate**: At ~$193.54, barely above the $193 size limit; if RTX opens >$193, forces fractional + fixed-stop; spread still needs live verification at open
+- **JPM pre-earnings risk**: A miss on Oct 13 (with XLF already −8% YTD) = financials thesis setback; adds pressure to JPM entry timing
+- **Complacency**: Nasdaq ATH + VIX low + rising rates = historically unstable combination
+- **PDT**: 0/3 day trades used; any entry must hold overnight (swing trade)
+- **Energy permanently off**: WTI $91; no re-entry trigger
+
+### Decision
+**HOLD** — Both yield gates still fail; FOMC minutes confirmed hawkish stance
+
+- RTX gate (5.20%): 10Y ~5.28% — fails by ~8bps
+- JPM gate (5.10%): 10Y ~5.28% — fails by ~18bps
+- Gates are closest they've been in 26+ sessions, but hawkish minutes provide no relief catalyst
+- **Only live trigger today**: Jobless claims (8:30 AM ET) — very weak print (>400K) could ease yields enough to clear RTX gate; monitor at 8:30 AM via midday scan
+
+**Week of Oct 5**: 0/5 trades (1 day remaining Friday Oct 9 if gate clears today)
+**40th consecutive session without a trade since inception** (Aug 29, 2026)
+**Next hard catalyst**: JPM Q3 earnings Oct 13 — regardless of yield gates, this is the week's defining event
