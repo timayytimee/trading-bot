@@ -320,3 +320,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 26th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-06), no positions, no open orders. Week of Oct 5: 0/5 trades. 10Y yield ~5.28% (per latest data Oct 2–5), still above both the financials gate (≤5.10%) and defense gate (≤5.20%) — all entries blocked. S&P 500 has been resilient near recent highs (~7,700+), but the yield ceiling is the binding constraint. JPM earnings Oct 13 remains the single most important near-term catalyst — a strong beat with forward NIM expansion guidance could drive a rate-decoupling move in financials regardless of yield level. RTX/defense thesis intact (US-Iran conflict ongoing, $289B backlog, Oct 21 earnings). Energy permanently deactivated (WTI below $97). Cash preservation is correct with 6 days until JPM earnings. Week of Oct 5: 0/5 trades. Tomorrow: morning yield check — any move below 5.20% opens the RTX gate first; below 5.10% opens JPM/financials. Pre-earnings positioning in JPM possible if yield cooperates Thu–Fri before the Oct 13 print.
+
+---
+
+### Oct 08 — EOD Snapshot (Day 27, Thursday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 27th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-07), no positions, no open orders. Week of Oct 5: 0/5 trades. Yield gates still binding: 10Y at ~5.28–5.34%, above both the financials (≤5.10%) and defense (≤5.20%) entry thresholds. JPM earnings Oct 13 (5 days away) is the single most important near-term catalyst — a strong beat with NIM expansion guidance could drive a rate-decoupling move in financials. Pre-earnings positioning window narrowing: last viable entry day with buffer would be Mon–Tue Oct 12–13 pre-market if yield cooperates. RTX/defense thesis intact (US-Iran conflict ongoing, $289B backlog, Oct 21 earnings). Energy permanently deactivated. Cash preservation correct. Week of Oct 5: 0/5 trades. Tomorrow (Oct 9 — pre-market research focus): morning yield check — RTX gate opens below 5.20%, JPM/financials gate opens below 5.10%; pre-earnings JPM entry possible if yield breaks toward gate this week.
