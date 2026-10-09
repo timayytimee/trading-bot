@@ -151,3 +151,13 @@ Gates check:
   10Y yield 5.26% — financials gate (≤5.10%) ✗, defense gate (≤5.20%) ✗
 
 Tomorrow: watch 10Y for pull-back toward 5.10%; JPM earnings Oct 13 is next key catalyst
+
+---
+## 2026-10-09 EOD (Telegram 403 — fallback)
+EOD 2026-10-09
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none
+Open positions: none
+Week of Oct 5 final: 0/5 trades
+Tomorrow: JPM earnings Mon Oct 13 — primary catalyst. Pre-mkt entry if 10Y ≤5.10% + S&P flat-to-positive + JPM 30-min consolidation. RTX gate opens at 10Y ≤5.20%.
