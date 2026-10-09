@@ -2626,3 +2626,25 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - Thu Oct 15 AM: PPI September → secondary inflation confirmation
 - If both CPI + PPI soft AND yields ease toward 5.20% by Oct 15–16 → RTX entry window with Oct 21 earnings as pre-positioning catalyst
 - **Patience > activity. Zero trades again today is correct.**
+
+### Midday Addendum (Oct 09 — midday scan, ~12:10 PM ET / 16:10 UTC)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live Alpaca)**: Equity $772.02 | Cash $772.02 | BP $772.02 | daytrade_count: 0
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **10Y Treasury yield**: ~5.30% (consistent with Oct 8 close; no significant relief from UMich data)
+  - RTX gate (≤5.20%): ✗ FAILS by ~10bps
+  - JPM gate (≤5.10%): ✗ FAILS by ~20bps
+  - No yield-clearing catalyst materialized today — Waller hawkish Oct 8 + FOMC minutes Oct 7 dominate direction
+- **S&P 500**: ~7,790–7,810 range; approaching record highs; market tone broadly constructive
+- **UMich Consumer Sentiment prelim (10:00 AM ET)**: Exact print unconfirmed via search; no dramatic market reaction to suggest major miss or beat; yield unchanged suggests inline-to-slight-miss read
+- **RTX (live estimate)**: ~$197–198; above $193 position size limit → fractional only + fixed-stop fallback (same constraint as Oct 7–8)
+- **JPM (live estimate)**: ~$330–333; above $193 limit; Q3 earnings Monday Oct 13 pre-mkt (4 days)
+- **Gate re-eval (midday Oct 9)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing)
+  - (b) S&P flat-to-positive: ✓ (~7,800+, record highs approach)
+  - (c) 10Y yield ≤ 5.20% (RTX): ✗ (~5.30% — fails by ~10bps)
+  - (c) 10Y yield ≤ 5.10% (JPM): ✗ (~5.30% — fails by ~20bps)
+  - (d) 30-min consolidation: N/A — yield gate blocking both
+- **HOLD confirmed**: Both yield gates fail. No action warranted. No Telegram notification (no action taken).
+- **Week of Oct 5 final**: 0/5 trades. 28th consecutive session at $772.02 since inception.
+- **Critical week ahead**: JPM Q3 earnings Mon Oct 13 pre-mkt → CPI Sep Wed Oct 14 → PPI Sep Thu Oct 15. JPM beat + soft CPI could open JPM entry gate (Oct 14 post-earnings). RTX gate requires yield to pull back to ≤5.20% — CPI soft print is the most likely catalyst.
