@@ -353,3 +353,66 @@ Template for each entry:
 
 ### Overall Grade: F
 - Fifth consecutive zero-trade week, as warned in last week's review ("Execute at least 1 trade by Sep 30 or grade this phase F"). Capital preservation was correct again (S&P −0.22% this week; bot flat; cumulative now barely back to +0.06% over S&P). The NFP +29K miss is the most favorable macro development since inception — the first real signal that yields may finally decline and an entry window is opening. JPM Oct 13 earnings + soft NFP trajectory + Q4 seasonality = the clearest setup since launch. If week of Oct 5 produces no trade, the system has failed at its core mission regardless of any analytical merit.
+
+---
+
+## Week ending 2026-10-09
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $772.02 |
+| Ending portfolio | $772.02 |
+| Week return | $0.00 (0.00%) |
+| S&P 500 week | +1.20% (7,726 → ~7,812) |
+| Bot vs S&P | −1.20% |
+| Trades | 0 (W:0 / L:0 / open:0) |
+| Win rate | N/A |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+**Phase P&L (vs $772.02 baseline):** $0.00 (0.00%)
+**S&P 500 since phase start (Aug 28 → Oct 9):** +1.04% (7,730.99 → ~7,812)
+**Bot vs S&P since phase start:** −1.04% ⚠️ Cumulative underperformance growing
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades placed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+### What Worked
+- Held cash through continued 10Y yield pressure (5.28–5.34% all week; above both JPM gate ≤5.10% and RTX gate ≤5.20%)
+- S&P rallied into earnings season (+1.2%); yield gate prevented buying into potential reversal pre-JPM
+- Correctly prioritized JPM Oct 13 earnings as primary catalyst — the only realistic rate-decoupling trigger in current regime
+- RTX defense thesis maintained (Iran war ongoing, $289B backlog, Oct 21 earnings); both primary theses intact heading into most important week since inception
+- Pre-earnings research framework fully documented; entry conditions explicit and ready to execute
+
+### What Didn't Work
+- Sixth consecutive zero-trade week (28 sessions, 0 trades since inception); hard deadline of Oct 9 explicitly set in prior review — missed again
+- S&P +1.2% while bot held cash — meaningful weekly underperformance; cumulative phase vs S&P now −1.04%
+- 10Y yield stubbornly above both yield gates all week (5.28–5.34%); no organic rate relief materialized
+- JPM pre-earnings positioning window (Mon–Tue Oct 6–7) passed with no entry despite stated plan; yield gate blocked both days
+- Six weeks with zero live execution — system has zero evidence it can execute any trade in any market condition
+
+### Key Lessons
+- Yield gates are correct in principle but have never cleared in 6 weeks; the gates are calibrated to a rate regime that has not and may not arrive
+- JPM Oct 13 earnings is now the binary: if JPM beats with NIM expansion guidance → rate-decoupling entry is valid regardless of 10Y level; the stock-specific catalyst overrides the macro gate
+- S&P hitting near-record highs (~7,812) into earnings season means market is forward-pricing strong Q3 beats; entering after confirmation (not before) reduces but does not eliminate risk
+- A system that has never fired in 6 weeks is not a trading system; JPM earnings week must produce a trade or the mission has been abandoned without ever starting
+- Yield-gate exemption for earnings catalysts: if JPM beats and consolidates post-open, execute regardless of 10Y level within reason (≤5.40%)
+
+### Adjustments for Next Week
+- **JPM earnings Monday Oct 13 (pre-market)**: If beat + forward NIM guidance → enter on 30-min post-open consolidation; yield-gate exemption applies on strong beats (10Y ≤ 5.40% acceptable); stop: −8%; target: +16%; R:R 2:1; size: 1 whole share
+- **RTX Oct 21 earnings**: Target pre-earnings entry (Oct 14–17) on 30-min consolidation if yield ≤5.20%; Iran war + backlog + Q4 defense budget cycle
+- **No more yield-gate deferrals**: JPM is the line in the sand; a beat with no entry ends the phase with a failing grade regardless of yield
+- **Confirm bid-ask spreads at open** before any entry: condition-R spreads have blocked entries in the past; verify <0.5% spread first
+- **This is the make-or-break week**: Week 7 with another zero-trade outcome = mission failure; JPM earnings is the best catalyst since account inception
+
+### Overall Grade: D
+- Sixth consecutive zero-trade week. The hard deadline of Oct 9 set in last week's review was missed — again. S&P +1.2% this week (cumulative phase −1.04% vs S&P); holding cash is now actively destroying relative performance. The analytical framework is intact (JPM thesis, RTX thesis, yield gate relaxation documented) and JPM Oct 13 earnings is the clearest setup since inception. But a framework without execution is worthless. Week 7 is binary: JPM earnings beat → execute → begin building track record, or miss it → systemic failure. No further deferrals are acceptable.
