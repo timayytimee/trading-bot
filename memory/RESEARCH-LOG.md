@@ -2540,3 +2540,89 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **HOLD confirmed**: All gates failing. Waller hawkish comments today actively widen RTX/JPM yield gates. No qualifying setup. Cash preserved.
 - **Week of Oct 5 final (effective)**: 0/5 trades. 27th consecutive session at $772.02 since inception.
 - **Next catalyst**: JPM Q3 earnings Oct 13 — primary near-term event regardless of yield gate status. CPI Sep 2026 due Oct 14. FOMC Oct 27–28.
+
+---
+
+## 2026-10-09 — Pre-market Research
+
+### Account
+- Equity: $772.02 | Cash: $772.02 | BP: $772.02
+- Daytrade count: 0 | balance_asof: 2026-10-08
+- Open positions: 0 | Open orders: 0
+- Max position size: ~$193 (25% of $772.02)
+- Week of Oct 5: 0/5 trades used (Day 5 — Friday, final day of week)
+- 28th consecutive trading session at $772.02 (0 trades since inception Aug 29)
+
+### Market Context
+- **WTI**: ~$93–96/bbl (deactivated; below $97 gate); **Brent**: ~$99–101/bbl (Kalshi: ~69% probability Brent >$99.99 at 5PM EDT today; Hormuz near pre-war volumes; no new structural supply event)
+- **Energy thesis**: PERMANENTLY DEACTIVATED — WTI below $97 for 15+ consecutive sessions; no re-entry trigger
+- **S&P 500**: Closed ~7,790 Thursday (−0.14%); pre-market direction unclear; Nasdaq ATH confirmed Oct 5; market grinding higher but rate pressure building
+- **VIX**: ~14–16 (low fear; Nasdaq ATH environment; complacency watch)
+- **10Y Treasury yield**: ~5.30% (rising; RTX gate FAILS by ~10bps; JPM gate FAILS by ~20bps)
+  - **Oct 7**: 5.307–5.32% (24-year high) as markets digested $39B note auction + FOMC minutes
+  - **FOMC Sep 15–16 minutes (released Oct 7)**: CONFIRMED HAWKISH — "most participants see at least one more hike before year-end"; AI-demand inflation risk cited; December hike odds elevated
+  - **Oct 8**: Fed Governor Waller stated "more hikes needed" → 10Y rose to ~5.30% (gates widening vs. yesterday)
+  - RTX gate (≤5.20%): ✗ FAILS by ~10bps; JPM gate (≤5.10%): ✗ FAILS by ~20bps
+  - No reversal catalyst visible; hawkish signals actively pressing yield higher
+- **Today's dominant catalyst — UMich Consumer Sentiment (prelim, 10:00 AM ET)**
+  - A very weak reading could nudge yields modestly; but Waller comments from Oct 8 dominate direction
+  - No other major scheduled data releases today
+- **Earnings before open today**: No market-moving names; Finance Calendar shows no events for Oct 9 (typical light Friday pre-earnings season)
+- **Economic calendar — critical week ahead**:
+  - Mon Oct 13: **JPM Q3 2026 earnings (before market open)** — PRIMARY near-term catalyst
+  - Wed Oct 14: CPI September 2026 (BLS, 8:30 AM ET) — key inflation data for FOMC
+  - Thu Oct 15: PPI September 2026 (BLS, 8:30 AM ET)
+  - Tue Oct 21 (est.): RTX Q3 earnings
+  - Oct 27–28: FOMC rate decision
+- **Sector momentum (as of early Oct 2026)**:
+  - Leading YTD: XLE +40% (deactivated for us), XLK +30% (not our sector)
+  - Only energy sector rose in September; 10 of 11 sectors fell September
+  - Financials (XLF): −8%+ YTD — significantly underperforming vs. Q4 seasonal thesis
+  - Defense: RTX +14% past month (Zacks), +20% YTD; sector resilient despite yield pressure
+- **Watchlist news**:
+  - **JPM Q3 2026 earnings (Oct 13 pre-mkt)**: Consensus EPS ~$5.88 (vs $5.07 year-ago Q3, +16% YoY); revenue ~$50.8B. Focus: NIM guidance, IB/trading revenue sustainability, credit quality, FY26 expense outlook. Q2 beat was large ($6.14 vs $5.59 est, +9.8%). At ~$330, fractional only (fixed-stop fallback; no trailing stop on fractional). Note: ex-dividend Oct 6 ($1.65 gap-down already absorbed).
+  - **RTX Q3 2026 earnings (Oct 21 est.)**: Oct 1 news — awarded $24.4B multi-year SM-6 interceptor contract (Navy); Aug 17 — $22.9B Tomahawk cruise missile contract. RTX +20% YTD. Analyst price targets $220–230. FY26 guidance: EPS $6.60–$6.80 on sales $92–93B. Spread normalized ~0.19% midday Oct 6. Price ~$193–198 range (live check required at open — if >$193, fractional only + fixed-stop fallback).
+
+### Trade Ideas
+
+1. **RTX — Conditional watch, 10bps from gate (most actionable)**
+   - 10Y needs ≤5.20%; currently ~5.30% — gap of ~10bps (smallest gap in sessions 1–28 but no improving trend)
+   - **Actionable trigger**: UMich very weak (major miss, <55) + yields ease toward 5.20% → RTX gate potentially clearing; otherwise HOLD
+   - Entry: ~$193–198 (1 whole share if ≤$193; fractional + fixed stop if >$193); 10% trailing stop GTC; Target: +16% (~$224); R:R ~1.6:1
+   - Catalyst: SM-6 $24.4B contract + Iran conflict unresolved + Oct 21 earnings + defense spending resilience
+   - Risk: yield active headwind; Waller hawkish Oct 8; buying before Oct 21 earnings = binary event
+   - **Pre-conditions for entry (all must pass)**: 10Y ≤5.20% ✗ (blocking), S&P flat-to-positive, RTX spread <0.5%, RTX 30-min consolidation above prior close
+
+2. **JPM — Post-earnings setup (NOT pre-earnings entry today)**
+   - JPM gate 20bps away and will not clear today barring extraordinary data shock
+   - **Post-earnings thesis (Oct 14 morning)**: If Oct 13 Q3 beats on EPS + raises NIM guidance → enter Oct 14 on gap-and-hold (30-min consolidation rule) — even with elevated yield, a strong NIM beat could drive rate-decoupling move for financials
+   - Risks: CPI Oct 14 (same morning as post-earnings entry — dual binary risk); XLF −8% YTD suggests sector headwinds; fractional only at ~$330 → fixed-stop required
+   - **Today**: Do not enter JPM pre-earnings; binary risk with no catalyst to clear yield gate
+
+3. **No additional ideas** — Energy permanently off; tech/semis not in active sector rotation
+
+### Risk Factors
+- **10Y yield ~5.30% and actively rising**: Waller "more hikes needed" Oct 8 + hawkish FOMC minutes Oct 7 — two consecutive hawkish catalysts widening gates; no relief catalyst in sight before CPI Oct 14
+- **December FOMC hike probability rising**: "At least one more hike" from minutes = December hike increasingly priced; could push 10Y toward 5.50%; gates may widen further
+- **JPM earnings Oct 13 = binary event**: Pre-earnings entry today = overnight gap risk through Monday; avoid entry ahead of print
+- **CPI Oct 14 immediately after JPM**: Even a JPM beat could be reversed by hot CPI same morning; double binary in 48-hour window
+- **XLF −8% YTD underperformance**: Q4 seasonal thesis not yet materializing; financials lagging the broad market
+- **RTX price boundary**: ~$193–198 range; if >$193 at open → fractional only → no trailing stop available (must use fixed stop with specific stop_price)
+- **Friday liquidity**: Lower-volume day + pre-JPM-earnings uncertainty = choppy, potentially false signals
+- **PDT**: 0/3 day trades used; any entry must be swing trade (hold overnight)
+
+### Decision
+**HOLD** — Yield gates blocked; both entry conditions fail; no actionable trigger today
+
+- **RTX gate** (10Y ≤5.20%): ✗ FAILS by ~10bps; Waller hawkish (Oct 8) and FOMC minutes (Oct 7) making relief unlikely today
+- **JPM gate** (10Y ≤5.10%): ✗ FAILS by ~20bps; pre-earnings binary risk adds further reason to avoid today
+- **UMich** at 10:00 AM ET is the only potential surprise catalyst; an extreme miss might ease yields ~5bps but insufficient alone to clear RTX gate by 10bps
+- **No positions to cut, tighten, or monitor** — full cash
+- **Week of Oct 5 final**: 0/5 trades; 28th consecutive session at $772.02 since inception
+
+**Upcoming decision tree (next 5 sessions):**
+- Mon Oct 13 AM: JPM Q3 results → if beat + NIM guidance raised → assess Oct 14 post-earnings entry in JPM (30-min consolidation, fractional + fixed stop, only if S&P not cratering)
+- Wed Oct 14 AM: CPI September → if soft + yields ease toward 5.10% → JPM gate reopens; if hot → all gates widen further and FOMC hike Nov/Dec re-priced
+- Thu Oct 15 AM: PPI September → secondary inflation confirmation
+- If both CPI + PPI soft AND yields ease toward 5.20% by Oct 15–16 → RTX entry window with Oct 21 earnings as pre-positioning catalyst
+- **Patience > activity. Zero trades again today is correct.**
