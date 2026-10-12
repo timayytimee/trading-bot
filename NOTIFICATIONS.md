@@ -161,3 +161,13 @@ Trades today: none
 Open positions: none
 Week of Oct 5 final: 0/5 trades
 Tomorrow: JPM earnings Mon Oct 13 — primary catalyst. Pre-mkt entry if 10Y ≤5.10% + S&P flat-to-positive + JPM 30-min consolidation. RTX gate opens at 10Y ≤5.20%.
+
+---
+## 2026-10-12 EOD UTC (Telegram 403 — bot blocked)
+EOD 2026-10-12
+Portfolio: $772.02 (+0.00% day, +0.00% phase)
+Cash: $772.02 (100%)
+Trades today: none | Week of Oct 12: 0/5
+Open positions: none
+Columbus Day: bond mkt closed, stocks open; no 10Y yield data; last known 10Y ~5.24% (blocks JPM ≤5.10% and RTX ≤5.20% gates)
+Tomorrow (Oct 13): JPM/GS/WFC/C earnings pre-mkt — primary catalyst week. If JPM beats + CPI soft (Wed Oct 14) → fractional JPM entry viable on 30-min consolidation. Full HOLD until gates clear.
