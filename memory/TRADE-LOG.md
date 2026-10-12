@@ -342,3 +342,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 28th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-08), no positions, no open orders. Week of Oct 5 final: 0/5 trades. End of week 6 since inception; all weeks remain trade-free. Yield gates still binding: 10Y last confirmed at ~5.28–5.34%, above both the financials gate (≤5.10%) and defense gate (≤5.20%) — all entries blocked. JPM earnings Monday Oct 13 is the single most important near-term catalyst — a strong beat with forward NIM expansion guidance could force a rate-decoupling move in financials. Pre-earnings JPM entry window opens Mon AM if yield cooperates (cooperate = 10Y pulls toward or below 5.10%). RTX/defense thesis intact (US-Iran ongoing, $289B backlog, Oct 21 earnings). Energy permanently deactivated (WTI below $97 since Sep 24). Portfolio: $772.02 cash (100%). Week of Oct 12 opens Monday with 0/5 fresh cap; JPM earnings play is the primary trade scenario for the week ahead.
+
+---
+
+### Oct 12 — EOD Snapshot (Day 29, Monday — Columbus Day)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 29th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirmed equity $772.02 (balance_asof 2026-10-09), no positions, no open orders. Columbus Day — US stock markets open, bond market closed; no 10Y yield data today. Week of Oct 12: 0/5 trades. Yield gates blocked: 10Y last confirmed ~5.24% (Oct 9 close); RTX gate (≤5.20%) fails by ~4bps; JPM gate (≤5.10%) fails by ~14bps. No pre-earnings JPM entry (binary earnings risk + gate failed). S&P pre-market +0.1–0.3%, approaching all-time highs — market constructive but no actionable setup without yield relief. HOLD is correct. Critical week ahead: JPM/GS/WFC/C earnings Tue Oct 13 pre-mkt → CPI Sep Wed Oct 14 → PPI Thu Oct 15. If JPM beats AND CPI soft → JPM fractional entry viable Oct 14 (30-min consolidation, fixed stop). If CPI hot → gates widen again, full HOLD maintained. RTX Oct 20 earnings still in pre-positioning window if yield eases below 5.20% this week.
