@@ -2729,3 +2729,21 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **Thu Oct 15 AM (PPI)**: Secondary inflation data; soft PPI after soft CPI → yields may approach gates; hot PPI reinforces hold
 - **Mon Oct 20 (RTX earnings)**: If yield gate clears by Oct 17–19 → pre-earnings RTX entry possible (final window before print)
 - **Patience > activity. Zero trades again today is correct. Yield improvement (5.30 → 5.24%) is encouraging — first real gate progress in 2 weeks.**
+
+### Midday Addendum (Oct 12 — midday scan, ~12:14 PM ET / 16:14 UTC)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live Alpaca)**: Equity $772.02 | Cash $772.02 | BP $772.02
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+- **10Y Treasury yield**: Bond market CLOSED (Columbus Day); yield frozen at Oct 9 close ~5.24%
+  - RTX gate (≤5.20%): ✗ FAILS by ~4bps (no new data; status unchanged)
+  - JPM gate (≤5.10%): ✗ FAILS by ~14bps (no new data; status unchanged)
+- **S&P 500**: Near record highs (~7,810–7,879); market constructive; low-volume Columbus Day session
+- **Step 6 intraday research**: No significant intraday developments found; bond market closure means no yield catalyst today; market quiet pre-earnings
+- **Gate re-eval (midday Oct 12)**:
+  - (a) Iran conflict not resolved: ✓ (ongoing)
+  - (b) S&P flat-to-positive: ✓ (near record highs)
+  - (c) 10Y yield ≤5.20% (RTX): ✗ (~5.24% frozen — bond market closed)
+  - (c) 10Y yield ≤5.10% (JPM): ✗ (~5.24% frozen — bond market closed)
+- **HOLD confirmed**: Both yield gates fail; no action warranted; no Telegram notification
+- **Week of Oct 12**: 0/5 trades. 29th consecutive session at $772.02 since inception.
+- **Critical next 48 hours**: JPM/GS/WFC/C Q3 earnings Tue Oct 13 pre-mkt → CPI Sep Wed Oct 14 8:30 AM ET. JPM beat + NIM guidance raise → assess Oct 14 post-earnings fractional entry IF CPI not a blowout. Yield relief on soft CPI could finally clear RTX gate (≤5.20%) for pre-earnings RTX entry Oct 16–17.
