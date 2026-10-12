@@ -2648,3 +2648,84 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **HOLD confirmed**: Both yield gates fail. No action warranted. No Telegram notification (no action taken).
 - **Week of Oct 5 final**: 0/5 trades. 28th consecutive session at $772.02 since inception.
 - **Critical week ahead**: JPM Q3 earnings Mon Oct 13 pre-mkt → CPI Sep Wed Oct 14 → PPI Sep Thu Oct 15. JPM beat + soft CPI could open JPM entry gate (Oct 14 post-earnings). RTX gate requires yield to pull back to ≤5.20% — CPI soft print is the most likely catalyst.
+
+---
+
+## 2026-10-12 — Pre-market Research (Columbus Day — Day 29)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: 0 | Open orders: 0
+- Week of Oct 12: 0/5 trades (fresh cap)
+- 29th consecutive session at $772.02 since inception Aug 29
+
+### Market Context
+- **WTI / Brent**: WTI ~$91/bbl; Brent ~$102/bbl (Oct 5 last confirmed); energy thesis PERMANENTLY DEACTIVATED (WTI below $97 gate, no structural new supply event)
+- **S&P 500**: Closed Oct 9 at 7,811.54 (+0.59%), +1.2% for the week; pre-market futures +0.1–0.3% (~7,879); approaching all-time highs; NYSE/Nasdaq OPEN today (Columbus Day — stocks trade, bond market CLOSED)
+- **VIX**: ~14–16 range (low fear; market grinding to record highs; complacency watch)
+- **10Y Treasury yield**: ~5.24% (Oct 9 close per Forbes/StreetStats) — meaningfully improved from 5.30–5.34% range seen Oct 5–8; bond market CLOSED today (Columbus Day) → no new yield data until tomorrow
+  - Yield improvement narrative: Oct 9 close 5.24% vs Oct 8 close ~5.22–5.28%; eased ~6–10bps from Oct 5 peak of ~5.31%
+  - RTX gate (≤5.20%): ✗ FAILS by ~4bps (dramatically closer than the 10bps gap on Oct 9 midday)
+  - JPM gate (≤5.10%): ✗ FAILS by ~14bps (improved from ~20bps gap)
+  - Fed: CME FedWatch ~80% odds Fed holds at next meeting; CPI Oct 14 is the next swing factor
+- **Today's catalysts**: Columbus Day — light volume, bond market closed; no major earnings or economic releases; market in "calm before the storm" ahead of earnings avalanche starting tomorrow
+- **Earnings before open today**: None of significance (ACZT and other micro-caps only)
+- **Economic calendar — critical week**:
+  - Tue Oct 13: JPMorgan (JPM), Goldman Sachs (GS), Wells Fargo (WFC), Citigroup (C) — all pre-market; JPM call 8:30 AM ET; S&P 500 Q3 EPS growth est. +29.6% (FactSet)
+  - Wed Oct 14: **CPI September 2026 (8:30 AM ET)** — consensus headline 3.6% YoY (up from 3.4%); HOT print likely; key FOMC input; same morning as post-JPM-earnings setup window
+  - Thu Oct 15: PPI September 2026 (8:30 AM ET)
+  - Mon Oct 20: RTX Q3 earnings (pre-market; confirmed Oct 20, not Oct 21 as in prior log)
+  - Oct 27–28: FOMC rate decision
+- **Sector momentum**:
+  - Financials (XLF): -8% YTD; Q4 seasonal thesis not yet materialized; JPM Q3 is the critical catalyst
+  - Defense (RTX): -5.95% since last earnings; BNP Paribas cut PT to $215 (from $265, Outperform retained Oct 6); $6.3B missile contract ~Oct 8 (additional to Sep $24.4B SM-6 award); Oct 20 earnings
+  - Energy (XLE): PERMANENTLY DEACTIVATED
+- **JPM specific**: Q3 consensus EPS $5.93 (12 analysts, AlphaStreet); revenue $51.19–51.23B; implied move ±4.4%; Q2 boosted by one-time items ($7.9B Visa gain) — Q3 "clean" quarter; bar is +17% EPS growth YoY; NIM guidance and credit quality are key watch items
+- **RTX specific**: Oct 20 earnings; price ~$193–198 (if >$193 → fractional only + fixed-stop fallback); $289B backlog; US-Iran conflict ongoing; -5.95% since last earnings (value opportunity IF yield gate clears)
+
+### Trade Ideas
+
+1. **JPM — Post-earnings entry tomorrow (Oct 14), NOT today**
+   - JPM gate (10Y ≤5.10%): ✗ FAILS by ~14bps — no pre-earnings entry today
+   - If Oct 13 pre-mkt beats on EPS AND raises NIM guidance → assess Oct 14 gap-and-hold (30-min consolidation, fractional + fixed stop)
+   - BUT: CPI Oct 14 at 8:30 AM (same morning) = dual binary risk; only enter if CPI simultaneously not a blowout hot print
+   - Entry: fractional (JPM ~$330–345); fixed stop at 7–8% below entry; target +15%; R:R ~1.9:1
+   - Catalyst: Q3 earnings beat + NIM expansion signal + Q4 seasonality tailwind
+
+2. **RTX — Conditional watch, gate 4bps away (most actionable for this week)**
+   - RTX gate (10Y ≤5.20%): ✗ FAILS by ~4bps — bond market closed today, no yield movement
+   - If CPI Oct 14 soft OR yields ease early Tuesday → gate could finally clear
+   - Entry: 1 whole share if ≤$193; fractional + fixed stop if >$193; 10% trailing stop GTC (if whole shares); Target: +16% (~$224); R:R ~1.6:1
+   - Catalyst: $289B backlog + $6.3B contract Oct 8 + $24.4B SM-6 Sep + Iran ongoing + Oct 20 earnings pre-positioning
+   - Pre-conditions: 10Y ≤5.20% ✗, S&P flat-to-positive ✓ (pre-mkt +0.1–0.3%), RTX spread <0.5%, 30-min consolidation above prior close
+
+3. **No other ideas** — Energy deactivated; no other sectors in active thesis
+
+### Risk Factors
+- **CPI Oct 14 consensus = HOT** (3.6% YoY, up from 3.4%): if confirmed, yields could re-spike to 5.30%+; gates widen further; all entries blocked again
+- **JPM ±4.4% binary event tomorrow**: any pre-earnings entry today carries full gap risk; gap-down on miss = immediate -4% loss before stop activates
+- **Bond market closed today**: no yield signal; RTX gate status frozen at 5.24% until tomorrow
+- **RTX BNP PT cut to $215 (from $265)**: 18% cut is notable; though remains Outperform, suggests some headwinds priced in
+- **RTX -5.95% since last earnings**: either value opportunity OR sustained downtrend; Oct 20 earnings is next binary event (8 days)
+- **Dual binary Oct 14**: JPM post-earnings AND CPI same morning = extremely high risk to enter the night before
+- **Small account**: $772; $193 max/position; 0 PDT trades used; any entry must be swing trade
+- **CPI + JPM overlap**: entering JPM on Oct 13 night → CPI hits Oct 14 AM → double knockout scenario if both are adverse
+
+### Decision
+**HOLD** — Both yield gates blocked; bond market closed (Columbus Day); no actionable setup today
+
+- **RTX gate** (10Y ≤5.20%): ✗ FAILS by ~4bps; bond market CLOSED; no new yield data today; yield frozen at Oct 9 close of ~5.24%
+- **JPM gate** (10Y ≤5.10%): ✗ FAILS by ~14bps; pre-earnings binary risk tomorrow adds additional reason to avoid today
+- **S&P**: +0.1–0.3% pre-market (positive — gate condition ✓ once market opens)
+- **No positions to cut, tighten, or monitor** — full cash
+
+**Decision tree this week:**
+- **Tue Oct 13 AM (JPM earnings)**: Beat on EPS + NIM guidance raised → assess Oct 14 post-earnings gap-and-hold IF CPI not blowout
+- **Wed Oct 14 AM (CPI + post-JPM)**: Soft CPI (≤3.5% or below consensus 3.6%) → yields could ease, JPM/RTX gate status improved → assess JPM fractional entry; Hot CPI → gates widen, full HOLD maintained
+- **Thu Oct 15 AM (PPI)**: Secondary inflation data; soft PPI after soft CPI → yields may approach gates; hot PPI reinforces hold
+- **Mon Oct 20 (RTX earnings)**: If yield gate clears by Oct 17–19 → pre-earnings RTX entry possible (final window before print)
+- **Patience > activity. Zero trades again today is correct. Yield improvement (5.30 → 5.24%) is encouraging — first real gate progress in 2 weeks.**
