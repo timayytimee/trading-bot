@@ -2747,3 +2747,74 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 - **HOLD confirmed**: Both yield gates fail; no action warranted; no Telegram notification
 - **Week of Oct 12**: 0/5 trades. 29th consecutive session at $772.02 since inception.
 - **Critical next 48 hours**: JPM/GS/WFC/C Q3 earnings Tue Oct 13 pre-mkt → CPI Sep Wed Oct 14 8:30 AM ET. JPM beat + NIM guidance raise → assess Oct 14 post-earnings fractional entry IF CPI not a blowout. Yield relief on soft CPI could finally clear RTX gate (≤5.20%) for pre-earnings RTX entry Oct 16–17.
+
+---
+
+## 2026-10-13 — Pre-market Research
+
+### Account
+- Equity: $772.02 | Cash: $772.02 | Buying power: $772.02
+- Positions: 0 | Open orders: 0
+- Daytrade count: 0 | Week of Oct 12: 0/5 trades
+- Balance as of: 2026-10-12
+
+### Market Context
+- **WTI / Brent**: ~$72-75 / ~$77-78 (June 2026 latest confirmed; energy thesis permanently deactivated since Sep 24)
+- **S&P 500 futures**: Near record highs (~7,800+); YTD +13.79% (Oct 2 close 7,722); ATH 7,798.99 (Aug 13)
+- **VIX**: ~24.33 (last confirmed Apr 2026; likely elevated given rate environment and earnings week)
+- **10Y Treasury yield**: ~5.24% (Oct 12 close; bond market closed Oct 12 Columbus Day → Oct 9 = 5.24%, up 2bps from 5.22%)
+  - JPM gate (≤5.10%): ✗ FAILS by ~14bps
+  - RTX gate (≤5.20%): ✗ FAILS by ~4bps
+- **Today's catalysts (Oct 13)**:
+  - JPM Q3 2026 earnings pre-mkt (~6:45 AM ET): Revenue $50.2B reported (MISS vs ~$51.2B consensus); EPS actual unconfirmed
+  - GS Q3 2026 earnings pre-mkt (~9:30 AM ET call): EPS consensus ~$16.42
+  - C (Citigroup) Q3 2026 earnings pre-mkt: reporting before open
+  - NFIB Small Business Optimism (Sep 2026): consensus 98.0 vs prior 98.7
+  - Fed speakers: Waller, Barkin, Collins
+  - Benzinga pre-earnings note: "Institutional Confidence in Banks Has Collapsed Ahead of Earnings"
+- **Earnings before open**: JPM, GS, C (all major banks)
+- **Economic calendar**:
+  - TODAY: NFIB small business optimism
+  - WED Oct 14 (8:30 AM ET): CPI September — consensus +3.6% YoY, +0.6% MoM; core +2.5% YoY ← BINARY EVENT
+  - THU Oct 15 (8:30 AM ET): PPI September
+  - FOMC next decision: Nov 4–5
+- **Sector momentum (YTD through Oct 2)**:
+  - Energy: +37.5% (thesis permanently off — WTI below $97 since Sep 24)
+  - Information Technology: +27.1%
+  - Health Care: +10.3%
+  - Communication Services: +4.0%
+  - Sep: Ten of eleven S&P sectors fell; rate-sensitive sectors worst
+
+### Yield Gate Status
+| Gate | Requirement | Current | Status |
+|------|-------------|---------|--------|
+| JPM/Financials | 10Y ≤5.10% | ~5.24% | ✗ FAILS −14bps |
+| RTX/Defense | 10Y ≤5.20% | ~5.24% | ✗ FAILS −4bps |
+
+### Trade Ideas
+1. **JPM fractional entry (post-earnings play)** — Catalyst: Q3 earnings report. BUT: revenue miss ($50.2B vs $51.2B consensus = ~$1B shortfall) weakens thesis; institutional confidence "collapsed" pre-earnings per Benzinga; yield gate ✗ by 14bps; CPI binary event tomorrow blocks pre-CPI entry. Entry/stop/target: N/A — gates not clear. R:R: N/A. **NOT ACTIONABLE TODAY.**
+
+2. **RTX pre-earnings position (Oct 16–19 entry window)** — Catalyst: US-Iran conflict ongoing (no ceasefire confirmed), $289B backlog, Oct 21 earnings approaching, rate-independent defense spending thesis. Gate: 10Y ≤5.20%; currently ~5.24% (4bps away — closest it's been since tracking began). Entry only if 10Y eases below 5.20% on soft CPI Oct 14. Entry ~$148–152, stop ~10% below entry (~$133–137), target +20% (~$178–182). R:R ~2:1. **CONDITIONAL — requires CPI soft + yield below 5.20%.**
+
+3. **JPM fractional entry (post-CPI, Oct 14–15 window)** — Catalyst: If CPI prints soft (≤3.5% or core <2.5%), yields ease; watch for JPM to hold/recover despite revenue miss; NIM expansion thesis intact if yield plateau confirmed. Entry ~$240–250, stop ~7-10% below, target +15-20%. **CONDITIONAL — requires CPI soft + 10Y ≤5.10% + JPM holding open/consolidating.**
+
+### Risk Factors
+- **JPM revenue miss** ($50.2B vs $51.2B): softens the financials sector catalyst; may weigh on JPM and XLF at open
+- **Institutional confidence in banks collapsed** (Benzinga) — sentiment headwind for any financials entry
+- **CPI Sep tomorrow** (Oct 14): consensus 3.6% YoY / core 2.5% — HOT print would widen yield gates further; no entry before CPI
+- **10Y yield at 5.24%**: RTX gate only 4bps away — any brief dip could open it, but CPI binary makes pre-CPI RTX entry risky
+- **Earnings volatility**: JPM/GS/C all reporting today — gap risk on any miss or guidance cut
+- **GS/C results unknown**: if GS or C also disappoint, broad financials selloff could materialize
+- **PDT rule**: 0 daytrades used; 3/5 days cap; swing trades preferred
+
+### Decision
+**HOLD** — Both yield gates blocked (JPM gate ✗ by 14bps, RTX gate ✗ by 4bps). JPM revenue miss ($50.2B vs ~$51.2B consensus) weakens the primary financials thesis. CPI Sep tomorrow at 8:30 AM ET is the next critical binary event — entering any position today means carrying binary CPI risk overnight. Patience > activity.
+
+**Next decision point**: CPI tomorrow (Oct 14, 8:30 AM ET)
+- Soft CPI (≤3.5% or core <2.5%) + yields ease below 5.20% → RTX entry viable Oct 14 post-report (30-min consolidation)
+- Soft CPI + 10Y eases below 5.10% → JPM fractional entry viable (if JPM stock recovering after today's revenue miss)
+- Hot CPI (>3.6% or core >2.5%) → yield gates widen further; HOLD through Oct 15 PPI minimum
+
+Week of Oct 12: 0/5 trades. 30th consecutive session at $772.02 since inception.
+
+---
