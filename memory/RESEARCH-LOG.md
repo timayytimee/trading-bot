@@ -2817,4 +2817,36 @@ Week of Sep 28 final: 0/5 trades (34th consecutive session without a trade since
 
 Week of Oct 12: 0/5 trades. 30th consecutive session at $772.02 since inception.
 
+### Midday Addendum (Oct 13 — midday scan, ~12:15 PM ET / 16:15 UTC)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live Alpaca)**: Equity $772.02 | Cash $772.02 | BP $772.02 | balance_asof 2026-10-12
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+
+**JPM Q3 2026 Earnings (reported pre-mkt today):**
+- Revenue: ~$50.2-50.9B (vs ~$51.2B consensus) → **MISS**
+- EPS: ~$5.57 GAAP / ~$5.75 adjusted (vs ~$5.93 consensus) → **MISS**
+- Net income: $15.3B | ROTCE: 20% — profits remain strong
+- IB fees: +14% YoY | Expenses: +12% to $27.3B (elevated)
+- $658M net investment securities losses
+- Stock: Negative reaction reported (TheStreet: "valuation wake-up call")
+- **Assessment**: Confirms pre-market thesis — JPM missed on both top line and EPS; weakens the financials catalyst. NIM expansion data not clearly disclosed in available transcripts. Institutional confidence "collapsed" per Benzinga pre-earnings note was accurate signal.
+
+**Yield / Market (midday):**
+- 10Y yield: ~5.24% (last confirmed Oct 9; bond market re-opened today — no fresh intraday data obtained)
+  - JPM gate (≤5.10%): ✗ FAILS by ≥14bps
+  - RTX gate (≤5.20%): ✗ FAILS by ≥4bps
+- S&P 500: No real-time data obtained; last confirmed near ~7,810 (near ATH)
+
+**Gate eval (midday Oct 13):**
+- Financials thesis: WEAKENED — JPM missed EPS + revenue; stock reacting negatively
+- Yield gates: Both blocked; no new yield data from bond market re-open yet
+- CPI tomorrow (Oct 14, 8:30 AM ET) remains the only binary event that can shift gates
+
+**HOLD confirmed** — No action warranted. JPM miss reinforces caution on financials entry even if CPI is soft. CPI decision tree unchanged:
+- Soft CPI (≤3.5% or core <2.5%) + 10Y eases below 5.20% → RTX pre-earnings entry viable Oct 14-17
+- Soft CPI + 10Y eases below 5.10% + JPM stock recovering → JPM fractional entry viable (lower conviction given EPS/rev miss)
+- Hot CPI → yield gates widen; HOLD through Oct 15 PPI minimum
+
+No Telegram notification — no action taken.
+
 ---
