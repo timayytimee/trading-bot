@@ -353,3 +353,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 29th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirmed equity $772.02 (balance_asof 2026-10-09), no positions, no open orders. Columbus Day — US stock markets open, bond market closed; no 10Y yield data today. Week of Oct 12: 0/5 trades. Yield gates blocked: 10Y last confirmed ~5.24% (Oct 9 close); RTX gate (≤5.20%) fails by ~4bps; JPM gate (≤5.10%) fails by ~14bps. No pre-earnings JPM entry (binary earnings risk + gate failed). S&P pre-market +0.1–0.3%, approaching all-time highs — market constructive but no actionable setup without yield relief. HOLD is correct. Critical week ahead: JPM/GS/WFC/C earnings Tue Oct 13 pre-mkt → CPI Sep Wed Oct 14 → PPI Thu Oct 15. If JPM beats AND CPI soft → JPM fractional entry viable Oct 14 (30-min consolidation, fixed stop). If CPI hot → gates widen again, full HOLD maintained. RTX Oct 20 earnings still in pre-positioning window if yield eases below 5.20% this week.
+
+---
+
+### Oct 13 — EOD Snapshot (Day 30, Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** No trades placed — 30th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-12), no positions, no open orders. JPM Q3 2026 earnings reported pre-market: revenue ~$50.2–50.9B (MISS vs ~$51.2B consensus), EPS ~$5.57 GAAP / ~$5.75 adj (MISS vs ~$5.93 consensus); stock reacted negatively ("valuation wake-up call" per TheStreet). GS, C, WFC also reported pre-market. JPM miss weakens the primary financials thesis — even a soft CPI tomorrow would warrant caution before committing to a JPM fractional entry given both top-line and EPS shortfalls. Yield gates remain fully blocked: RTX gate (10Y ≤5.20%) fails by ~4bps; JPM gate (10Y ≤5.10%) fails by ~14bps. HOLD was correct: entering JPM pre-CPI would have carried binary earnings + binary CPI double-knockout risk. Week of Oct 12: 0/5 trades. Tomorrow (Oct 14, 8:30 AM ET): CPI September — consensus +3.6% YoY / core +2.5%; soft CPI + 10Y easing below 5.20% → RTX pre-earnings entry viable (Oct 14–17); soft CPI + 10Y below 5.10% + JPM stock recovering → JPM fractional entry worth assessing; hot CPI → yield gates widen, HOLD through Oct 15 PPI minimum. RTX Oct 20 earnings is the approaching pre-positioning deadline.
