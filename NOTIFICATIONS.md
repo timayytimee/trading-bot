@@ -171,3 +171,7 @@ Trades today: none | Week of Oct 12: 0/5
 Open positions: none
 Columbus Day: bond mkt closed, stocks open; no 10Y yield data; last known 10Y ~5.24% (blocks JPM ≤5.10% and RTX ≤5.20% gates)
 Tomorrow (Oct 13): JPM/GS/WFC/C earnings pre-mkt — primary catalyst week. If JPM beats + CPI soft (Wed Oct 14) → fractional JPM entry viable on 30-min consolidation. Full HOLD until gates clear.
+
+---
+## 2026-10-14 08:XX (pre-market — Telegram blocked, fallback)
+PRE-MKT Oct 14: CPI Sep due 8:30AM ET (consensus +3.6%). 10Y ~5.21% — RTX gate only 1-2bps from opening (need <=5.20%). Soft CPI = RTX pre-earnings entry viable today (1 share ~$165, 10% trailing stop; earnings Oct 20). Hot CPI >=3.6% = full HOLD. JPM missed yesterday; BAC/MS reporting this AM.
