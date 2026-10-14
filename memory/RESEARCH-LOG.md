@@ -2957,4 +2957,13 @@ Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioni
 - JPM thesis: Weakened (EPS + rev miss Oct 13); unlikely to re-open even with yield relief
 - Week of Oct 12: 0/5 trades. 31st consecutive session at $772.02 since inception.
 
+### Midday Addendum (Oct 14, ~12:12 PM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Action**: No action. HOLD decision confirmed from morning addendum.
+- **Steps checked**: No losers to cut (no positions). No stops to tighten (no positions). No thesis to review (no positions).
+- **Yield/market**: Live midday data unavailable via search. Morning addendum confirmed CPI hot (+3.7% YoY / +0.6% MoM); yields moved sharply higher post-print. RTX/JPM gates remain blocked.
+- **Note**: Pre-earnings RTX window (Oct 14–17) now effectively closed — hot CPI + elevated yields + 4 days to binary Oct 20 earnings = unacceptable risk.
+- **Next catalyst**: PPI September (Oct 15, 8:30 AM ET). If also hot → gates widen further through FOMC Nov 4–5.
+- **Telegram**: Not sent (no action taken).
+
 ---
