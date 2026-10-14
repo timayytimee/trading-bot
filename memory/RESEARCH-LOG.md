@@ -2922,4 +2922,39 @@ No Telegram notification — no open positions to protect; no stop violations.
 
 Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioning.
 
+### Market-Open Addendum (Oct 14 — post-CPI, ~9:30–9:45 AM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Account confirmed (live Alpaca)**: Equity $772.02 | Cash $772.02 | BP $772.02 | balance_asof 2026-10-13
+
+**CPI September 2026 (released 8:30 AM ET):**
+- **Headline: +0.6% MoM / +3.7% YoY** (vs. +3.6% consensus — **HOT MISS**)
+- **Core: +0.3% MoM / +2.6% YoY** (vs. +2.5% consensus — **ABOVE ESTIMATE**)
+- Driver: Gasoline +9.1% in September (gas prices +7.3% avg in Sep)
+- Shelter: +0.4%; Food: flat
+- **Market reaction**: Stock futures turned negative; bond yields sharply higher post-release
+
+**Decision tree triggered: CPI ≥3.6% → FULL HOLD through Oct 15 PPI minimum**
+
+**Yield gate status (post-CPI):**
+- Pre-CPI 10Y: ~5.21% (Oct 13 close); post-CPI yields "sharply higher" — estimated 5.25–5.35%+
+- RTX gate (≤5.20%): ✗ FAILS — yields moved AWAY from gate post-hot-print
+- JPM gate (≤5.10%): ✗ FAILS — even further away
+- Pre-earnings RTX window (Oct 14–17) effectively **CLOSED** for this cycle; Oct 20 earnings too close to enter with yield gate blocked
+
+**Gate re-eval (market-open Oct 14):**
+- (a) Iran conflict not resolved: ✓ (ongoing)
+- (b) S&P flat-to-positive: ✗ (futures negative post-CPI)
+- (c) 10Y yield ≤5.20% (RTX): ✗ (sharply higher)
+- (c) 10Y yield ≤5.10% (JPM): ✗ (sharply higher)
+- All 4 conditions fail simultaneously
+
+**HOLD confirmed** — Hot CPI eliminates any remaining pre-earnings RTX entry possibility for this week. RTX Oct 20 earnings is now 4 trading days away; entering with yield gate blocked AND through a binary earnings event = unacceptable R:R.
+
+**Outlook:**
+- Oct 15 (Thu): PPI September — if also hot, yield gates widen further
+- Oct 20: RTX earnings report (no position entering with gates blocked)
+- Oct 27-28: FOMC rate decision — next major macro catalyst
+- JPM thesis: Weakened (EPS + rev miss Oct 13); unlikely to re-open even with yield relief
+- Week of Oct 12: 0/5 trades. 31st consecutive session at $772.02 since inception.
+
 ---
