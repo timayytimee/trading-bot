@@ -2850,3 +2850,76 @@ Week of Oct 12: 0/5 trades. 30th consecutive session at $772.02 since inception.
 No Telegram notification — no action taken.
 
 ---
+
+## 2026-10-14 — Pre-market Research
+
+### Account
+- **Equity:** $772.02 | **Cash:** $772.02 (100%) | **Buying Power:** $772.02
+- **Positions:** 0 | **Open Orders:** 0 | **Daytrade count:** 0/3
+- **Week of Oct 12:** 0/5 trades used | 31st consecutive session at baseline
+- **Phase P&L:** $0.00 (0.00% vs $772.02 baseline)
+
+### Market Context
+- **WTI / Brent:** Energy DEACTIVATED (WTI <$97 since Sep 24; Hormuz tanker volumes near pre-war levels per strategy update Oct 2). Recent June data showed Brent ~$78/WTI ~$75; current prices likely lower. Re-activation requires Brent >$100 for 3+ sessions + new structural supply event + 10Y easing.
+- **S&P 500 futures:** Last confirmed ~7,810 (near ATH, Oct 13); Oct 14 premarket data unavailable. Market broadly constructive.
+- **VIX:** ~15-17 (estimated; last confirmed July 2026 ~16.0; rising rate environment suggests elevated but not extreme fear)
+- **10Y Treasury yield:** ~5.21% (Oct 13 close, CNBC: fell ~2bps to 5.215% as energy prices stabilized); Oct 14 estimate ~5.22% (Trading Economics). Yield ~1bp above RTX gate, ~12bps above JPM gate.
+  - RTX gate (≤5.20%): ✗ FAILS by ~1-2bps
+  - JPM gate (≤5.10%): ✗ FAILS by ~11-12bps
+- **⚠️ CPI September 2026 (8:30 AM ET TODAY — CRITICAL):** Report not yet released.
+  - Consensus: +3.6% YoY (+0.6% MoM) vs. 3.4% prior — HOT print expected
+  - Core consensus: +2.5% YoY (+0.2% MoM) vs. 2.4% prior
+  - Cleveland Fed nowcast: 3.60% YoY / Kiplinger: 3.63% / INDmoney: 3.7%
+  - Driver: Gas prices +7.3% in September (weekly govt survey: $4.36/gal avg)
+  - HOT CPI → yields spike → gates widen further → HOLD through Oct 15 PPI
+  - SOFT CPI (≤3.4% or core ≤2.4%) → yields ease → RTX gate could open today
+- **Earnings before open:** BAC (consensus $1.19 EPS / $31.32B rev); MS (consensus $3.13 EPS / $20.35B rev). Both reporting Q3 2026 pre-market. Banking sector under pressure after JPM MISS yesterday.
+- **Economic calendar:**
+  - 8:30 AM ET: CPI September 2026 — key event
+  - Thu Oct 15: PPI September (next risk event)
+  - Mon Oct 20: RTX Q3 2026 earnings pre-market
+- **Sector momentum (30-day):** Energy + Technology leading YTD as of Oct 1-2 (+37% each); Defense (RTX/LMT) sector active per strategy; Financials (XLF) weakened by JPM miss; Energy deactivated.
+
+### Ticker Notes
+- **RTX:** Earnings Oct 20 pre-market (±4.99% expected reaction). $24.4B SM-6 contract Oct 1 (bullish). BNP Paribas cut PT to $215 (from $265), maintained Outperform on Oct 6. Price ~$164-165 (Oct 8). Pre-earnings positioning window closes Oct 17-18 (3 sessions before earnings = binary risk). RTX gate (≤5.20%) currently blocked by ~1-2bps — only CPI-driven yield relief would open it today.
+- **JPM:** MISS on Oct 13 (revenue $50.2B vs $51.2B est; EPS $5.75 adj vs $5.93 est). Negative stock reaction. Financials thesis weakened. Low conviction even if gate opens.
+
+### Trade Ideas
+1. **RTX — CONDITIONAL POST-CPI (highest priority this week)**
+   - Catalyst: Upcoming Oct 20 earnings + $24.4B SM-6 contract + Iran war ongoing + defense spending momentum. Pre-earnings positioning window: today through Oct 17.
+   - Trigger: CPI prints ≤3.4% OR core ≤2.4% → 10Y eases below 5.20% → gate opens
+   - Entry: 1 whole share RTX ~$165 (30-min post-CPI consolidation; whole shares required for trailing stop)
+   - Stop: 10% trailing GTC → ~$148.50 fixed stop fallback if trailing order rejected
+   - Target: +15% (~$190); R:R ~1.5:1
+   - NOTE: If RTX trails stop not accepted (fractional share issue), use fixed stop at -8% (~$152)
+   - REJECT if: (a) CPI prints ≥3.6%, (b) 10Y stays above 5.20% post-report, (c) spread >0.5% at open, (d) S&P broadly negative post-print
+2. **JPM — LOW CONVICTION SECONDARY (only if RTX gate fails)**
+   - Trigger: CPI much softer than expected, 10Y drops below 5.10%; AND JPM stock recovering from yesterday's miss
+   - Low conviction: Earnings miss (both rev+EPS) argues against entry even with yield relief
+   - Size: 2-3 fractional shares (~$193 limit); fixed stop at -8%
+   - REJECT as primary — JPM miss overrides yield-gate recovery at current conviction level
+3. **HOLD (default) — No pre-CPI trades**
+   - Binary CPI event in minutes; no position before the print
+   - Both yield gates blocked; JPM miss weakens primary financials thesis
+   - 31 consecutive sessions of full cash preservation — patience intact
+
+### Risk Factors
+- **CPI hot print (consensus 3.6%)**: Yields spike, gates widen → full HOLD through Oct 15 PPI; RTX pre-earnings window missed
+- **RTX earnings approach**: Oct 20 is only 4 trading days away; any pre-positioning entry carries full binary earnings risk; prefer NOT to hold through earnings unless position is up +10%+ with stop tightened
+- **BAC/MS miss today**: If financials continue missing consensus, sector rotation out of XLF could further weigh on JPM; negative for financials thesis
+- **10Y yield sticky at 5.20%+**: Pattern shows yield relief has been fleeting; energy prices rebounding could re-elevate yields quickly
+- **PDT rule**: 0/3 daytrades used; RTX entry must be swing (hold overnight minimum)
+
+### Decision
+**HOLD — await CPI print at 8:30 AM ET.**
+
+Decision tree:
+- CPI ≤3.4% AND core ≤2.4% AND 10Y drops below 5.20% → RTX entry viable post-30-min consolidation; 1 whole share, 10% trailing stop GTC
+- CPI 3.4-3.6% AND 10Y briefly touches 5.19-5.20% → watch for 30-min RTX consolidation; very narrow window; proceed only if spread <0.5% and S&P positive
+- CPI ≥3.6% → full HOLD through Oct 15 PPI; RTX pre-earnings window likely missed; reassess Oct 15 post-PPI
+
+No Telegram notification — no open positions to protect; no stop violations.
+
+Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioning.
+
+---
