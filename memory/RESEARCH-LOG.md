@@ -3025,3 +3025,38 @@ Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioni
 
 **RTX earnings date CORRECTION logged:** Oct 20 (not Oct 21). Pre-positioning window closes today if entering pre-earnings.
 
+
+### Midday Addendum (Oct 15 — midday scan, ~12:14 PM ET)
+- **Positions**: 0 | **Orders**: 0 | **Portfolio**: $772.02 cash (100%)
+- **Steps 3–5**: N/A — no open positions; nothing to cut, tighten, or thesis-check
+
+**PPI September 2026 (released 8:30 AM ET):**
+- **Headline: +1.3% MoM / +6.3% YoY** (vs. +0.5% MoM / +5.3% YoY consensus — MASSIVE BEAT; hottest PPI since March 2022)
+- **Core (ex food/energy): +0.7% MoM / +5.0% YoY** — above ALL estimates
+- Source: Bloomberg ("US Producer Prices Rise by Most in More Than Four Years")
+- Driver: Energy prices up sharply; Iran/Hormuz supply squeeze feeding into producer cost pipeline
+
+**Market (midday Oct 15):**
+- **S&P 500**: ~flat to slightly negative (~7,670–7,730 range; Bloomberg: "little changed"); Dow +0.43% (defensive rotation); tech/semis: 7th consecutive down day
+- **10Y Treasury yield**: Spiked on hot PPI print; pre-market was ~5.10%; post-PPI likely 5.25%+ (confirming yield gate closure); no confirmed intraday figure available via search
+- **VIX**: 16.87–17.55 (elevated; contango at 18.55)
+
+**Intraday trigger evaluation (post-8:30 AM ET):**
+- PPI soft trigger: ✗ FAILED — PPI was +1.3% MoM (far above 0.5% threshold); soft scenario never materialized
+- All entry gates remain blocked:
+  - (a) S&P flat-to-positive: ✗ borderline/negative
+  - (b) 10Y ≤5.20% (RTX gate): ✗ yields spiked on hot PPI
+  - (c) 10Y ≤5.10% (JPM gate): ✗ decisively failed
+  - (d) No hawkish Fed surprise: ✓ (no new Fed action intraday)
+
+**Intraday re-evaluation result: HOLD confirmed — hot PPI eliminated all remaining entry scenarios**
+
+**Implications:**
+- CPI Sep +3.7% YoY (Oct 14) + PPI Sep +1.3% MoM (Oct 15) = inflation re-acceleration confirmed; two consecutive inflation data misses
+- FOMC Oct 27–28 hike odds likely elevated further (from ~34% pre-PPI); higher-for-longer entrenched
+- RTX pre-earnings window (Oct 14–17) officially CLOSED — earnings Oct 20 with yield gates blocked + hot macro data = unacceptable R:R; will not enter RTX ahead of earnings
+- Next entry opportunity: post-FOMC Oct 28+ if fed signals pause and yields retreat materially
+
+**No Telegram notification** — no action taken; no positions held.
+
+---
