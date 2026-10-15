@@ -2967,3 +2967,61 @@ Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioni
 - **Telegram**: Not sent (no action taken).
 
 ---
+
+---
+
+## 2026-10-15 — Pre-market Research (PPI Day)
+
+### Account
+- Equity: $772.02
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (account never traded)
+- Max position size: ~$193 (25% of $772.02)
+- Open positions: none | Open orders: none
+- Week of Oct 12: 0/5 trades used
+
+### Market Context
+- WTI: ~$93.82–$95.56 (below $97 — energy sector permanently deactivated)
+- Brent: ~$103.89–$106.58 (elevated on Iran/Hormuz disruption)
+- S&P 500 futures: −0.30–0.35% (gate d ✗ FAILS — not flat-to-positive)
+- Nasdaq futures: −1.0 to −1.4% (AI infrastructure selloff; Gartner write-down warnings; CoreWeave −15%, Dell −11%)
+- Dow futures: +0.3% (defensive rotation)
+- VIX: 16.87–17.55 (+10%; contango at 18.55; elevated skew 157.30)
+- 10Y yield: ~5.098–5.111% (down from 5.248% post-CPI spike; reversed overnight)
+  - RTX/Defense gate (≤5.20%): PASSES ✓ (barely)
+  - JPM/Financials gate (≤5.10%): BORDERLINE / fails by 1–11bps depending on source
+- PPI September 2026 (8:30 AM ET today): Oxford Econ expects +0.6% MoM (above +0.5% consensus); prior +0.4% MoM / +5.4% YoY; hot print would spike yields and re-close both gates
+- FOMC Oct 27–28 hike odds: ~27–34% (below 50% — market base case HOLD in Oct, potential Dec hike)
+- Fed Chair Warsh speaking at IMF today
+- Asia overnight: Nikkei −5%, KOSPI −7.4% (circuit breaker triggered)
+- Earnings before open today: TSMC beat (rev $46.7B, +16.2% QoQ, profit +69% YoY) but ADR −2.21% premarket ("sell the news"); SCHW, USB, PNC, BNY Mellon, Prologis, Alcoa also reporting
+- US-Iran conflict: Day 229, fragile standoff; no large-scale strikes Oct 13–14; Trump stated no attack before Nov 3 midterms; Strait severely disrupted (15 attacks Oct 6–14; ~2.9M bbl/day vs 17.1M pre-war average); JMIC threat "severe"
+- Saudi Yanbu pipeline restarted; running ~5.8M bpd (capacity 7M bpd); Aramco building crude reserves before resuming full exports
+- Sector rotation: past 7 days Energy +6.7%, Consumer Staples +5.3%, Healthcare +3.1% leading; Tech/semis −9%; ITA (defense ETF) down 18.2% from Aug 14 high, 7 consecutive weekly declines
+
+### Trade Ideas
+
+1. **RTX (Raytheon)** — 10Y yield at 5.10% passes defense gate (≤5.20%) ✓ for first time; US-Iran conflict ongoing, ~$1B/day US defense costs, $289B backlog; $729M counter-drone contracts (Oct 12–13) + ~$8B Air Force contract. HOWEVER: (a) S&P gate fails (futures −0.3%) ✗; (b) PPI binary event at 8:30 AM — hot print spikes yields above 5.20% and re-closes gate; (c) EARNINGS DATE CORRECTION: Oct 20, not Oct 21 per RTX investor relations — only 3 trading days away, binary earnings risk; (d) negative analyst momentum: DB downgraded to Hold (Oct 13), BofA removed from US 1 List (Oct 13); (e) ITA in 7-week consecutive weekly decline. Entry ONLY if: PPI soft → 10Y holds ≤5.20% → S&P recovers flat-to-positive at open → RTX 30-min consolidation above prior close. If entering, fixed stop (not trailing — fractional share rule) at −8%; target +15%; R:R ~1.9:1. Max 1 share (~$183).
+
+2. **JPM (Financials)** — 10Y at 5.10–5.11% borderline (gate ≤5.10% fails/borderline); Q3 miss (EPS $5.57 vs $5.93 est, rev $50.9B vs $51.3B) impairs thesis; stock recovered to ~$334.92 Oct 14 (+1%). Not compelling given miss + borderline yield + S&P gate failing. REJECT unless 10Y clearly breaks below 5.00%.
+
+3. **HOLD (default)** — S&P futures −0.3% (gate d fails); Asia crashed hard; PPI is a binary event; VIX elevated; RTX earnings in 3 days with negative analyst actions. Default is full HOLD.
+
+### Risk Factors
+- **PPI 8:30 AM ET today** — hot print (>+0.6% MoM) spikes 10Y above 5.20%, re-closes both yield gates; the only event that could open or close gates today
+- **Asia crash** — Nikkei −5%, KOSPI −7.4% (circuit breaker); signals global risk-off; usually leads US lower
+- **AI infrastructure unwind** — Gartner write-down risk warnings; CoreWeave −15%, Dell −11%; tech/semi drag at open
+- **RTX earnings Oct 20** — only 3 trading days; entering now = full binary earnings exposure; negative analyst momentum (DB downgrade, BofA US 1 removal)
+- **S&P gate fails** — futures −0.3%; strategy requires flat-to-positive for any entry; this alone blocks all entries pre-open
+- **Iran/Hormuz escalation** — 15 attacks in 9 days; oil elevated but energy sector deactivated; any escalation = risk-off
+- **ITA 7-week weekly decline** — defense sector in downtrend despite geopolitical bid; rate headwind + budget uncertainty + midterm uncertainty
+- **PDT rule** — 0/3 day trades used; any entry must be swing trade held overnight; binary PPI + RTX earnings = elevated overnight gap risk
+
+### Decision
+**HOLD** — Multiple gates blocked simultaneously: S&P futures −0.3% (gate d ✗), PPI binary event pending (could re-close yield gate), Asia crashed overnight (macro headwind), RTX earnings only 3 days away with recent analyst downgrades. Even though 10Y has retreated to the defense gate threshold (5.10%), the S&P gate failure alone blocks any entry per strategy rules. Default HOLD is correct.
+
+**Intraday re-evaluation trigger (post-8:30 AM ET):** If PPI soft → 10Y holds ≤5.20% → S&P reverses to flat-to-positive by 10 AM ET → RTX 30-min consolidation above prior close → RTX conditional entry reconsidered (1 share, fixed stop −8%, hold through earnings Oct 20 or cut if thesis breaks). This is a low-probability scenario given Asia weakness + TSMC sell-the-news + Nasdaq −1.1%.
+
+**RTX earnings date CORRECTION logged:** Oct 20 (not Oct 21). Pre-positioning window closes today if entering pre-earnings.
+
