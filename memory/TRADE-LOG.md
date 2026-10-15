@@ -375,3 +375,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** No trades placed — 31st consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-13), no positions, no open orders. CPI September 2026 printed HOT at 8:30 AM ET: Headline +0.6% MoM / +3.7% YoY (above 3.6% consensus); Core +0.3% MoM / +2.6% YoY (above estimates); gasoline +9.1% accounted for more than half the monthly gain. S&P 500 sold off ~1% on the print; 10Y yield 5.248% (+3.1bps on the day). All yield gates failed: RTX gate (≤5.20%) fails by ~5bps; JPM gate (≤5.10%) fails by ~15bps. FOMC October 27–28 hike odds jumped to ~39% (from ~22% pre-print). JPM Q3 miss (Oct 13) + hot CPI = financials thesis doubly impaired. HOLD was correct — the pre-planned hot-CPI condition triggered full hold exactly as designed. Week of Oct 12: 0/5 trades. Tomorrow Oct 15: PPI September (8:30 AM ET) is next binary event; if PPI soft + 10Y pulls toward 5.20% → RTX pre-earnings entry window opens (last viable entry days Oct 15–17 ahead of Oct 21 earnings); if PPI hot → hold through Oct 21 RTX earnings at minimum. RTX thesis (US-Iran conflict ongoing, $289B backlog, geopolitics rate-independent) remains intact regardless of CPI.
+
+---
+
+### Oct 15 — EOD Snapshot (Day 32, Thursday — PPI Day)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** Full HOLD — September PPI came in extremely hot: +1.3% MoM (vs. +0.5% consensus, biggest jump since March 2022), +6.3% YoY (vs. +5.4% est), Core +0.7% MoM (vs. +0.3% est), Energy +10.8% MoM. The pre-planned "PPI hot → hold through Oct 21 RTX earnings at minimum" condition triggered exactly as designed. 10Y yield paradoxically fell ~9bps intraday to ~5.093% (technically clearing the RTX ≤5.20% gate numerically) but this was a flight-to-safety bid driven by a tech rout, not macro-driven yield relief — S&P sold off on the print (gate d ✗), S&P was also down sharply on Oct 14 CPI. FOMC October 27–28 hike probability rose further after two consecutive above-consensus inflation prints (CPI +3.7% YoY + PPI +6.3% YoY) — both tiers deteriorating simultaneously. RTX/defense thesis remains intact (US-Iran conflict ongoing, $289B backlog) but RTX earnings Oct 21 are now 6 days away in a hostile inflation backdrop — pre-earnings entry is inadvisable. No positions placed, no orders submitted. Portfolio: $772.02 cash (100%). Week of Oct 12: 0/5 trades. Next catalyst: RTX Q3 earnings Oct 21 pre-market — strong beat + forward guidance + cost discipline → reassess RTX entry Oct 22+; wait for post-earnings yield stabilization before committing.
