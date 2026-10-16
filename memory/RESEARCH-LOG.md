@@ -3060,3 +3060,73 @@ Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioni
 **No Telegram notification** — no action taken; no positions held.
 
 ---
+
+## 2026-10-16 — Pre-market Research
+
+### Account
+- Equity: $772.02 (confirmed balance_asof 2026-10-15)
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (no trades since inception — Day 33)
+- Open positions: none | Open orders: none
+- Week of Oct 12: 0/5 trades used
+
+### Market Context
+- WTI / Brent: No live Oct 16 reading available; energy thesis permanently DEACTIVATED since Sep 24 (WTI below $97)
+- S&P 500 futures: Unknown premarket; two consecutive down sessions (Oct 14 CPI −1%, Oct 15 PPI flat/negative); bonds driving direction
+- VIX: 16.87–17.55 (Oct 15 close — elevated; contango at 18.55)
+- 10Y yield: ~5.08–5.10% (Oct 15 EOD, per Forbes/govspending.org — down 0.11pp from Oct 14's 5.248% on flight-to-safety bid during tech rout, NOT macro-driven yield relief)
+- Today's catalysts:
+  - **BLS Import/Export Price Indexes** (8:30 AM ET) — minor data; no major catalyst
+  - **RTX Q3 2026 earnings Monday Oct 20** (pre-market) — last day before binary event
+  - Two consecutive inflation beats: CPI Sep +3.7% YoY (Oct 14), PPI Sep +1.3% MoM / +6.3% YoY (Oct 15 — hottest since March 2022)
+  - FOMC Oct 27–28 hike probability elevated (~39%+ post-CPI/PPI); higher-for-longer entrenched
+- Earnings before open: No significant reports confirmed for Oct 16 (Friday after big-bank week)
+- Economic calendar: BLS import/export prices 8:30 AM ET only; retail sales and jobless claims were Thursday Oct 15
+- Sector momentum (30-day estimate):
+  - Leading: XLE (Energy, +37% YTD) and XLK (Tech, +37% YTD) led early October
+  - Weakening: XLK — tech semis in 7-consecutive down session as of Oct 15
+  - Lagging: XLF (Financials) — JPM Q3 miss weighed on sector; hot inflation = NIM compression risk
+  - Defense (ITA/RTX): Rate-independent thesis intact; geopolitics supportive; earnings imminent
+  - September: 10 of 11 S&P sectors declined — only one sector rose in September
+- JPM news: Q3 2026 reported Oct 13 — EPS $5.57 GAAP / $5.75 adj vs ~$5.93 est (MISS); revenue ~$50.9B vs ~$51.22B est (MISS); expenses +12% YoY; shares −3.5% premarket Oct 13. Rare double miss. Financials thesis impaired.
+- RTX news: Reports Oct 20 pre-market (MONDAY — 1 trading day away); expected ±4.99% reaction (~$9.15); stock −5.95% since last earnings. $24.4B SM-6 contract (Oct 1), $6.3B missile contract. BNP Paribas cut PT to $215 from $265 (Oct 6). Pre-earnings entry window OFFICIALLY CLOSED (see Oct 15 entry).
+
+### Trade Ideas
+1. **RTX — post-earnings entry only (Oct 21+)**
+   - Wait for Q3 results Oct 20 before any entry
+   - If beat + cost discipline + strong forward defense demand guidance → enter Oct 21 on 30-min consolidation above prior close
+   - Entry: ~current price (need real-time quote at open Oct 21); stop: −7% (fixed stop if fractional); target: +14%; R:R 2:1
+   - Catalyst: Iran war ongoing ($289B backlog, SM-6/$6.3B contracts, US-Iran conflict unresolved), rate-independent thesis
+   - Risk: BNP PT cut $215 (-19% from $265), stock −5.95% since last Q, hostile inflation backdrop, FOMC Oct 27-28 hike risk
+   - Do NOT enter today (pre-earnings with 1 day to report = unacceptable binary risk)
+
+2. **JPM — post-FOMC watch (Oct 28+ only)**
+   - 10Y at 5.08–5.10% borderline clears the ≤5.10% gate numerically, but quality of yield move (flight-to-safety, not structural) does not support entry
+   - JPM earnings miss (Oct 13) + hot CPI/PPI = thesis doubly impaired; Q4 seasonal tailwind now secondary to inflation re-acceleration risk
+   - Next viable window: post-FOMC Oct 28 if Fed signals pause and yields retreat sustainably below 5.00%
+   - Catalyst intact (Q4 NIM expansion, seasonal tailwind) but timing gated on macro resolution
+
+### Risk Factors
+- **FOMC Oct 27–28 hike odds elevated** — two consecutive inflation beats; higher-for-longer entrenched; equities facing multiple compression risk
+- **RTX binary event Monday Oct 20** — pre-earnings entry today is highest-risk day in the cycle; never enter day before earnings
+- **JPM earnings miss overhang** — rare double miss signals near-term financials headwind
+- **S&P two consecutive down days** — Oct 14 (−1% on CPI) and Oct 15 (flat/negative on PPI); gate (d) failing
+- **10Y yield quality** — 5.08–5.10% is flight-to-safety artifact of tech rout, not structural yield relief; cannot treat as gate pass
+- **VIX elevated 16.87–17.55** — fear rising; September/October seasonal headwind continuing
+- **Tech semis 7 consecutive down sessions** — broad risk-off tone; thin pre-holiday liquidity possible (Friday)
+- **Small account** — $772 equity; $193 max/position; 1-2 positions max
+
+### Decision
+HOLD — Multiple converging conditions prevent any entry today:
+1. Pre-planned rule: "RTX pre-earnings window officially closed; will not enter RTX ahead of earnings" (Oct 15 entry)
+2. RTX reports Monday Oct 20 — today is the last day before binary event; entering is inadvisable
+3. 10Y yield borderline pass is flight-to-safety artifact, not structural; S&P gate (d) failed Oct 14 AND Oct 15
+4. JPM earnings miss + hot CPI + hot PPI = thesis doubly impaired; FOMC hike odds rising
+5. Light data day today (import/export prices only) — no catalyst to change picture
+6. Patience > activity. Zero trades can be the right answer.
+
+**Next key event:** RTX Q3 earnings Monday Oct 20 pre-market → if beat, enter Tuesday Oct 21 on 30-min consolidation
+**Next yield watch:** post-FOMC Oct 28+ for JPM/financials reassessment
+
+---
