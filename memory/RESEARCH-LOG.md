@@ -3129,4 +3129,14 @@ HOLD — Multiple converging conditions prevent any entry today:
 **Next key event:** RTX Q3 earnings Monday Oct 20 pre-market → if beat, enter Tuesday Oct 21 on 30-min consolidation
 **Next yield watch:** post-FOMC Oct 28+ for JPM/financials reassessment
 
+### Midday Addendum (Oct 16 — midday scan)
+- **Positions/Orders**: None; account $772.02 cash (100%) — no action taken, no action warranted
+- **RTX earnings confirmed**: October 20, 2026 pre-market (Tuesday) — multiple sources confirm; Oct 26 date from one source was incorrect/stale. Pre-earnings entry window remains closed today per Oct 15 rule.
+- **RTX consensus**: $1.77–$1.78 EPS / $24.05B revenue; prior quarter beat ($1.89 EPS / $24.71B). Stock ~$200.79 (earningswhispers). Positive setup heading into print.
+- **RTX $1.1B AIM-9X Block II contract** (US Navy) — additional catalyst supporting defense thesis
+- **10Y yield**: ~5.08–5.10% as of Oct 15 EOD; no live Oct 16 data available; flight-to-safety bid, not structural — yield gates remain technically borderline/blocked
+- **S&P**: Light data day (import/export prices only); no directional catalyst to change HOLD picture
+- **HOLD confirmed**: All pre-market conditions remain intact. No new thesis-breaking developments.
+- **Next key event**: RTX Q3 earnings Monday Oct 20 pre-market → assess entry Tuesday Oct 21 on 30-min consolidation IF beat + cost discipline + forward guidance strong
+
 ---
