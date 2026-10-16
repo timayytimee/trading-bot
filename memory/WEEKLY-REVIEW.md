@@ -416,3 +416,66 @@ Template for each entry:
 
 ### Overall Grade: D
 - Sixth consecutive zero-trade week. The hard deadline of Oct 9 set in last week's review was missed — again. S&P +1.2% this week (cumulative phase −1.04% vs S&P); holding cash is now actively destroying relative performance. The analytical framework is intact (JPM thesis, RTX thesis, yield gate relaxation documented) and JPM Oct 13 earnings is the clearest setup since inception. But a framework without execution is worthless. Week 7 is binary: JPM earnings beat → execute → begin building track record, or miss it → systemic failure. No further deferrals are acceptable.
+
+---
+
+## Week ending 2026-10-16
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $772.02 |
+| Ending portfolio | $772.02 |
+| Week return | $0.00 (0.00%) |
+| S&P 500 week | −1.43% (7,812 → ~7,700) |
+| Bot vs S&P | +1.43% |
+| Trades | 0 (W:0 / L:0 / open:0) |
+| Win rate | N/A |
+| Best trade | N/A |
+| Worst trade | N/A |
+| Profit factor | N/A |
+
+**Phase P&L (vs $772.02 baseline):** $0.00 (0.00%)
+**S&P 500 since phase start (Aug 28 → Oct 16):** ~−0.40% (7,730.99 → ~7,700)
+**Bot vs S&P since phase start:** +0.40% (cumulative recovery — cash outperforms slightly declining S&P)
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No trades placed this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| — | — | — | — | — |
+
+### What Worked
+- Held cash through double inflation shock week — hot CPI (+3.7% YoY Oct 14) + hottest PPI since 2022 (+6.3% YoY / +1.3% MoM Oct 15); S&P fell ~1.43%
+- Pre-planned "RTX pre-earnings window closed Oct 14–16" rule executed correctly — avoided entering 1–3 days before Oct 20 binary event
+- Correctly identified 10Y yield dip to ~5.10% (Oct 15) as "flight-to-safety artifact from tech rout" not structural yield relief; prevented incorrect gate pass
+- JPM earnings miss (EPS $5.57 vs $5.93 est; rev $50.9B vs $51.2B est) validated caution — a yield-gate exemption entry on a beat would have been punished
+- RTX earnings date corrected Oct 20 (not Oct 21 as stated in prior reviews) during midday scan Oct 16; post-earnings entry plan updated accordingly
+
+### What Didn't Work
+- Seventh consecutive zero-trade week (33 sessions, 0 trades since inception); primary JPM catalyst failed with a rare double miss
+- JPM Q3 double miss (both EPS and revenue) impairs the financials thesis; rare simultaneous top/bottom-line shortfall requires full thesis rebuild
+- Dual inflation acceleration (CPI +3.7% YoY + PPI +6.3% YoY) pushed FOMC Oct 27–28 hike odds to ~39%; higher-for-longer entrenched further
+- Defense sector ITA in 7 consecutive weekly declines — rate headwind still overwhelming the geopolitical bid despite Iran war and contract wins
+- Another "make-or-break" hard deadline (Oct 9 review: "mission failure if no trade") missed; hard deadlines without execution consequences are not effective enforcement
+
+### Key Lessons
+- Binary event clusters (earnings + CPI + PPI in the same week) are predictable; pre-plan at week start that no entries will occur — reduces daily decision fatigue from re-checking gates that will fail
+- JPM double miss signals broader financials NIM compression at 5%+ rates; Q4 seasonality thesis needs fresh fundamental rebuild post-FOMC, not just yield gating
+- Post-earnings entry (Oct 21 RTX) strictly dominates pre-earnings: removes binary risk while preserving the full catalyst upside; this is the framework to apply going forward
+- PPI +6.3% YoY hottest since March 2022 + CPI +3.7% = inflation re-acceleration confirmed; any yield relief before FOMC is structural noise, not trend reversal
+- "Flight-to-safety" yield dips require 2+ sessions of confirmation before treating as gate pass; same-day dips driven by equity sell-offs are unreliable and reverse quickly
+
+### Adjustments for Next Week
+- **RTX post-earnings entry Tuesday Oct 21**: RTX Q3 earnings Monday Oct 20 pre-market → if beat + cost discipline + forward guidance → enter Oct 21 on 30-min consolidation above prior close; stop −7% (fixed stop, fractional rule); target +14%; R:R 2:1; 1 share (~$183–$193); yield gate suspended for post-earnings defense catalyst per RTX defense rule
+- **FOMC pre-event blackout Oct 22–24**: No new entries in the 3 trading days before FOMC (Oct 27–28); any open RTX position must be sized to survive the binary event
+- **JPM/financials deferred to post-FOMC (Oct 28+)**: Double miss + hot inflation make near-term entry unattractive regardless of yield level
+- **Week of Oct 19 singular focus**: RTX Oct 21 post-earnings entry is the only actionable trade opportunity; hard rule — if RTX beats and no entry occurs Oct 21, no further macro justification is valid
+- **Inflation confirmation rule (new)**: Two consecutive above-consensus inflation prints = treat next 2 weeks as "hot macro regime"; yield gate cannot be relaxed until 2 consecutive below-consensus prints
+
+### Overall Grade: D
+- Seventh consecutive zero-trade week. The HOLD decisions this week were genuinely correct — a double inflation shock (CPI + PPI), a JPM earnings double miss, and imminent RTX binary event created a week where any entry would have lost money. S&P fell −1.43%; cash outperformed. However, the primary catalyst that was supposed to unlock the first trade (JPM earnings beat) failed to materialize, leaving the system without a tradeable thesis once again. RTX Oct 20 earnings is now the singular focused opportunity: rate-independent defense thesis, post-binary timing, concrete catalyst. If RTX beats on Oct 20 and no entry occurs Oct 21, there is no remaining justification. Graded D (not F) because the correct HOLD calls this week were analytically sound, not just gate failures.

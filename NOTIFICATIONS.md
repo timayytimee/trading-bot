@@ -175,3 +175,15 @@ Tomorrow (Oct 13): JPM/GS/WFC/C earnings pre-mkt — primary catalyst week. If J
 ---
 ## 2026-10-14 08:XX (pre-market — Telegram blocked, fallback)
 PRE-MKT Oct 14: CPI Sep due 8:30AM ET (consensus +3.6%). 10Y ~5.21% — RTX gate only 1-2bps from opening (need <=5.20%). Soft CPI = RTX pre-earnings entry viable today (1 share ~$165, 10% trailing stop; earnings Oct 20). Hot CPI >=3.6% = full HOLD. JPM missed yesterday; BAC/MS reporting this AM.
+
+---
+## 2026-10-16 16:00 UTC (fallback — Telegram 403)
+Week ending 2026-10-16
+Portfolio: $772.02 (0.00% week, 0.00% phase)
+vs S&P 500: −1.43% week / −0.40% phase (cumulative)
+Trades: 0 (W:0 / L:0 / open:0) — 7th consecutive zero-trade week
+Best: N/A  Worst: N/A
+Events: JPM Q3 miss (EPS $5.57 vs $5.93) + CPI +3.7% YoY + PPI +6.3% YoY (hottest since 2022)
+FOMC Oct 27-28 hike odds ~39%; RTX earnings Mon Oct 20 → post-earnings entry Oct 21 if beat
+Takeaway: Correct HOLD week (avoided trap-laden inflation + earnings miss setup)
+Grade: D

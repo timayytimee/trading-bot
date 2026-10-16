@@ -75,8 +75,9 @@ Proven over 5+ weeks of daily market analysis:
 
 **ACTIVE — Secondary:**
 - Defense (RTX/LMT): Iran war ongoing; Hormuz commercial traffic recovering but US-Iran conflict
-  unresolved; US military escort ops active; $289B RTX backlog; earnings Oct 21.
+  unresolved; US military escort ops active; $289B RTX backlog; earnings Oct 20 (CORRECTED — was Oct 21).
   Rate-independent thesis: defense spending driven by geopolitics, not rate direction.
+  Post-earnings entry: Oct 21 on 30-min consolidation if beat + cost discipline + forward guidance.
 
 **DEACTIVATED — Do Not Trade:**
 - Energy (XOM/CVX/MPC): Permanently off. WTI below $97 since Sep 24; Hormuz tanker volumes
@@ -96,6 +97,16 @@ Proven over 5+ weeks of daily market analysis:
 ## Entry Checklist Addendum (added 2026-10-02)
 - Verify bid-ask spread at open: skip any name with spread > 0.5% or condition "R" wide spread
 - Wide condition-R spreads (XOM 6–11%, RTX 2–7% intraday) have blocked every otherwise-qualifying entry
+
+## Inflation Regime Rule (added 2026-10-16)
+- Two consecutive above-consensus inflation prints (CPI + PPI both hot) = hot macro regime active
+- In hot macro regime: yield gate cannot be relaxed; require 2 consecutive below-consensus prints to exit regime
+- Current status (as of Oct 16): HOT — CPI Sep +3.7% YoY (Oct 14) + PPI Sep +6.3% YoY (Oct 15, hottest since 2022)
+
+## Post-Earnings Entry Rule (added 2026-10-16)
+- Post-earnings entry strictly preferred over pre-earnings: removes binary event risk while preserving catalyst
+- For post-earnings entry: yield gate suspended if beat + cost discipline + forward guidance strong
+- Entry on 30-min consolidation above prior close, day after earnings report; fixed stop (fractional rule)
 
 ## Alpaca Notes
 - trail_percent and qty are STRINGS in JSON ("10", not 10)
