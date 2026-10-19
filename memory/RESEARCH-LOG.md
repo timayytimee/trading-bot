@@ -3219,3 +3219,52 @@ HOLD — Multiple converging conditions prevent any entry today:
 - **Next key event**: RTX Q3 earnings Monday Oct 20 pre-market → assess entry Tuesday Oct 21 on 30-min consolidation IF beat + cost discipline + forward guidance strong
 
 ---
+
+## 2026-10-19 — Market-Open Research (Monday)
+
+### Account
+- Equity: $772.02 (confirmed balance_asof 2026-10-16)
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (no trades since inception — Day 34)
+- Open positions: none | Open orders: none
+- Week of Oct 19: 0/5 trades used
+
+### Market Context
+- 10Y yield: ~5.08–5.10% last confirmed Oct 15 EOD; today's live data unavailable (quote endpoint 404); flight-to-safety artifact, not structural yield relief — treat as above gates
+- S&P 500: No live Oct 19 premarket data retrieved; direction unknown
+- RTX: Estimated ~$184–$193 range (conflicting sources; EUR 172.63 pre-market via German venue suggests lower end); earnings pre-market TOMORROW Oct 20
+- **RTX Q3 2026 earnings: Oct 20 pre-market (CONFIRMED)** — consensus $1.76 EPS / $23.97B revenue
+- Energy: Permanently DEACTIVATED (WTI below $97 since Sep 24)
+- Inflation regime: HOT — CPI Sep +3.7% YoY (Oct 14) + PPI Sep +6.3% YoY (Oct 15); need 2 consecutive below-consensus prints to exit
+
+### Trade Ideas
+1. **RTX — HOLD (day before binary earnings event)**
+   - Earnings Oct 20 pre-market = absolute rule: no entry day before binary event
+   - Post-earnings entry Oct 21 (Wednesday) ONLY: IF beat + cost discipline + forward guidance strong
+   - Entry checklist for Oct 21: EPS ≥ $1.78 (prefer ≥ $1.85), revenue guidance maintained/raised, gross margins flat-to-improving, forward defense demand bullish, opens above prior close + 30-min consolidation, fixed stop 7% below entry
+   - Yield gate SUSPENDED post-earnings per rule if beat + all criteria met
+
+2. **JPM — HOLD** (post-FOMC Oct 28+ only; not actionable this week)
+
+### Risk Factors
+- RTX binary event TOMORROW (Oct 20) — absolute no-entry rule today
+- FOMC Oct 27–28 hike odds elevated (two consecutive inflation beats)
+- 10Y yield above both gates (≤5.20% RTX, ≤5.10% JPM); hot macro regime
+- Any RTX position taken post-earnings will sit across FOMC binary in ~7 days; size accordingly
+
+### Decision
+**HOLD** — Day before RTX binary earnings event (Oct 20 pre-market). Absolute rule: no entry. Today's only purpose is preparation. All focus on Oct 21 post-earnings window.
+
+**Oct 21 entry will execute IF and only if:**
+- [ ] EPS ≥ $1.78 (prefer ≥ $1.85 given 8-quarter beat track record)
+- [ ] Revenue guidance maintained or raised
+- [ ] Cost discipline: gross margins flat-to-improving
+- [ ] Forward defense demand language bullish (US-Iran, Patriot/AMRAAM/SM-6)
+- [ ] RTX opens above prior close + 30-min consolidation
+- [ ] Fixed stop: whole-number price ~7% below entry (NOT trailing_stop — Alpaca fractional rule)
+- [ ] Spread ≤ 0.5% at entry time
+
+Week of Oct 19: 0/5 trades. Zero trades is the right answer today.
+
+---
