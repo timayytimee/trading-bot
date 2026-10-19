@@ -3061,6 +3061,85 @@ Week of Oct 12: 0/5 trades. RTX Oct 20 earnings = hard deadline on pre-positioni
 
 ---
 
+## 2026-10-19 — Pre-market Research
+
+### Account
+- Equity: $772.02 (confirmed live; balance_asof 2026-10-16)
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (no trades since inception — Day 34)
+- Open positions: none | Open orders: none
+- Week of Oct 19: 0/5 trades used (fresh cap)
+- Max position size: ~$193 (25% of $772.02)
+
+### Market Context
+- WTI / Brent: Last confirmed Oct 13-14 — WTI ~$94.14 / Brent ~$105.69–106.29; energy thesis permanently DEACTIVATED (WTI below $97 since Sep 24); no live Oct 19 quote available pre-session
+- S&P 500 futures: No live pre-market data for Oct 19; prior two sessions both negative (Oct 14 CPI −1%, Oct 15 PPI flat/negative); approaching session after hot dual-inflation week
+- VIX: Last confirmed ~16.87–17.55 (Oct 15 close); elevated and rising on hot inflation data; likely 16–19 range today
+- 10Y yield: Last confirmed ~5.08–5.10% (Oct 15 EOD, flight-to-safety bid); expect rebound toward ~5.15–5.25% today as flight-to-safety fades and FOMC hike risk re-prices; both yield gates remain likely blocked (RTX ≤5.20%, financials ≤5.10%)
+- **TODAY's critical context — RTX Q3 2026 earnings TOMORROW (Oct 20 pre-market):**
+  - Consensus: ~$1.77–1.78 EPS / ~$24.01–24.05B revenue
+  - Prior quarter: $1.89 EPS / $24.71B (beat by ~14%)
+  - Track record: 8/8 consecutive beats; avg +12% surprise
+  - Market priced ±4.99% reaction (~$9.15)
+  - Full-year guidance: $7.10–7.25 EPS; FCF $8.50–8.75B
+  - Pratt & Whitney comparison is hard (prior-year F135 timing benefit); supply chain flag
+  - Defense backlog: $289B as of Oct 2 strategy; $1.1B AIM-9X contract (Oct 16), $6.3B missile contract
+- Earnings before open: No major S&P 500 names (RTX earnings are TOMORROW Oct 20 pre-market)
+- Economic calendar this week:
+  - Today Oct 19: No major US releases — clean session
+  - Tue Oct 20: RTX Q3 2026 pre-market (8:30 AM ET call); other defense/industrials earners
+  - Wed Oct 21: Existing home sales (10 AM ET)
+  - FOMC Oct 27–28 (decision Oct 28, 2 PM ET) — 8-9 days away; binary event on the horizon
+- Sector momentum:
+  - Energy (XLE): DEACTIVATED (WTI below $97)
+  - Defense (ITA/RTX): Rate-independent thesis intact; geopolitics supportive; earnings catalyst imminent
+  - Financials (XLF/JPM): Impaired — JPM Q3 double miss (Oct 13) + hot CPI/PPI + yield gates blocked; FOMC Oct 28 is next reassessment window
+  - Tech (XLK): 7+ consecutive down sessions as of Oct 15; risk-off tone; not on watchlist
+- US-Iran conflict: Last confirmed Aug 14 — Trump threatening Hormuz as US territory; no ceasefire as of Oct 16 research; RTX defense thesis intact (conflict ongoing)
+- Inflation regime: **HOT** — CPI Sep +3.7% YoY (Oct 14) + PPI Sep +6.3% YoY (Oct 15, hottest since Mar 2022); need 2 consecutive below-consensus prints to exit; FOMC hike odds ~39%+ elevated
+
+### Trade Ideas
+1. **RTX — post-earnings entry ONLY (Oct 21 if Oct 20 beats)**
+   - Catalyst: Iran war ongoing (US-Iran no ceasefire, Hormuz operations), $289B backlog, SM-6 + AIM-9X contracts, Q3 beat track record (8/8 quarters)
+   - Entry plan (Oct 21 only): IF Oct 20 beat + cost discipline confirmed + forward guidance strong → 30-min consolidation above prior close → 1 fractional or whole share
+   - Size: ~$193 max (25% of equity); Alpaca fractional rule → use fixed stop (whole-number stop_price), NOT trailing_stop
+   - Stop: fixed price ~7% below entry (round to whole number per Alpaca rule)
+   - Target: +14–16%; R:R ~2:1
+   - Yield gate: SUSPENDED per Post-Earnings Entry Rule if beat + cost discipline + guidance strong
+   - Risk: BNP Paribas PT cut ($215 from $265 Oct 6), hot macro regime, FOMC Oct 28 binary (8 days)
+   - DO NOT enter today — day before binary earnings event; strictly forbidden by strategy
+
+2. **JPM — post-FOMC watch only (Oct 28+)**
+   - Double miss Oct 13 + hot inflation = thesis impaired; next viable window post-FOMC Oct 28 if Fed signals pause and 10Y retreats sustainably below 5.00%
+   - Not actionable this week
+
+### Risk Factors
+- **RTX binary event tomorrow Oct 20**: Entering today = inadvisable (last day before report)
+- **FOMC Oct 27–28**: Any RTX position taken tomorrow would sit across FOMC binary in ~8 days; size and stop accordingly
+- **Hot macro regime active**: Two consecutive inflation beats; yield gates cannot be relaxed under base rules (exception: post-earnings RTX per Oct 16 rule addendum)
+- **10Y yield trajectory**: Expect rebound from Oct 15's flight-to-safety dip; RTX gate (≤5.20%) may be marginal; financials gate (≤5.10%) likely blocked
+- **Pratt & Whitney hard comparison**: Risk factor in tomorrow's RTX print; F135 timing benefit in prior-year period may produce revenue miss even with strong defense segments
+- **BNP Paribas PT cut**: $215 (−$50 cut Oct 6) signals some fundamental concern; institutional headwind
+- **Market macro tone**: Post-CPI/PPI two consecutive down sessions; pre-FOMC uncertainty = elevated vol through Oct 28
+
+### Decision
+**HOLD** — Day before RTX earnings (Oct 20 pre-market). Rule is absolute: no entry on the last day before a binary earnings event. Today's sole purpose is preparation: confirm tomorrow's earnings date (Oct 20, 8:30 AM ET), internalize the beat/miss criteria, and be ready to assess Oct 21 entry on 30-min consolidation if all three conditions met (beat + cost discipline + forward guidance strong).
+
+**RTX Oct 21 entry checklist (evaluate tomorrow post-earnings):**
+- [ ] EPS ≥ $1.78 (consensus); prefer ≥ $1.85 given 8-quarter +12% beat track record
+- [ ] Revenue guidance maintained or raised
+- [ ] Cost discipline: gross margins flat-to-improving
+- [ ] Forward defense demand language bullish (US-Iran conflict, Patriot/AMRAAM/SM-6 demand)
+- [ ] RTX opens above prior close and consolidates (30-min rule)
+- [ ] 10Y yield ≤ 5.20% (suspended per Post-Earnings Rule if all above met)
+- [ ] Spread ≤ 0.5% at entry
+- [ ] Fixed stop: whole-number price ~7% below entry (NOT trailing_stop — Alpaca fractional rule)
+
+Week of Oct 19: 0/5 trades. Patience intact. Zero trades can be right answer.
+
+---
+
 ## 2026-10-16 — Pre-market Research
 
 ### Account
