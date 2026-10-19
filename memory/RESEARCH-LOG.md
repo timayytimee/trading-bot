@@ -3268,3 +3268,15 @@ HOLD — Multiple converging conditions prevent any entry today:
 Week of Oct 19: 0/5 trades. Zero trades is the right answer today.
 
 ---
+### Midday Addendum (Oct 19 — midday scan)
+- **Positions/Orders**: None; account $772.02 cash (100%) — no action taken, no action warranted
+- **RTX Q3 earnings TOMORROW Oct 20 pre-market** — confirmed via multiple sources
+  - Consensus EPS: $1.75–$1.77 / Revenue: $23.6–$24.05B
+  - RTX beat EPS consensus 8/8 last quarters, avg surprise +12.0%; last Q: $1.89 vs $1.66 est (+$0.23)
+  - FY2026 guidance already raised to $6.90 EPS, sales up to $93.5B — management confidence signal
+  - Expected ±4.99% move on earnings; "Moderate Buy" consensus, avg PT $228.58
+- **10Y yield**: No live Oct 19 data retrieved; last confirmed ~5.28% (Oct 5); hot macro regime ongoing
+- **HOLD confirmed**: Day before binary earnings event — absolute no-entry rule intact
+- **Actions taken**: None (no positions, no orders, no losers to cut, no stops to tighten)
+- **Next key event**: RTX Q3 earnings Oct 20 pre-market → assess Oct 21 post-earnings entry per checklist
+
