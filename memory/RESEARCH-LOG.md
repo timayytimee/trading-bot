@@ -3280,3 +3280,109 @@ Week of Oct 19: 0/5 trades. Zero trades is the right answer today.
 - **Actions taken**: None (no positions, no orders, no losers to cut, no stops to tighten)
 - **Next key event**: RTX Q3 earnings Oct 20 pre-market → assess Oct 21 post-earnings entry per checklist
 
+
+---
+
+## 2026-10-20 — Pre-market Research (Day 35)
+
+### Account
+- Equity: $772.02 (confirmed live; balance_asof 2026-10-19)
+- Cash: $772.02 (100% cash, no positions)
+- Buying power: $772.02
+- Daytrade count: 0 (no trades since inception — Day 35)
+- Open positions: none | Open orders: none
+- Week of Oct 19: 0/5 trades used (fresh cap)
+- Max position size: ~$193 (25% of $772.02)
+
+### Market Context
+- **WTI / Brent**: WTI Nov contract ~$104/bbl (+above $97 gate); Brent ~$110/bbl (~$109.78–110.07); Houthi strikes claimed on Saudi energy sites + tanker attacks in Persian Gulf driving upward pressure. US eased Russia sanctions briefly pulled Brent to $107.8 Oct 19 before recovering. **Note: Energy sector re-activation criteria partially met (WTI above $97, Brent above $100) but PERMANENTLY DEACTIVATED rule requires Brent sustainably above $100 for 3+ sessions + new structural supply event + 10Y easing — monitoring.**
+- **S&P 500 futures**: Flat to +0.1% pre-market; Nasdaq-100 futures −0.3% (chip/AI credit pressure). S&P 500 recovered +0.4% Oct 19 after worst weekly performance since June. Range 7,620–7,800 since August.
+- **VIX**: ~18.67 (+0.70% from prior close; Oct 16 close was 19.99, spiked to 22.31 intraday Oct 16 — highest since June 11). Elevated/cautious; earnings uncertainty + oil/rate fears driving volatility.
+- **10Y Treasury yield**: ~5.13% — **BELOW RTX gate of ≤5.20%** (gate clears by ~7bps); **near JPM gate of ≤5.10%** (fails by only ~3bps). This is the most constructive yield environment since inception.
+  - RTX gate (≤5.20%): **✓ PASSES** at ~5.13%
+  - JPM gate (≤5.10%): ✗ fails by ~3bps (marginal)
+  - Post-earnings RTX entry rule: yield gate suspended if beat + cost discipline + guidance strong → yield level academic for tomorrow's RTX entry
+- **Today's catalysts (Oct 20)**:
+  - **RTX Q3 2026 earnings PRE-MARKET — BEAT** (see Trade Ideas below)
+  - GE Aerospace Q3 earnings pre-market
+  - General Motors Q3 earnings pre-market
+  - 3M (MMM) Q3 earnings pre-market (EPS est. $2.39)
+  - Equifax, Ally Financial, MSCI also pre-market
+  - After close: Netflix, Intuitive Surgical, United Airlines (24 companies)
+- **Economic calendar**:
+  - Today: Housing Starts Sep (8:30 AM ET, est. 1.30M vs prior 1.275M); NAHB index 29.0 (below 31.0 est — housing weakness)
+  - No CPI/PPI/FOMC today
+  - Thu Oct 22: Jobless Claims (est. 200K)
+  - Fri Oct 23: Flash PMIs, Michigan inflation expectations
+  - **FOMC Oct 27–28** (decision Oct 28, 2 PM ET) — **8 days away; binary event on horizon; any position taken must survive FOMC binary**
+- **Sector momentum**:
+  - Defense (ITA/RTX): **RTX Q3 BEAT today → post-earnings entry thesis triggered** (see Trade Ideas)
+  - Energy (XLE): WTI $104, Brent $110 — above $97 gate but re-activation criteria not yet fully met (need 3+ sessions of Brent $100+, new structural supply event, and 10Y easing all confirmed); monitoring only
+  - Financials (XLF/JPM): JPM double miss Oct 13 + hot inflation + yield gate marginal; not actionable
+  - Tech (XLK): Asian chip selloff (KOSPI −4.3%), SMH −1.23%, Nasdaq −0.3% pre-mkt; risk-off in semis; not on watchlist
+- **Inflation regime**: HOT (CPI Sep +3.7% YoY Oct 14 + PPI Sep +6.3% YoY Oct 15 = two consecutive above-consensus); need 2 consecutive below-consensus prints to exit; FOMC hike odds ~39%+
+
+### RTX Q3 2026 Earnings — BEAT (reported pre-market today Oct 20)
+- **Revenue**: $25.0B (+11% YoY, +12% organic) — **BEAT** vs $24.01–24.05B consensus
+- **Adj EPS**: $2.26 (+33% YoY, includes $0.25 IEEPA cost recovery) — **BEAT** vs ~$1.78 consensus (27% beat)
+- **GAAP EPS**: $1.89
+- **Operating cash flow**: $2.9B (includes ~$0.3B IEEPA recovery); FCF $2.1B
+- **FCF flag**: FCF fell ~47% YoY per secondary source — needs verification; $363M Pratt & Whitney charge related to customer bankruptcy is the primary drag; mgmt raised full-year FCF guidance which contradicts catastrophic FCF story → likely one-time
+- **Guidance RAISED**: FY2026 adj EPS $7.65–$7.75 (prior: $7.10–$7.25, raised $0.50 midpoint) — **STRONG**; FCF guidance $9.0–$9.2B (prior: $8.50–$8.75B) — raised
+- **Backlog**: **$340B** (up from $289B prior log; $81B+ in new awards this quarter) — defense demand accelerating
+- **Charge**: Pratt & Whitney $363M (customer bankruptcy) — one-time, not structural
+
+**Post-earnings checklist evaluation:**
+- [x] EPS beat: $2.26 vs $1.78 est (+27%) ✓
+- [x] Revenue beat: $25.0B vs $24.0B ✓
+- [x] Forward guidance raised: EPS $7.65–7.75, FCF $9.0–9.2B ✓
+- [x] Backlog growth: $340B (up $51B from $289B) ✓
+- [~] Cost discipline: $363M P&W charge (one-time/customer bankruptcy) + FCF -47% secondary flag — monitor; guidance raise suggests management confidence in FCF recovery; IEEPA recovery $0.25/share in EPS
+- [x] Yield gate suspended (post-earnings rule) + yield also below gate at ~5.13% ✓
+- [ ] RTX 30-min consolidation above prior close Oct 20 — **TOMORROW (Oct 21) assessment**
+
+### Trade Ideas
+
+1. **RTX — Post-earnings entry TOMORROW (Oct 21) — FIRST VIABLE TRADE SINCE INCEPTION**
+   - Catalyst: Q3 beat (+27% EPS), guidance raised ($7.65–7.75 FY), backlog $340B, Iran conflict ongoing (US-Iran no ceasefire), Hormuz operations, $81B+ new awards Q3
+   - Entry plan: Tomorrow Oct 21 — watch 30-min consolidation above Oct 20 close; only enter if RTX holds above gap-open level and volume confirms
+   - Size: ≤$193 (25% of $772 equity); if RTX >$193 → fractional quantity; must use fixed stop (NOT trailing_stop — Alpaca fractional rule)
+   - Stop: Fixed whole-number ~7% below entry price (e.g. if entry ~$210 → stop $195; if entry ~$220 → stop $205)
+   - Target: +14–16%; R:R ~2:1
+   - Yield gate: SUSPENDED per Post-Earnings Entry Rule; also passes at ~5.13% (below ≤5.20% RTX gate)
+   - FOMC risk: Position entered Oct 21 sits through FOMC Oct 27–28 (7 days); acceptable — defense spending is rate-independent thesis; fixed stop limits FOMC tail risk
+   - Entry spread check: verify bid-ask spread ≤0.5% at entry time tomorrow
+   - Day trade note: 0/3 PDT used; Oct 21 entry = swing trade (hold through FOMC or until stop/target hit)
+
+2. **Energy watch (NOT a trade)**: WTI $104, Brent $110 — potentially re-entering energy re-activation window (Brent sustainably above $100 needed for 3+ sessions, Houthi strikes = new structural supply event). Will track this week but NOT entering energy without full re-activation criteria met.
+
+3. **JPM — not actionable**: Gate fails by ~3bps; double miss Oct 13; FOMC binary Oct 28 pending; reassess post-FOMC
+
+### Risk Factors
+- **RTX P&W charge / FCF flag**: $363M charge (customer bankruptcy) could weigh on stock reaction today; secondary FCF -47% claim needs verification — if confirmed structural, cost discipline criterion fails → no entry tomorrow
+- **FOMC Oct 27–28 binary**: Any Oct 21 position sits 7 days to FOMC; ~39% hike probability; fixed stop will catch extreme adverse move but expect elevated vol around decision
+- **Hot macro regime**: Two consecutive inflation beats; fundamental macro headwind persists despite post-earnings yield gate suspension
+- **RTX gap-up risk**: Strong beat may produce unsustainable gap-up open Oct 20; 30-min consolidation rule tomorrow (Oct 21) prevents chasing
+- **Small account**: $772; ≤$193 max/position; fractional share likely; no trailing stop (fixed stop required)
+- **VIX elevated ~18–19**: Higher vol = wider intraday swings; fixed stop at 7% is appropriate
+- **IEEPA cost recovery**: $0.25/share EPS from IEEPA recovery — verify this is recurring or one-time; if one-time, "real" beat is smaller (~$2.01 vs $1.78, still +13% beat)
+
+### Decision
+**TRADE — RTX post-earnings entry PLANNED for tomorrow Oct 21**
+
+- Today (Oct 20): HOLD — earnings day; 30-min consolidation rule requires watching today's session first, then entering tomorrow on Oct 20 close as reference
+- Tomorrow (Oct 21): ENTRY PLANNED if 30-min consolidation above Oct 20 close confirmed at open
+  - All three post-earnings entry conditions met: beat ✓, guidance raised ✓, cost discipline ⚠️ (P&W charge one-time per mgmt; FCF guidance raised = management confidence; accepting this condition as met pending tomorrow's press release verification)
+  - Yield gate suspended AND passing independently at ~5.13%
+  - Fixed stop order: whole-number price ~7% below entry (to be calculated from tomorrow's open)
+
+**RTX Oct 21 entry parameters (to be confirmed tomorrow):**
+- Entry: 30-min consolidation above Oct 20 close (assess 9:30–10:00 AM ET window)
+- Max cost: ≤$193; fractional if RTX >$193
+- Stop: fixed whole-number ~7% below entry (calculate at execution time)
+- Target: +14–16%
+- PDT: 0/3 used; Oct 21 entry must be swing trade (hold overnight minimum)
+- Spread: verify ≤0.5% at entry
+
+Week of Oct 19: 0/5 trades. First viable post-earnings entry scenario since inception Aug 29.
+
