@@ -187,3 +187,16 @@ Events: JPM Q3 miss (EPS $5.57 vs $5.93) + CPI +3.7% YoY + PPI +6.3% YoY (hottes
 FOMC Oct 27-28 hike odds ~39%; RTX earnings Mon Oct 20 → post-earnings entry Oct 21 if beat
 Takeaway: Correct HOLD week (avoided trap-laden inflation + earnings miss setup)
 Grade: D
+
+---
+## 2026-10-20 (fallback — Telegram 403)
+EOD 2026-10-20
+Portfolio: $772.02 (+0.0% day, +0.0% phase)
+Cash: $772.02 (100%)
+Trades today: none (HOLD — RTX earnings day)
+Open positions: none
+Week of Oct 19: 0/5 trades
+---
+RTX Q3 BEAT: EPS $2.26 vs $1.78 est (+27%), rev $24.97B beat, guidance raised $7.65-7.75 FY, backlog $340B (record). Muted reaction ~-1% on day (opened +2%, faded). Close ~$190-191. Thesis intact.
+10Y ~5.13% (below RTX gate ≤5.20%; yield gate also suspended post-earnings)
+Tomorrow: RTX post-earnings entry — assess 30-min consolidation above ~$190-191 at 9:30-10 AM ET; ≤$193 notional, fixed stop ~7% below entry; verify spread ≤0.5%; FOMC Oct 27-28 in 8 days

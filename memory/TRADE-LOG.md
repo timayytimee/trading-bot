@@ -408,3 +408,14 @@ $2,000 typo — corrected 2026-09-03. The HOLD itself was a legitimate risk call
 | — | — | — | — | — | — | — |
 
 **Notes:** Full HOLD — 34th consecutive session with equity flat at $772.02 (0 trades since inception). Alpaca confirms equity $772.02 (balance_asof 2026-10-16), no positions, no open orders. Week of Oct 19: 0/5 trades (fresh cap). RTX Q3 earnings report pre-market tomorrow (Oct 20) is the single most important near-term catalyst — this is the last pre-positioning day and entry is not taken (hot macro regime active per Inflation Regime Rule: CPI +3.7% YoY Oct 14 + PPI +6.3% YoY Oct 15 = two consecutive above-consensus prints). Post-earnings entry rule applies: if RTX beats + cost discipline + forward guidance strong → yield gate suspended → entry Oct 21 on 30-min consolidation above prior close with fixed stop (fractional rule). Financials (JPM) yield gate (≤5.10%) remains blocked; energy permanently deactivated. FOMC Oct 27–28 is the next binary macro event — any position entered must be sized to survive that binary. Week of Oct 19: 0/5 trades.
+
+---
+
+### Oct 20 — EOD Snapshot (Day 35, Tuesday)
+**Portfolio:** $772.02 | **Cash:** $772.02 (100%) | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| — | — | — | — | — | — | — |
+
+**Notes:** HOLD — RTX earnings day; no entry per post-earnings consolidation rule (30-min consolidation must be assessed on Oct 21 against today's close). RTX Q3 2026 beat pre-market: adj EPS $2.26 vs $1.78 est (+27%), revenue $24.97B vs $24.09B est (+4%), FY2026 adj EPS guidance raised to $7.65–7.75 (from $7.10–7.25), FCF guidance raised to $9.0–9.2B; backlog $340B (record, +$51B QoQ). Post-earnings reaction muted — opened ~+2% (~$196), drifted back to ~$190–191 by midday (beat largely expected; no sell-the-news collapse). Oct 19 close was $192.11; Oct 20 close ~$190–191 (reference level for tomorrow's entry). 10Y yield ~5.13% — independently below RTX ≤5.20% gate AND post-earnings yield gate suspended per Post-Earnings Entry Rule. Alpaca confirms equity $772.02 (balance_asof 2026-10-19), no positions, no open orders. Week of Oct 19: 0/5 trades. Tomorrow (Oct 21): RTX post-earnings entry — assess 9:30–10:00 AM ET 30-min consolidation above ~$190–191 close; if confirmed, enter ≤$193 notional, fixed whole-number stop ~7% below entry (e.g. entry $192 → stop $179), verify spread ≤0.5% at entry. FOMC Oct 27–28 (8 days) is the next binary event — fixed stop manages tail risk.
