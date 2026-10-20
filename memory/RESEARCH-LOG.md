@@ -3386,3 +3386,31 @@ Week of Oct 19: 0/5 trades. Zero trades is the right answer today.
 
 Week of Oct 19: 0/5 trades. First viable post-earnings entry scenario since inception Aug 29.
 
+
+---
+
+### Oct 20 — Midday Scan Addendum (RTX Earnings Day)
+
+**Time**: ~midday ET | **Source**: midday.md routine
+
+**RTX intraday snapshot:**
+- Last trade: $190.62 | Bid: $190.00 | Ask: $193.30
+- Intraday spread: ~1.7% (expected on earnings day — wide vol; recheck tomorrow AM before entry)
+- vs Oct 14 close $186.32: **+$4.30 (+2.3%)** — positive earnings reaction, no sell-the-news collapse
+- Earnings beat thesis intact: EPS $2.26 vs $1.78 est (+27%), guidance raised, backlog $340B — no reversal or breakdown in price
+
+**Thesis check (Step 5):** INTACT
+- RTX holding above gap-open level; stock up on earnings day (not reversing)
+- No thesis-breaking news: no US-Iran ceasefire, no defense spending cuts, no structural P&W issue disclosed
+- Positive reaction at ~+2.3% is constructive for tomorrow's consolidation entry (not an exhausted +10% blow-off)
+
+**Tomorrow (Oct 21) entry parameters (updated from midday price):**
+- Reference close: ~$190–191 (exact close TBD EOD)
+- Entry: 30-min consolidation above Oct 20 close, 9:30–10:00 AM ET
+- Max size: ≤$193 notional; RTX at ~$190–195 → likely 1 share (fractional if needed; MUST use fixed stop)
+- Fixed stop: ~7% below entry (e.g. entry $192 → stop $179; entry $190 → stop $177)
+- Spread gate: must verify ≤0.5% at entry time tomorrow (today spread wide, OK to enter with normal spread tomorrow)
+- Yield gate: suspended (post-earnings rule) AND independently cleared (~5.13% < 5.20% RTX gate)
+- FOMC Oct 27–28: 7 days away; fixed stop manages tail risk
+
+**No action taken today (HOLD per plan — earnings day consolidation rule)**
